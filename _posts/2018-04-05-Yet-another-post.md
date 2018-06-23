@@ -41,6 +41,7 @@ antris **agricolam et** terque dedit non numeri dentes. Speratque serpens arvis
 sedebat ubi currus exiguo bracchia, amici est Byblida essemus edidit illud
 innixus haec terrae aut.
 
+    {% highlight C# %}
     if (1 >= printer_php_surge(tween_carrier_plain, multi, router)) {
         repeater += compile_session_impression * flat_remote;
     } else {
@@ -52,6 +53,7 @@ innixus haec terrae aut.
     ergonomics_xml *= localhost - maskComputingExpansion * stick_mbr_access;
     hot -= 40;
     desktop(peopleware, 5 + 62, 3);
+    {% endhighlight %}
 
 Digitoque respiciens animam montana fit grates ara dentes quoque ignibus? Quoque
 flectit; hic titulum cerva digredimur vos habebat.

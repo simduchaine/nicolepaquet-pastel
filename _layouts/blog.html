@@ -1,0 +1,42 @@
+{% include header.html %}
+
+<section id="blog" class="articles">
+    <div class="container">
+
+        {% for post in site.posts %}
+        
+        <div class="row equal-height">
+
+            <div class="col-10 col-lg-6">
+                <div class="card">
+                    <div class="img-wrapper">
+                        {% if post.image %}
+                            <img class="card-img-top" src="{{ post.image }}">
+                        {% endif %}
+                        <div class="view-link">
+                              <a href="{{ post.url }}"><i class="fa fa-link" aria-hidden="true"></i></a>
+                      </div>
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title"> {{ post.title }}</h5>
+                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel volutpat felis, eu condimentum massa.Pellentesque vel volutpat felis, eu condimentum massa.</p>
+                        <a href=" {{ post.url }}" class="card-link">Lire plus</a>
+                  </div>
+                  <div class="card-footer">
+                      <div class="float-left"><span class="icon"><i class="far fa-calendar" aria-hidden="true"></i></span>  {{ post.date | date: "%-d %B %Y" }}</div> 
+                      <div class="float-right"><span class="icon"><i class="far fa-comments" aria-hidden="true"></i></span>  6 commentaires</div>
+                  </div>
+                </div>
+            </div>
+
+        </div>
+
+        {% endfor %}
+
+    </div>
+
+</section>
+
+
+
+{% include footer.html %}
