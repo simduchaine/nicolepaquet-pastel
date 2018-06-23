@@ -1,0 +1,31 @@
+
+{% include header.html %}
+
+<div class="blog-content" >
+    <div class="container">
+        <div class="row justify-content-between">
+
+            <div class="col-lg-8">
+
+                <div class="card">
+                    <img class="card-img-top" src="{{ page.image }}">
+                    <div class="card-body">
+                        <h5 class="card-title display-5">{{ page.title }}</h5>
+							    <div class="article-date"><span class="icon"><i class="far fa-calendar" aria-hidden="true"></i></span>  {{ page.date | date: "%-d %B %Y" }}</div>
+							    <p>{{content}}</p>
+							    <p>Tags: <a href="#" class="card-link">Lorem</a><a href="#" class="card-link">ipsum</a> {{ page.tags }} </p>
+                    </div>						
+                </div>
+                
+            </div>
+
+            <div class="col-lg-3 sidebar">
+                
+                {% include sidebar.html %}
+
+            </div>
+
+        </div>       
+
+    </div>
+</div>
