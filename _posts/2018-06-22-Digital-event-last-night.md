@@ -1,12 +1,14 @@
 ---
 layout: post
 title: Digital event last night
+lead: Lorem ipsum dolor
 image: "https://picsum.photos/690/453/?image=1049"
 date:   2018-06-22 15:22:13 -0400
 categories: lorem ispum
 tags: 
  - test
  - tags
+comments: true
 ---
 
 Nulla cillum cillum adipisicing deserunt ex voluptate officia magna ea sit reprehenderit eu. Eu dolore irure ea officia sunt incididunt aute id nulla ullamco. Officia anim culpa sint eu proident veniam reprehenderit et.

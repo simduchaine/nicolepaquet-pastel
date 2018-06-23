@@ -129,11 +129,14 @@ blockquote {
     margin-left: 0;
     margin-right: 0;
     padding: 0 1.5rem;
-    color: #4F4F4F;
-    line-height: 1.30em;
+    margin-bottom: 1rem;
 }
 
-
+blockquote p {
+    color: #4F4F4F;
+    font-size: 1.25rem;
+    line-height: 1.30em;
+}
 
 a {
     color: inherit;
@@ -465,6 +468,10 @@ a.main-btn:hover {
 
 .recent-articles .media + .media {
     padding-top: 1em;
+}
+
+.recent-articles .media img {
+    max-width: 35%;
 }
 
 .cloud-tag a {

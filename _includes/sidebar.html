@@ -3,21 +3,21 @@
 <div class="widget recent-articles">
     <h3>Articles recents</h3>
 
-    <div class="media">
-      <img class="mr-3 align-self-center" src="https://picsum.photos/90/90/?image=1045" alt="Generic placeholder image">
-      <div class="media-body">
-        <h5 class="mt-0">Lorem ipsum dolor</h5>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-      </div>
-    </div>
+    {% for post in site.posts limit:3 %}       
 
     <div class="media">
-      <img class="mr-3 align-self-center" src="https://picsum.photos/90/90/?image=1023" alt="Generic placeholder image">
+      <a href="{{ BASE_PATH }}{{ post.url }}">
+      {% if post.image %}
+        <img class="mr-3 align-self-center" src="{{ post.image }}" alt="Generic placeholder image">
+      {% endif %}
       <div class="media-body">
-        <h5 class="mt-0">Lorem ipsum dolor</h5>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing</p>
+        <h5 class="mt-0">{{ post.title }}</h5>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
       </div>
+      </a>
     </div>
+
+    {% endfor %}
 
 </div>
 

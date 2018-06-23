@@ -38,7 +38,7 @@
         <div id="header" class="container">
 
         	<nav class="navbar navbar-light navbar-expand-lg">
-			  <a class="navbar-brand" href="/index.html">
+			  <a class="navbar-brand" href="{{ site.url }}">
 			  	<img src="/assets/img/logo.png" width="230" alt="">
 			  </a>
 
@@ -72,3 +72,18 @@
 			</nav>
 
 		</div>
+
+		<div class="subheader">
+        	<div class="container">
+        		<div class="row">
+		        	<div class="col-md">
+		        		<h2 class="title-page">{{ page.title }}</h2>
+		        		<p class="lead">{{ page.lead }}</p>
+		        	</div>
+
+		        	<div class="col-md">
+		        		{% include breadcrumbs.html %}
+		        	</div>
+		        </div>
+	        </div>
+        </div>

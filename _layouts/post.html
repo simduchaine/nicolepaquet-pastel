@@ -12,7 +12,7 @@
                     <div class="card-body">
                         <h5 class="card-title display-5">{{ page.title }}</h5>
 							    <div class="article-date"><span class="icon"><i class="far fa-calendar" aria-hidden="true"></i></span>  {{ page.date | date: "%-d %B %Y" }}</div>
-							    <p>{{content}}</p>
+							    <div>{{content}}</div>
 							    <p>Tags: <a href="#" class="card-link">Lorem</a><a href="#" class="card-link">ipsum</a> {{ page.tags }} </p>
                     </div>						
                 </div>
@@ -29,3 +29,21 @@
 
     </div>
 </div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-8">
+
+            {% if page.comments %}
+
+            <h3>Commentaires</h3>
+
+            {% include comments.html %}
+
+            {% endif %}
+
+        </div>
+    </div>
+</div>
+
+{% include footer.html %}
