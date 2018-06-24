@@ -5,6 +5,17 @@ fields:
 - name: layout
   label: Layout
   type: text
+  hidden: true
+  default: post
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+  default: ''
+- name: date
+  label: Date
+  type: datetime
   hidden: false
   default: ''
 - name: lead
@@ -12,11 +23,9 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: image
+- type: file
+  name: image
   label: Image
-  type: text
-  hidden: false
-  default: ''
 - name: categories
   label: Categories
   type: tag_list
@@ -27,8 +36,6 @@ fields:
   type: tag_list
   hidden: false
   default: ''
-- name: date
-  label: Date
-  type: datetime
-  hidden: false
-  default: ''
+- type: boolean
+  name: comments
+  label: Comments
