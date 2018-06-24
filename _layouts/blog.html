@@ -1,11 +1,16 @@
+
 {% include header.html %}
 
 <section id="blog" class="articles">
     <div class="container">
 
-        {% for post in site.posts %}
+        {% assign rows = paginator.total_posts | divided_by: 2.0 | ceil %}
+        {% for i in (1..rows) %}
+            {% assign offset = forloop.index0 | times: 2 %}
         
         <div class="row equal-height">
+
+            {% for post in paginator.posts limit:2 offset:offset %}
 
             <div class="col-10 col-lg-6">
                 <div class="card">
@@ -24,10 +29,12 @@
                   </div>
                   <div class="card-footer">
                       <div class="float-left"><span class="icon"><i class="far fa-calendar" aria-hidden="true"></i></span>  {{ post.date | date: "%-d %B %Y" }}</div> 
-                      <div class="float-right"><span class="icon"><i class="far fa-comments" aria-hidden="true"></i></span>  6 commentaires</div>
+                      <div class="float-right"><span class="icon"><i class="far fa-comments" aria-hidden="true"></i></span><a href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{post.id}}">0 Comments</a></div>
                   </div>
                 </div>
             </div>
+
+            {% endfor %}
 
         </div>
 
@@ -36,6 +43,36 @@
     </div>
 
 </section>
+
+
+<nav aria-label="Portfolio Page Navigation">
+    {% if paginator.total_pages > 1 %}
+    <ul class="pagination justify-content-center">
+        {% if paginator.previous_page %}
+        <li class="page-item disabled">
+            <a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl }}" tabindex="-1">Precedent</a>
+        </li>
+        {% endif %}
+
+        {% if paginator.page_trail %}
+            {% for trail in paginator.page_trail %}
+
+        <li {% if page.url == trail.path %}class="active"{% endif %}  class="page-item">
+            <a class="page-link" href="{{ trail.path | prepend: site.baseurl }}">{{ trail.num }}</a>
+        </li>
+
+            {% endfor %}
+        {% endif %}
+
+        {% if paginator.next_page %}
+        <li class="page-item">
+            <a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Suivant</a>
+        </li>
+        {% endif %}
+
+    </ul>
+    {% endif %}
+</nav> 
 
 
 
