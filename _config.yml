@@ -31,7 +31,8 @@ plugins:
   - jekyll-feed
   - jekyll-menus
   - jekyll-paginate-v2
-permalink: /:categories/:title
+  - jekyll-seo-tag
+permalink: /blogue/:categories/:title
 
 highlighter: rouge
 

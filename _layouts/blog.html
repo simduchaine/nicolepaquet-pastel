@@ -24,7 +24,7 @@
                     </div>
                     <div class="card-body">
                         <h5 class="card-title"> {{ post.title }}</h5>
-                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel volutpat felis, eu condimentum massa.Pellentesque vel volutpat felis, eu condimentum massa.</p>
+                        <p class="card-text">{{ post.excerpt | remove: '<p>' | remove: '</p>' | strip_html }}</p>
                         <a href=" {{ post.url }}" class="card-link">Lire plus</a>
                   </div>
                   <div class="card-footer">
@@ -49,15 +49,20 @@
     {% if paginator.total_pages > 1 %}
     <ul class="pagination justify-content-center">
         {% if paginator.previous_page %}
+        <li class="page-item">
+            <a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: 'index.html', '' }}" tabindex="-1">Precedent</a>
+        </li>
+        {% else %}
         <li class="page-item disabled">
             <a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: 'index.html', '' }}" tabindex="-1">Precedent</a>
         </li>
         {% endif %}
+        
 
         {% if paginator.page_trail %}
             {% for trail in paginator.page_trail %}
 
-        <li {% if page.url == trail.path %}class="active"{% endif %}  class="page-item">
+        <li {% if page.url == trail.path %}class="active page-item"{% endif %}  class="page-item">
             <a class="page-link" href="{{ trail.path | prepend: site.baseurl | replace: 'index.html', '' }}">{{ trail.num }}</a>
         </li>
 
@@ -68,12 +73,16 @@
         <li class="page-item">
             <a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: 'index.html', '' }}">Suivant</a>
         </li>
+        {% else %}
+        <li class="page-item disabled">
+            <a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: 'index.html', '' }}">Suivant</a>
+        </li>
         {% endif %}
 
     </ul>
     {% endif %}
 </nav> 
 
-
+<hr>
 
 {% include footer.html %}

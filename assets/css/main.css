@@ -195,6 +195,30 @@ a.main-btn:hover {
     color: #fff;
 }
 
+li.active a.page-link::before {
+    background: linear-gradient(-20deg, #b721ff 0%, #21d4fd 100%);
+    bottom: 0;
+    content: "";
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    transform: scaleX(1);
+    transform-origin: 0 50% 0;
+    z-index: -1;
+    color: #fff;
+    
+}
+
+.page-item.active .page-link {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.page-link:hover {
+    color: white;
+}
+
 .pagination {
     padding: 2.5em 0;
 }
@@ -284,7 +308,8 @@ a.main-btn:hover {
     color: #000;
 }
 
-.main-btn:hover::before {
+.main-btn:hover::before,
+.page-link:hover::before {
     transform: scaleX(1);
     transition-timing-function: cubic-bezier(0.52, 1.64, 0.37, 0.66);
 }
@@ -446,6 +471,10 @@ a.main-btn:hover {
     position: relative;
 }
 
+.comments {
+    margin-bottom: 5rem;
+}
+
 .userName {
     text-transform: capitalize;
     display: inline-block;
@@ -476,7 +505,7 @@ a.main-btn:hover {
 }
 
 .recent-articles .media img {
-    max-width: 35%;
+    object-fit: cover;
 }
 
 .cloud-tag a {
