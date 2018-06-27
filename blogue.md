@@ -1,9 +1,7 @@
 ---
 layout: blog
-pagination:
-  enabled: true
-menus: 
-  principal:
-    title: Blogue
-    weight: 2
+identifier: blog
+paginate:
+  per_page: 2
+  permalink: /blogue/page:num/
 ---
