@@ -32,7 +32,7 @@ plugins:
   - jekyll-menus
   - jekyll-paginate-v2
   - jekyll-seo-tag
-permalink: /blogue/:categories/:title
+permalink: /:categories/:title
 
 highlighter: rouge
 
