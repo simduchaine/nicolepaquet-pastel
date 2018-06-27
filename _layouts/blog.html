@@ -2,7 +2,7 @@
 {% include header.html %}
 
 <section id="blog" class="articles">
-    <div class="container">
+    <div class="container" >
 
         {% assign rows = paginator.total_posts | divided_by: 2.0 | ceil %}
         {% for i in (1..rows) %}
