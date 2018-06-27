@@ -2,5 +2,5 @@
 principal:
   - url: /blogue
     title: Blogue
-    weight: 2
+    weight: 3
     identifier: blog

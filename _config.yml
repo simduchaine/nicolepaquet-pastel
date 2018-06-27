@@ -32,7 +32,7 @@ plugins:
   - jekyll-menus
   - octopress-paginate
   - jekyll-seo-tag
-permalink: /:categories/:title
+permalink: /:categories/:title/
 
 highlighter: rouge
 
