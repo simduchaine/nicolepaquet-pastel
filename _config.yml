@@ -32,12 +32,16 @@ plugins:
   - jekyll-menus
   - octopress-paginate
   - jekyll-seo-tag
-permalink: /:categories/:title/
+permalink: /category/:categories/:title/
 
 highlighter: rouge
 
 kramdown:
   syntax_highlighter: rouge
+
+collections:
+  category:
+    output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

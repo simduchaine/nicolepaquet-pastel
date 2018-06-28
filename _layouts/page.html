@@ -1,11 +1,26 @@
 
 {% include header.html %}
 
-<div class="container">
+{% include subheader.html %}
 
-    {{ content }}
-
+<div class="blog-content" >
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <div class="card">
+                    {% if page.image %}
+                    <img class="card-img-top" src="{{ page.image }}">
+                    {% endif %}
+                    <div class="card-body">
+                        <h5 class="card-title display-5">{{ page.title }}</h5>
+                        {{ content }}
+                    </div>						
+                </div>
+            </div>
+        </div>       
+    </div>
 </div>
 
+<hr>
 
 {% include footer.html %}

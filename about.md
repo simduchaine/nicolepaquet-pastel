@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+# image: https://picsum.photos/690/453/?image=1049
 menus: 
   principal:
     title: About

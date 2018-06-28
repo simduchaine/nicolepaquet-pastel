@@ -1,6 +1,8 @@
 
 {% include header.html %}
 
+{% include subheader.html %}
+
 <div class="blog-content" >
     <div class="container">
         <div class="row justify-content-between">
@@ -8,7 +10,9 @@
             <div class="col-lg-8">
 
                 <div class="card">
+                    {% if post.image %}
                     <img class="card-img-top" src="{{ page.image }}">
+                    {% endif %}
                     <div class="card-body">
                         <h5 class="card-title display-5">{{ page.title }}</h5>
 							    <div class="article-date"><span class="icon"><i class="far fa-calendar" aria-hidden="true"></i></span>  {{ page.date | date: "%-d %B %Y" }}</div>
