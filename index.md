@@ -1,14 +1,10 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: page
-menus: 
-  principal:
-    title: Accueil
-    weight: 1
+layout: home
 ---
 
-# Hello World!
+## En 2013, je découvre le monde passionnant du pastel.
 
-This is a test page!
+{:.lead}
+La dureté variable des types de pastel et la diversité des supports m’ouvrent la voie à des années d’exploration.
+
+[À propos](/a-propos/){: .btn.main-btn}

@@ -1,0 +1,6 @@
+
+principal:
+  - url: /blogue
+    title: Blogue
+    weight: 3
+    identifier: blog

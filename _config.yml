@@ -30,14 +30,18 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-menus
-  - jekyll-paginate-v2
+  - octopress-paginate
   - jekyll-seo-tag
-permalink: /:categories/:title
+permalink: /category/:categories/:title/
 
 highlighter: rouge
 
 kramdown:
   syntax_highlighter: rouge
+
+collections:
+  category:
+    output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -52,6 +56,7 @@ kramdown:
 #   - vendor/ruby/
 
 
+<<<<<<< HEAD
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
 # The values here represent the defaults if nothing is set
@@ -112,3 +117,5 @@ pagination:
   indexpage: 'index'
 
 ############################################################
+=======
+>>>>>>> octopress_pagination

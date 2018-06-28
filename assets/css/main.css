@@ -417,6 +417,10 @@ li.active a.page-link::before {
     box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.15);
 }
 
+.latest-post {
+    max-height: 470px;
+}
+
 .portfolio-gallery .card:hover,
 .articles .card:hover {
     box-shadow: 0px 1px 35px 0px rgba(0, 0, 0, 0.3);

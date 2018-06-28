@@ -50,7 +50,7 @@
 			    <ul class="navbar-nav principal-nav">
 				{% for item in site.menus.principal %}
 			    	<li class="nav-item">
-			    		<a href="{{ item.url }}" {% if item.url == page.url %} class="nav-link active" {% else %} class="nav-link" {% endif %}>{{ item.title }}</a>
+			    		<a href="{{ item.url }}" {% if item.url == page.url or page.identifier == item.identifier %} class="nav-link active" {% else %} class="nav-link" {% endif %}>{{ item.title }}</a>
 			    	</li>
 				{% endfor %}
 			    </ul>
@@ -65,18 +65,3 @@
 			</nav>
 
 		</div>
-
-		<div class="subheader">
-        	<div class="container">
-        		<div class="row">
-		        	<div class="col-md">
-		        		<h2 class="title-page">{{ page.title }}</h2>
-		        		<p class="lead">{{ page.lead }}</p>
-		        	</div>
-
-		        	<div class="col-md">
-		        		{% include breadcrumbs.html %}
-		        	</div>
-		        </div>
-	        </div>
-        </div>
