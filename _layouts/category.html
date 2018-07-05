@@ -1,39 +1,42 @@
 ---
-layout: page
+layout: default
 ---
 
+<section id="blog" class="articles">
+  <div class="container" >
 
-<h2>Posts related to: {{ page.title }}</h2>
+    {% for post in site.categories[page.category] %}
 
-{% unless page.content == '' %}
-  <p>{{ page.content }}</p>
-{% endunless %}
+    {% cycle 'add row' : '<div class="row equal-height">', '' %}
 
-{% unless site.categories[page.category].size > 0 %}
-  <p>No posts in this category at this time.</p>
-{% endunless %}
+    <div class="col-10 col-lg-6">
+        <div class="card">
+            <div class="img-wrapper">
+                {% if post.image %}
+                    <img class="card-img-top" src="{{ post.image }}">
+                {% endif %}
+                <div class="view-link">
+                      <a href="{{ post.url }}"><i class="fa fa-link" aria-hidden="true"></i></a>
+              </div>
+            </div>
+            <div class="card-body">
+                <h5 class="card-title"> {{ post.title }}</h5>
+                <p class="card-text">{{ post.excerpt | remove: '<p>' | remove: '</p>' | strip_html }}</p>
+                <a href=" {{ post.url }}" class="card-link">Lire plus</a>
+          </div>
+          <div class="card-footer">
+              <div class="float-left"><span class="icon"><i class="far fa-calendar" aria-hidden="true"></i></span>  {{ post.date | date: "%-d %B %Y" }}</div> 
+              <div class="float-right"><span class="icon"><i class="far fa-comments" aria-hidden="true"></i></span><a href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{post.id}}">0 Comments</a></div>
+          </div>
+        </div>
+    </div>
 
-{% for post in site.categories[page.category] %}
-<div class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl }}">
-        <h2 class="post-title">            
-            {{ post.title }}
-        </h2>
-        {% if post.subtitle %}
-        <h3 class="post-subtitle">
-            {{ post.subtitle }}
-        </h3>
-        {% endif %}
-    </a>
-    <p class="post-meta">
-      Posted by 
-      {% if post.author %}
-        {{ post.author }}
-      {% else %}
-        {{ site.title }}
-      {% endif %} 
-      on {{ post.date | date: "%B %-d, %Y" }}
-    </p>
-</div>
-<hr>
-{% endfor %}
+    {% cycle 'end row' : '', '</div>' %}
+
+    {% endfor %}
+
+    {% cycle 'end row' : '', '</div>' %}
+
+    
+  </div>
+</section>
