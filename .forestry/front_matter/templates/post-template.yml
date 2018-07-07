@@ -39,5 +39,3 @@ fields:
 - type: boolean
   name: comments
   label: Comments
-pages:
-- _posts/2018-06-24-just-another-article-test.md

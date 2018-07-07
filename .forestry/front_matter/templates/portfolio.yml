@@ -1,0 +1,66 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: image
+  label: Image
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: categorie
+  label: Categorie
+  type: text
+  hidden: false
+  default: ''
+- name: metadata
+  label: Metadata
+  type: field_group
+  fields:
+  - name: year
+    label: Year
+    type: text
+    hidden: false
+    default: ''
+  - name: dimensions
+    label: Dimensions
+    type: text
+    hidden: false
+    default: ''
+  - name: support
+    label: Support
+    type: text
+    hidden: false
+    default: ''
+  - name: type
+    label: Type
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+- name: identifier
+  label: Identifier
+  type: text
+  hidden: false
+  default: portfolio
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: single-portfolio
+pages:
+- _portfolio/simon-2015.md
+- _portfolio/chef-de-bande-apache.md
+- _portfolio/vin-du-chateau.md
+- _portfolio/atypique.md
+- _portfolio/rueben-taylor.md
