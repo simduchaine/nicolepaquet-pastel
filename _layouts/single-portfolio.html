@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+<div class="container">
+
+    <div class="d-flex justify-content-center row">
+        <div class="col-lg-6 col-md-10 portfolio-img">
+            <img class="img-fluid" src="{{ page.image }}">
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="fiche col-lg-4">
+            <div class="card">
+              <div class="card-header">
+                <h4>Fiche Signalitique</h4>
+              </div>
+              <ul class="list-group list-group-flush">
+                <li class="list-group-item">Année: <span class="text-muted">{{ page.metadata.year }}</span></li>
+                <li class="list-group-item">Support: <span class="text-muted">{{ page.metadata.support }}</span></li>
+                <li class="list-group-item">Dimension: <span class="text-muted">{{ page.metadata.dimensions }}</span></li>
+                <li class="list-group-item">Type: <span class="text-muted">{{ page.metadata.type }}</span></li>
+              </ul>
+            </div>
+        </div>
+
+        <div class="col">
+            <h3>{{ page.title }}</h3>    
+            <hr>
+            {{ content }}
+
+            {% include prev-next.html %}			
+        </div>
+    </div>	
+
+</div>

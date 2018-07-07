@@ -421,6 +421,10 @@ li.active a.page-link::before {
     max-height: 470px;
 }
 
+.latest-post .card-img-top {
+    object-fit: cover;
+}
+
 .portfolio-gallery .card:hover,
 .articles .card:hover {
     box-shadow: 0px 1px 35px 0px rgba(0, 0, 0, 0.3);
@@ -460,6 +464,12 @@ li.active a.page-link::before {
 
 #blog {
     background: #fff;
+}
+
+
+#blog .card-img-top {
+    height: 360px;
+    object-fit: cover;
 }
 
 .blog-content {

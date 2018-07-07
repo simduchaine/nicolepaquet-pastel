@@ -1,4 +1,5 @@
 ---
+title: À Propos
 layout: page
 menus: 
   principal:

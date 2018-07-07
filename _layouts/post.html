@@ -17,10 +17,12 @@ layout: default
 							    <div class="article-date"><span class="icon"><i class="far fa-calendar" aria-hidden="true"></i></span>  {{ page.date | date: "%-d %B %Y" }}</div>
                                 <div>{{content}}</div>
 
+                                {% if page.tags.size > 0 %}
                                 <p>Tags: 
-                                {% for tag in page.tags %}
-                                    <a href="#" class="card-link">{{ tag }}</a>
-                                {% endfor %}
+                                    {% for tag in page.tags %}
+                                        <a href="#" class="card-link">{{ tag }}</a>
+                                    {% endfor %}
+                                {% endif %}
                                 </p>
                     </div>						
                 </div>

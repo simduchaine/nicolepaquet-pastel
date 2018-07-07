@@ -14,15 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Nicole Paquet - Portraitiste
-email: your-email@example.com
+email: nicole.paquet@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Nicole Paquet est une artiste et portraitiste québécoise. 
+  Voyez quelques-unes de ses plus belles œuvres et tableaux 
+  au pastel et à l'acrylique.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+facebook_username: nicolepaquetpastel
 
 # Build settings
 markdown: kramdown
@@ -43,6 +42,25 @@ collections:
   category:
     output: true
     permalink: /blogue/:collection/:name
+  portfolio:
+    output: true
+    permalink: /portfolio/:path/
+
+defaults:
+  -
+    scope:
+      path: "_posts" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      identifier: blog
+      layout: post
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "portfolio"
+    values:
+      identifier: portfolio
+      layout: single-portfolio
 
 
 # Exclude from processing.

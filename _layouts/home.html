@@ -9,6 +9,39 @@
     </div>
 </div>
 
+{% include portfolio-filters.html %}
+
+<section class="container portfolio-gallery">
+
+  <div class="row portfolio-deck justify-content-center">
+
+      {% assign sorted = site.portfolio | sort: 'date' %}
+      {% assign projects = sorted | reverse %}
+      {% for portfolio in projects limit:6 %}
+        <div class="mix {{ portfolio.categorie }} col-xl-4 col-md-8">
+            <div class="card bg-light">
+              <div class="img-wrapper">
+                <img class="card-img-top" src="{{ portfolio.image }}" alt="Card image cap">
+                <div class="view-link">
+                  <a href="{{ portfolio.url }}"><i class="fa fa-eye" aria-hidden="true"></i></a>
+                </div>
+              </div>
+              <div class="card-body">
+                <h3 class="card-title">{{ portfolio.title }}</h3>
+                <p class="card-text">{{ portfolio.categorie | capitalize }}</p>
+              </div>
+            </div>
+          </div>
+      {% endfor %}
+
+  </div>
+
+  <div class="row">
+    <a href="/portfolio/" class="btn mx-auto main-btn">Voir plus</a>
+  </div>
+
+</section>
+
 {% include latest-posts.html %}
 
 {% include footer.html %}
