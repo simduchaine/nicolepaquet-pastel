@@ -41,7 +41,7 @@ kramdown:
 collections:
   category:
     output: true
-    permalink: /blogue/:collection/:name
+    permalink: /blogue/:path/
   portfolio:
     output: true
     permalink: /portfolio/:path/
@@ -56,11 +56,23 @@ defaults:
       layout: post
   -
     scope:
-      path: "" # an empty string here means all files in the project
+      path: "_category"
+      type: "category"
+    values:
+      identifier: blog
+      layout: category
+  -
+    scope:
+      path: "_portfolio" # an empty string here means all files in the project
       type: "portfolio"
     values:
       identifier: portfolio
       layout: single-portfolio
+
+
+algolia:
+  application_id: KDTB2O253K
+  index_name:     npaquet-pastel # You can replace that with whatever name you want
 
 
 # Exclude from processing.
