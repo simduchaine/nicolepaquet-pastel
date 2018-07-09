@@ -1,15 +1,11 @@
 ---
+label: post-template
 hide_body: false
 is_partial: false
 fields:
-- name: layout
-  label: Layout
-  type: text
-  hidden: true
-  default: post
 - type: text
   name: title
-  label: Title
+  label: Titre
   config:
     required: true
   default: ''
@@ -39,3 +35,5 @@ fields:
 - type: boolean
   name: comments
   label: Comments
+pages:
+- _posts/2017-09-15-peindre-des-tomates.md
