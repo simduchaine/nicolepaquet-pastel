@@ -2,7 +2,7 @@
 title: Peindre des tomates. Émotions? Sensations?
 image: "/uploads/2017/09/DSC03328-13-620x413.jpg"
 categories: Mes-Pensees
-# comments: true
+comments: true
 ---
 
 Pourquoi des tomates vertes la nuit? Pourquoi pas? Y a pas de mauvais sujets ou de mauvais modèles!
