@@ -35,3 +35,5 @@ fields:
 - type: boolean
   name: comments
   label: Comments
+pages:
+- _posts/2017-09-15-peindre-des-tomates.md
