@@ -1,15 +1,11 @@
 ---
+label: post-template
 hide_body: false
 is_partial: false
 fields:
-- name: layout
-  label: Layout
-  type: text
-  hidden: true
-  default: post
 - type: text
   name: title
-  label: Title
+  label: Titre
   config:
     required: true
   default: ''
