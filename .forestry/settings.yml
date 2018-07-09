@@ -13,8 +13,7 @@ collections:
 - path: _posts
   label: Posts
   create: all
-  templates:
-  - post-template
+  default_front_matter_template: post-template
 - path: ''
   label: Pages
   create: all
