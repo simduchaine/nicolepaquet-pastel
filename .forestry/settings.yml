@@ -13,6 +13,8 @@ collections:
 - path: _posts
   label: Posts
   create: all
+  templates:
+  - post-template
 - path: ''
   label: Pages
   create: all
