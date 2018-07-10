@@ -9,11 +9,6 @@ fields:
   config:
     required: true
   default: ''
-- name: date
-  label: Date
-  type: datetime
-  hidden: false
-  default: ''
 - name: lead
   label: Lead
   type: text
