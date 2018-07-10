@@ -8,7 +8,7 @@ collections:
   label: Portfolio
   create: all
 - path: _category
-  label: Category
+  label: Catégories Blogue
   create: all
 - path: _posts
   label: Articles
