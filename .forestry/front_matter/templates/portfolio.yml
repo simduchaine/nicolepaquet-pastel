@@ -18,11 +18,9 @@ fields:
   default: ''
   config:
     display_utc: false
-- name: categorie
-  label: Categorie
-  type: text
-  hidden: false
-  default: ''
+- type: tag_list
+  name: categorie
+  label: Catégorie
 - name: metadata
   label: Fiche Signalitique
   type: field_group
