@@ -8,29 +8,30 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: image
+- type: file
+  name: image
   label: Image
-  type: text
-  hidden: false
-  default: ''
 - name: date
   label: Date
   type: datetime
   hidden: false
   default: ''
+  config:
+    display_utc: false
 - name: categorie
   label: Categorie
   type: text
   hidden: false
   default: ''
 - name: metadata
-  label: Metadata
+  label: Fiche Signalitique
   type: field_group
   fields:
-  - name: year
-    label: Year
-    type: text
-    hidden: false
+  - type: datetime
+    config:
+      date_format: YYYY
+    label: Année
+    name: year
     default: ''
   - name: dimensions
     label: Dimensions
@@ -49,16 +50,6 @@ fields:
     default: ''
   hidden: false
   default: ''
-- name: identifier
-  label: Identifier
-  type: text
-  hidden: false
-  default: portfolio
-- name: layout
-  label: Layout
-  type: text
-  hidden: false
-  default: single-portfolio
 pages:
 - _portfolio/simon-2015.md
 - _portfolio/chef-de-bande-apache.md
