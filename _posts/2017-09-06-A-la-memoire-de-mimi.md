@@ -4,7 +4,6 @@ image: "/uploads/2017/09/A-la-memoire-de-Mimi-pastel-23-X-33-cm-2017-457x413.jpg
 categories: Mes-Pensees
 comments: true
 ---
-
 J’ai vu Mimi, pour la première fois, en février dernier. C’était sur sa photo de jeune fille transmise avec son avis de décès.
 
 >« Alain [un ami], c’est certain que je vais faire le portrait de ta mère, un de ces jours! »
