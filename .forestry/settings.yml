@@ -11,7 +11,7 @@ collections:
   label: Category
   create: all
 - path: _posts
-  label: Posts
+  label: Articles
   create: all
   templates:
   - post-template
