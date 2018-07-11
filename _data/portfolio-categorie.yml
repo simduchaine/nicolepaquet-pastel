@@ -1,6 +1,12 @@
 ---
-- name: portraits
-- name: paysages
-- name: animaux
-- name: croquis
-- name: fleurs
+categories:
+  portraits:
+    name = "portraits"
+  paysages:
+    name = "paysages"
+  animaux:
+    name = "animaux"
+  croquis:
+    name = "croquis"
+  fleurs:
+    name = "fleurs"
