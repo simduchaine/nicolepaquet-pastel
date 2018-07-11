@@ -2,7 +2,7 @@
 title: Chef de bande Eskadi-Apache
 image: "/uploads/2018/04/chef-de-bande-apache.jpg"
 date: 2018-04-03 00:00:00 -0400
-categorie: animaux
+categorie: portraits
 metadata:
   year: 2017
   dimensions: 25x35 cm
