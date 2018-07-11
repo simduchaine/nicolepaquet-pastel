@@ -1,11 +1,2 @@
----
-portraits:
-  name = "portraits"
-paysages:
-  name = "paysages"
-animaux:
-  name = "animaux"
-croquis:
-  name = "croquis"
-fleurs:
-    name = "fleurs"
+--- portraits
+...
