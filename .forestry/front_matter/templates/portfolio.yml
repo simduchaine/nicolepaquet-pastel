@@ -50,6 +50,7 @@ fields:
     source:
       type: datafiles
       file: _data-portfolio-categorie-yml
+      path: Portfolio categorie
   label: Catégorie
   name: categorie
   default: 
