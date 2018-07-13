@@ -48,6 +48,11 @@
     <script src="/assets/js/vendor/mixitup.min.js"></script>
     <script id="dsq-count-scr" src="//npaquet-portrait.disqus.com/count.js" async></script>
     <script src="/assets/js/plugins.js"></script>
+    {% if page.custom_js %}
+    {% for js_file in page.custom_js %}
+    <script src="/assets/js/vendor/{{js_file }}.js" type="text/javascript"></script>
+    {% endfor %}
+    {% endif %}
     <script src="/assets/js/main.js"></script>
 
     </body>
