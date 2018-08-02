@@ -6,7 +6,7 @@ image: "/uploads/2018/08/Simon-portrait.jpg"
 categories:
 - Mes-Pensees
 tags: []
-comments: false
+comments: true
 
 ---
 Après quelques heures à faire le portrait de mon modèle, j’appose ma signature sur son portrait et  j’ai alors le sentiment profond que nous avons créé un lien qui nous unit à jamais. C’est un véritable moment de grâce.
