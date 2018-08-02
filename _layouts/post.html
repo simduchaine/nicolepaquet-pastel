@@ -18,12 +18,14 @@ layout: default
                                 <div>{{content}}</div>
 
                                 {% if page.tags.size > 0 %}
-                                <p>Tags: 
+                                <p class="cloud-tag">Tags: 
                                     {% for tag in page.tags %}
-                                        <a href="#" class="card-link">{{ tag }}</a>
+                                        <a href="#">{{ tag }}</a>
                                     {% endfor %}
                                 {% endif %}
                                 </p>
+
+                                {% include sharebar.html %}
                     </div>						
                 </div>
                 

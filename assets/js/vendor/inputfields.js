@@ -10,7 +10,7 @@
         })();
     }
 
-    [].slice.call( document.querySelectorAll( 'input.input__field' ) ).forEach( function( inputEl ) {
+    [].slice.call( document.querySelectorAll( 'input.input__field, textarea.input__field' ) ).forEach( function( inputEl ) {
         // in case the input is already filled..
         if( inputEl.value.trim() !== '' ) {
             classie.add( inputEl.parentNode, 'input--filled' );

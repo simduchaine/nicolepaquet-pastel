@@ -13,7 +13,7 @@
         <a href="{{ BASE_PATH }}{{ post.url }}">
             <h5 class="mt-0">{{ post.title }}</h5>
         </a>
-        {{ post.excerpt | strip_html | strip_newlines | truncate: 70 }}
+        {{ post.excerpt | strip_html | strip_newlines | truncate: 40 }}
       </div>
     </div>
 
@@ -29,17 +29,17 @@
     <h3>Categories</h3>
     <ul class="list-group list-group-flush">
         {% for category in site.categories %}        
-        <li class="list-group-item d-flex justify-content-between align-items-center">{{ category | first | capitalize }}<span class="badge badge-dark">{{ category | last | size }}</span></li>
+        <li class="list-group-item d-flex justify-content-between align-items-center"><a href="/blogue/{{ category | first | slugify}}">{{ category | first | capitalize }}</a><span class="badge badge-dark">{{ category | last | size }}</span></li>
         {% endfor %}
     </ul>
 </div>
 
+{% assign tags = site.tags | sort %}
 <div class="widget cloud-tag">
     <h3>Tags</h3>
-    <a href="#">Lorem</a>
-    <a href="#">Lorem Ipsum</a>
-    <a href="#">Dolor Sit</a>
-    <a href="#">Random Tag</a>
-    <a href="#">Cloud Tag</a>
-    <a href="#">Portrait</a>
+        {% for tag in tags %}
+        <a href="/blogue/tags/{{ tag | first | slugify }}/" style="font-size: {{ tag | last | size | times: 4 | plus: 90  }}%">
+            {{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})
+        </a>
+        {% endfor %}
 </div>

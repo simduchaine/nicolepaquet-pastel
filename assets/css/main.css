@@ -514,6 +514,10 @@ li.active a.page-link::before {
     padding-top: 2em;
 }
 
+.widget {
+    margin-bottom: 2rem;
+}
+
 .recent-articles .media + .media {
     padding-top: 1em;
 }
@@ -551,6 +555,9 @@ a:hover,
     text-decoration: none;
 }
 
+#map-canvas {
+    margin: 2rem 0 4rem;
+}
 
 footer {
     padding-top: 3em;

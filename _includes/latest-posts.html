@@ -2,48 +2,50 @@
 
 
 <section class="articles">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-8">
-                    <h2 class="text-center">Derniers articles</h2>
-                    <p class="lead text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel volutpat felis, eu condimentum massa. Pellentesque mollis eros vel mattis tempor.</p>
-                </div>
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-8">
+                <h2 class="text-center">Derniers articles</h2>
+                <p class="lead text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel volutpat felis, eu condimentum massa. Pellentesque mollis eros vel mattis tempor.</p>
             </div>
+        </div>
 
-            <div class="row equal-height">
+        <div class="row equal-height">
 
-            {% for post in site.posts limit:3 %}
+        {% for post in site.posts limit:3 %}
 
-                <div class="col-10 col-lg-4">
-                    <div class="card latest-post">
-                        <div class="img-wrapper">
-                            {% if post.image %}
-                            <img class="card-img-top" src="{{ post.image }}" width="340px" height="225px">
-                            {% endif %}
-                            <div class="view-link">
-                                  <a href="{{ post.url }}"><i class="fa fa-link" aria-hidden="true"></i></a>
-                            </div>
+            <div class="col-10 col-lg-4">
+                <div class="card latest-post">
+                    <div class="img-wrapper">
+                        {% if post.image %}
+                        <img class="card-img-top" src="{{ post.image }}" width="340px" height="225px">
+                        {% endif %}
+                        <div class="view-link">
+                                <a href="{{ post.url }}"><i class="fa fa-link" aria-hidden="true"></i></a>
                         </div>
-                        <div class="card-body">
-                            <h5 class="card-title">{{ post.title }}</h5>
-                            <p class="card-text">{{ post.excerpt | remove: '<p>' | remove: '</p>' | strip_html | truncatewords:10 }}</p>
-                            <a href="{{ post.url }}" class="card-link">Lire plus</a>
-                      </div>
-                      <div class="card-footer">
-                          <div class="float-left"><span class="icon"><i class="far fa-calendar" aria-hidden="true"></i></span>  {{ post.date | date: "%-d %B %Y" }}</div> 
-                          <div class="float-right"><span class="icon"><i class="far fa-comments" aria-hidden="true"></i></span><a href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{post.id}}">0 Comments</a></div>
-                      </div>
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">{{ post.title }}</h5>
+                        <p class="card-text">{{ post.excerpt | remove: '<p>' | remove: '</p>' | strip_html | truncatewords:10 }}</p>
+                        <a href="{{ post.url }}" class="card-link">Lire plus</a>
+                    </div>
+                    <div class="card-footer">
+                        <div class="float-left"><span class="icon"><i class="far fa-calendar" aria-hidden="true"></i></span>  {{ post.date | date: "%-d %B %Y" }}</div> 
+                        <div class="float-right"><span class="icon"><i class="far fa-comments" aria-hidden="true"></i></span><a href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{post.id}}">0 Comments</a></div>
                     </div>
                 </div>
-
-            {% endfor %}
-
-            <div class="row">
-                <a href="/blogue/" class="btn mx-auto main-btn">Voir plus</a>
             </div>
-            
 
-        </div>
+        {% endfor %}
+
+    </div>
+
+    <div class="row">
+        <a href="/blogue/" class="btn mx-auto main-btn">Voir plus</a>
+    </div>
+    
+
+        
     </section>
 
 

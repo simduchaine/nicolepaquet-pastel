@@ -5,7 +5,7 @@ categories:
 - Mes-nouveautes
 comments: true
 lead: ''
-tags: []
+tags: [Anthony Hopkins, Fusain]
 ---
 Sir Anthony Hopkins au fusain dans mon cahier de croquis! 
 
