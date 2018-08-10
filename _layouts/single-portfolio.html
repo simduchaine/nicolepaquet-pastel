@@ -17,7 +17,7 @@ layout: default
                 <h4>Fiche Signalitique</h4>
               </div>
               <ul class="list-group list-group-flush">
-                <li class="list-group-item">Année: <span class="text-muted">{{ page.metadata.year }}</span></li>
+                <li class="list-group-item">Année: <span class="text-muted">{{ page.metadata.year | date: "%Y" }}</span></li>
                 <li class="list-group-item">Support: <span class="text-muted">{{ page.metadata.support }}</span></li>
                 <li class="list-group-item">Dimension: <span class="text-muted">{{ page.metadata.dimensions }}</span></li>
                 <li class="list-group-item">Type: <span class="text-muted">{{ page.metadata.type }}</span></li>
