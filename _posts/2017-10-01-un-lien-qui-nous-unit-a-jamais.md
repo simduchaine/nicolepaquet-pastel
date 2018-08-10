@@ -1,6 +1,6 @@
 ---
 title: Un lien qui nous unit à jamais
-date: 2018-08-02 13:47:55 -0400
+date: 2017-10-01 13:47:55 -0400
 lead: ''
 image: "/uploads/2018/08/Simon-portrait.jpg"
 categories:

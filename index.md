@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Accueil
 ---
 
 ## En 2013, je découvre le monde passionnant du pastel.
