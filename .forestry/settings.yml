@@ -9,6 +9,8 @@ sections:
   label: Portfolio
   create: all
   match: "**/*"
+  templates:
+    - portfolio
 - type: directory
   path: _category
   label: Catégories Blogue
