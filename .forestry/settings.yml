@@ -10,7 +10,7 @@ sections:
   create: all
   match: "**/*"
   templates:
-    - portfolio
+  - portfolio
 - type: directory
   path: _category
   label: Catégories Blogue
