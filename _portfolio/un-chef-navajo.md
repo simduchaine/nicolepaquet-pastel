@@ -10,6 +10,7 @@ metadata:
   support: ''
   type: Craie blanche sur fond noir
 categorie: portraits
+published: false
 
 ---
 Un chef Navajo. Craie blanche sur fond noir, 2018 
