@@ -31,6 +31,7 @@ plugins:
   - jekyll-menus
   - octopress-paginate
   - jekyll-seo-tag
+  - jekyll-archives
 permalink: /blogue/:categories/:title/
 
 highlighter: rouge
@@ -74,6 +75,13 @@ algolia:
   application_id: KDTB2O253K
   index_name:     npaquet-pastel # You can replace that with whatever name you want
 
+
+jekyll-archives:
+  enabled:
+    - tags
+  layout: 'tag-index'
+  permalinks:
+    tag: 'blogue/tags/:name/'
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

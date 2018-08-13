@@ -44,6 +44,8 @@ GEM
       nokogiri (~> 1.6)
       progressbar (~> 1.9)
       verbal_expressions (~> 0.1.5)
+    jekyll-archives (2.1.1)
+      jekyll (>= 2.4)
     jekyll-feed (0.10.0)
       jekyll (~> 3.3)
     jekyll-menus (0.6.0)
@@ -102,6 +104,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 3.8.3)
   jekyll-algolia
+  jekyll-archives
   jekyll-feed (~> 0.6)
   jekyll-menus
   jekyll-seo-tag
