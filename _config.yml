@@ -40,9 +40,9 @@ kramdown:
   syntax_highlighter: rouge
 
 collections:
-  category:
-    output: true
-    permalink: /blogue/:path/
+#  category:
+#    output: true
+#    permalink: /blogue/:path/
   portfolio:
     output: true
     permalink: /portfolio/:path/
@@ -57,11 +57,11 @@ defaults:
       layout: post
   -
     scope:
-      path: "_category"
-      type: "category"
+      path: "blogue"
+      type: "pages"
     values:
       identifier: blog
-      layout: category
+      #layout: category
   -
     scope:
       path: "_portfolio" # an empty string here means all files in the project
@@ -82,6 +82,9 @@ jekyll-archives:
   layout: 'tag-index'
   permalinks:
     tag: 'blogue/tags/:name/'
+
+category_dir: "blogue"
+category_title_prefix: ""
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
