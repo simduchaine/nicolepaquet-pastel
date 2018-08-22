@@ -11,11 +11,6 @@ sections:
   match: "**/*"
   templates:
   - portfolio
-- type: directory
-  path: _category
-  label: Catégories Blogue
-  create: all
-  match: "**/*"
 - type: jekyll-posts
   label: Articles
   create: all
