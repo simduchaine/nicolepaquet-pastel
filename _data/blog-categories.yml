@@ -1,6 +1,9 @@
 ---
-- name: Mes pensées
-  slug: mes-pensees
+categories:
+  Mes pensées:
+    name = "Mes pensées"
+    slug = "mes-pensees"
 
-- name: Mes nouveautés
-  slug: mes-nouveautes
+  Mes nouveautés:
+    name = "Mes nouveautés"
+    slug = "mes-nouveautes"
