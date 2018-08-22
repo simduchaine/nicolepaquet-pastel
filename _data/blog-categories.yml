@@ -1,6 +1,7 @@
 ---
 Categorie:
-    - Mes pensées
-        slug: mes-pensees
-    - Mes nouveautés
-        slug: mes-nouveautes
+    - name: Mes pensées
+      slug: mes-pensees
+      
+    - name: Mes nouveautés
+      slug: mes-nouveautes
