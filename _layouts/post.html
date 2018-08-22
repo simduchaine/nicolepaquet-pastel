@@ -28,6 +28,16 @@ layout: default
                                 {% include sharebar.html %}
                     </div>						
                 </div>
+
+                <div class="comments">
+                    {% if page.comments %}
+
+                    <h3>Commentaires</h3>
+
+                    {% include comments.html %}
+
+                    {% endif %}
+                </div>
                 
             </div>
 
@@ -39,21 +49,5 @@ layout: default
 
         </div>       
 
-    </div>
-</div>
-
-<div class="container comments">
-    <div class="row">
-        <div class="col-lg-8">
-
-            {% if page.comments %}
-
-            <h3>Commentaires</h3>
-
-            {% include comments.html %}
-
-            {% endif %}
-
-        </div>
     </div>
 </div>
