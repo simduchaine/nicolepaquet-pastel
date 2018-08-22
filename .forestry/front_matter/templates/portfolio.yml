@@ -55,9 +55,9 @@ fields:
   name: categorie
   default: 
 pages:
-- _portfolio/chef-de-bande-apache.md
-- _portfolio/atypique.md
-- _portfolio/simon-2015.md
-- _portfolio/rueben-taylor.md
-- _portfolio/vin-du-chateau.md
 - _portfolio/un-chef-navajo.md
+- _portfolio/rueben-taylor.md
+- _portfolio/simon-2015.md
+- _portfolio/atypique.md
+- _portfolio/chef-de-bande-apache.md
+- _portfolio/vin-du-chateau.md
