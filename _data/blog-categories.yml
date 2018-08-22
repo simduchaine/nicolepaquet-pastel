@@ -1,5 +1,7 @@
 ---
-- mes-pensees:
+Mes pensées:
     name: Mes pensées
-- mes-nouveautees: 
+    slug: mes-pensees
+Mes nouveautés: 
     name: Mes nouveautés
+    slug: mes-nouveautes
