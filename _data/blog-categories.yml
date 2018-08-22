@@ -1,5 +1,5 @@
 ---
-  - mes-pensees:
-      name: Mes pensées
-  - mes-nouveautees: 
-      name: Mes nouveautés 
+- mes-pensees:
+    name: Mes pensées
+- mes-nouveautees: 
+    name: Mes nouveautés
