@@ -3,7 +3,7 @@ title: À la rencontre de Edward S. Curtis, photographe ethnologue américain
 date: 2018-08-22 14:11:25 -0400
 lead: ''
 image: "/uploads/2018/08/DSC04289-4-620x413.jpg"
-categories: Mes nouveautés
+categories: mes-coups-de-coeur
 tags: []
 comments: true
 

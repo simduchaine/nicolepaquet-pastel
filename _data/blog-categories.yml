@@ -1,9 +1,13 @@
 ---
 categories:
- Mes pensées:
-  name: Mes pensées
-  slug: mes-pensees
+    mes-pensees:
+        name: Mes pensées
+        slug: mes-pensees
 
- Mes nouveautés:
-   name: Mes nouveautés
-   slug: mes-nouveautes
+    mes-nouveautes:
+        name: Mes nouveautés
+        slug: mes-nouveautes
+
+    mes-coups-de-coeur:
+        name: Mes coups de coeur
+        slug: mes-coups-de-coeur

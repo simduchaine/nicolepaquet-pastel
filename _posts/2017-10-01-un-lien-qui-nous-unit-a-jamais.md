@@ -4,7 +4,7 @@ date: 2017-10-01 13:47:55 -0400
 lead: ''
 image: "/uploads/2018/08/Simon-portrait.jpg"
 categories:
-- Mes-Pensees
+- mes-pensees
 tags: []
 comments: true
 

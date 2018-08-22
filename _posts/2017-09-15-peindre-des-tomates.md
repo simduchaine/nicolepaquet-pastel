@@ -1,7 +1,7 @@
 ---
 title: Peindre des tomates. Émotions? Sensations?
 image: "/uploads/2017/09/DSC03328-13-620x413.jpg"
-categories: Mes-Pensees
+categories: mes-pensees
 comments: true
 tags: [Tomates, Sensations]
 ---
