@@ -11,18 +11,22 @@ sections:
   match: "**/*"
   templates:
   - portfolio
+- type: document
+  path: _data/portfolio-categorie.yml
+  label: Catégories Oeuvres
+  match: "**/*"
 - type: jekyll-posts
   label: Articles
   create: all
   templates:
   - post-template
+- type: document
+  path: _data/blog-categories.yml
+  label: Catégories Articles
+  new_doc_ext: yml
 - type: jekyll-pages
   label: Pages
   create: all
-- type: document
-  path: _data/blog-categories.yml
-  label: Catégories Blogue
-  new_doc_ext: yml
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
