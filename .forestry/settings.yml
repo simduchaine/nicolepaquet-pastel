@@ -19,12 +19,11 @@ sections:
 - type: jekyll-pages
   label: Pages
   create: all
-- type: directory
-  path: _data
+- type: document
+  path: _data/blog-categories.yml
   label: Catégories oeuvres
-  create: none
   match: blog-categories.yml
-  new_doc_ext: ".yml"
+  new_doc_ext: yml
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
