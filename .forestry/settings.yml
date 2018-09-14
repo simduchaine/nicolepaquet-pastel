@@ -21,9 +21,9 @@ sections:
   create: all
 - type: directory
   path: _data
-  label: Catégories
-  create: all
-  match: "**/*"
+  label: Catégories oeuvres
+  create: none
+  match: blog-categories.yml
   new_doc_ext: ".yml"
 upload_dir: uploads
 public_path: "/uploads"
