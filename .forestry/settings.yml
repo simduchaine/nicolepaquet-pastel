@@ -14,7 +14,6 @@ sections:
 - type: document
   path: _data/portfolio-categorie.yml
   label: Catégories Oeuvres
-  match: "**/*"
 - type: jekyll-posts
   label: Articles
   create: all

@@ -48,9 +48,10 @@ fields:
 - type: select
   config:
     source:
-      type: datafiles
-      file: _data-portfolio-categorie-yml
+      type: documents
+      file: _data/portfolio-categorie.yml
       path: Portfolio categorie
+      section: categories-oeuvres
   label: Catégorie
   name: categorie
   default: 
