@@ -20,9 +20,10 @@ fields:
 - type: select
   config:
     source:
-      type: datafiles
-      file: _data-blog-categories-yml
+      type: documents
+      file: _data/blog-categories.yml
       path: categories
+      section: categories
   label: categories
   name: categories
 - name: tags
