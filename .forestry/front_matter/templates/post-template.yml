@@ -9,6 +9,10 @@ fields:
   config:
     required: true
   default: ''
+- type: datetime
+  label: Date
+  name: date
+  description: Date de publication
 - name: lead
   label: Lead
   type: text
