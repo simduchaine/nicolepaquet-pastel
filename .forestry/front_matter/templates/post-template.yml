@@ -35,6 +35,7 @@ fields:
   name: comments
   label: Comments
 pages:
+- _posts/Qui-suis-je-Où-vais-je.md
 - _posts/2017-09-15-peindre-des-tomates.md
 - _posts/2017-09-15-sir-anthony-hopkins.md
 - _posts/2017-08-29-Gandhi-1869-1948.md
