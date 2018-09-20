@@ -5,7 +5,7 @@ lead: ''
 image: "/uploads/2018/09/DSC0998.jpeg"
 categories: mes-pensees
 tags: []
-comments: false
+comments: true
 
 ---
 J'ai lancé mon site hier et je suis très heureuse du nombre élevé de visites...
