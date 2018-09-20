@@ -39,6 +39,7 @@ fields:
   name: comments
   label: Comments
 pages:
+- _posts/Simon,-un-enfant-devenu-adulte.md
 - _posts/2015-04-12-Des-peintres-fascinants.md
 - _posts/2015-03-15-Qui-suis-je-Où-vais-je.md
 - _posts/2017-09-15-peindre-des-tomates.md
