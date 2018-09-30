@@ -1,7 +1,7 @@
 ---
 label: curriculum.yml
-hide_body: 
-is_partial: 
+hide_body: false
+is_partial: false
 fields:
 - name: associations
   label: Associations
@@ -12,11 +12,9 @@ fields:
     type: text
     hidden: false
     default: ''
-  - name: logo
+  - type: file
     label: Logo
-    type: text
-    hidden: false
-    default: ''
+    name: logo
   - name: date
     label: Date
     type: datetime
@@ -33,15 +31,13 @@ fields:
     type: text
     hidden: false
     default: ''
-  - name: date_from
+  - type: datetime
     label: Date from
-    type: text
-    hidden: false
+    name: date_from
     default: ''
-  - name: date_till
+  - type: datetime
     label: Date till
-    type: text
-    hidden: false
+    name: date_till
     default: ''
   - name: teacher
     label: Teacher
