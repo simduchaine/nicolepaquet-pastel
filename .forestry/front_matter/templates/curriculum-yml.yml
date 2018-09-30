@@ -80,3 +80,5 @@ fields:
     label: Date till
   hidden: false
   default: ''
+pages:
+- _data/curriculum.yml
