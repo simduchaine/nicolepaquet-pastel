@@ -1,0 +1,106 @@
+
+{% include header.html %}
+
+{% include subheader.html %}
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-5 order-lg-2">
+            <img class="img-fluid float-right" src="{{ page.image }}">
+        </div>
+
+        <div class="col-lg-7 order-lg-1">
+
+            {{ content }}
+
+        </div>
+    </div>
+</div>
+
+
+<div class="articles">
+    <div class="container">
+
+        <div class="row justify-content-center">
+            <div class="col-8">
+                <h2 class="text-center">Associations</h2>
+                <p class="lead text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel volutpat felis, eu condimentum massa. Pellentesque mollis eros vel mattis tempor.</p>
+            </div>
+        </div>
+
+        {% for association in site.data.curriculum.associations %}
+        
+        {% cycle 'add row' : '<div class="row equal-height">', '' %}
+
+            <div class="col-lg-5">
+                <div class="cv-el">
+                    <img src="{{ association.logo }}">
+                    <h4>{{ association.name }}</h4>
+                    <p class="lead">Membre depuis
+                    {% assign m = association.date | date: "%-m" %}
+                    {% assign day = association.date | date: "%-d" %}
+                    {% if day == "1" %}
+                        {{ day }}<sup>er</sup>
+                    {% else %} {{ day }}
+                    {% endif %}
+                    {% case m %}
+                        {% when '1' %}Janvier
+                        {% when '2' %}Février
+                        {% when '3' %}Mars
+                        {% when '4' %}Avril
+                        {% when '5' %}Mai
+                        {% when '6' %}Juin
+                        {% when '7' %}Juillet
+                        {% when '8' %}Août
+                        {% when '9' %}Septembre
+                        {% when '10' %}Octobre
+                        {% when '11' %}Novembre
+                        {% when '12' %}Décembre
+                    {% endcase %}
+                    {{ association.date | date: "%Y" }}</p>
+                </div>
+            </div>
+
+        {% cycle 'end row' : '', '</div>' %}
+
+        {% endfor %}
+    
+        {% cycle 'end row' : '', '</div>' %}
+
+    </div>
+</div>
+
+<div id="formations">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-8">
+                <h2 class="text-center">Formations</h2>
+                <p class="lead text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel volutpat felis, eu condimentum massa. Pellentesque mollis eros vel mattis tempor.</p>
+            </div>
+        </div>
+
+        {% for formation in site.data.curriculum.formations %}
+
+        {% cycle 'add row 2' : '<div class="row equal-height">', '', '' %}
+
+            <div class="col">
+                <h4>{{ formation.name }}</h4>
+                <h3>{{ formation.teacher }}</h3>
+                <p class="lead">{{ formation.date_from }} - {{ formation.date_till }}</p>
+            </div>
+
+        {% cycle 'end row 2' : '', '', '</div>' %}
+
+        {% endfor %}
+
+        <!-- {% cycle 'end row 2' : '', '', </div>' %} -->
+
+    </div>
+
+    </div>
+
+</div>
+
+<hr>
+
+{% include footer.html %}

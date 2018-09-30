@@ -189,6 +189,7 @@ module Jekyll
       def self.category_dir(base_dir, category)
         base_dir = (base_dir || CATEGORY_DIR).gsub(/^\/*(.*)\/*$/, '\1')
         category = category.gsub(/_|\P{Word}/, '-').gsub(/-{2,}/, '-').downcase
+        #category = category.gsub(/_|\P{Word}/, '-').gsub(/-{2,}/, '-').urlize
         File.join(base_dir, category)
       end
   

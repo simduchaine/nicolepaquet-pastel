@@ -1,7 +1,8 @@
 ---
 title: À la mémoire de Mimi
 image: "/uploads/2017/09/A-la-memoire-de-Mimi-pastel-23-X-33-cm-2017-457x413.jpg"
-categories: mes-pensees
+categories: 
+- pensees
 comments: true
 tags: [Portrait]
 ---
