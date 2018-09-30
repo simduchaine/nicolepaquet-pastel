@@ -1,0 +1,88 @@
+---
+label: curriculum.yml
+hide_body: 
+is_partial: 
+fields:
+- name: associations
+  label: Associations
+  type: field_group_list
+  fields:
+  - name: name
+    label: Name
+    type: text
+    hidden: false
+    default: ''
+  - name: logo
+    label: Logo
+    type: text
+    hidden: false
+    default: ''
+  - name: date
+    label: Date
+    type: datetime
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+- name: formations
+  label: Formations
+  type: field_group_list
+  fields:
+  - name: name
+    label: Name
+    type: text
+    hidden: false
+    default: ''
+  - name: date_from
+    label: Date from
+    type: text
+    hidden: false
+    default: ''
+  - name: date_till
+    label: Date till
+    type: text
+    hidden: false
+    default: ''
+  - name: teacher
+    label: Teacher
+    type: text
+    hidden: false
+    default: ''
+  - name: place
+    label: Place
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+- name: evenements
+  label: Evenements
+  type: field_group_list
+  fields:
+  - name: name
+    label: Name
+    type: text
+    hidden: false
+    default: ''
+  - name: group
+    label: Group
+    type: text
+    hidden: false
+    default: ''
+  - name: place
+    label: Place
+    type: text
+    hidden: false
+    default: ''
+  - name: date_from
+    label: Date from
+    type: datetime
+    hidden: false
+    default: ''
+  - name: date_till
+    label: Date till
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
