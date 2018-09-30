@@ -9,6 +9,10 @@ fields:
   config:
     required: true
   default: ''
+- type: datetime
+  label: Date
+  name: date
+  description: Date de publication
 - name: lead
   label: Lead
   type: text
@@ -20,9 +24,10 @@ fields:
 - type: select
   config:
     source:
-      type: datafiles
-      file: _data-blog-categories-yml
+      type: documents
+      file: _data/blog-categories.yml
       path: categories
+      section: categories
   label: categories
   name: categories
 - name: tags
@@ -34,8 +39,12 @@ fields:
   name: comments
   label: Comments
 pages:
-- _posts/2018-08-22-a-la-rencontre-de-edward-s-curtis-photographe-ethnologue-americain.md
+- _posts/2015-08-15-Les-garçons-d'honneur.md
+- _posts/2015-08-02-Blue-Moon,-2015.md
+- _posts/2015-06-21-Simon,-un-enfant-devenu-adulte.md
+- _posts/2015-04-12-Des-peintres-fascinants.md
+- _posts/2015-03-15-Qui-suis-je-Où-vais-je.md
+- _posts/2017-09-15-peindre-des-tomates.md
 - _posts/2017-09-15-sir-anthony-hopkins.md
 - _posts/2017-08-29-Gandhi-1869-1948.md
 - _posts/2017-09-06-A-la-memoire-de-mimi.md
-- _posts/2017-09-15-peindre-des-tomates.md
