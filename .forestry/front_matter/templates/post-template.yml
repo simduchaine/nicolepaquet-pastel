@@ -9,6 +9,11 @@ fields:
   config:
     required: true
   default: ''
+- type: text
+  name: permalink
+  label: Permalien
+  config:
+    required: true
 - type: datetime
   label: Date
   name: date
