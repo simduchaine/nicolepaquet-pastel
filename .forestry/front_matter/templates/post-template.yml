@@ -13,7 +13,7 @@ fields:
   name: permalink
   label: Permalien
   config:
-    required: true
+    required: false
 - type: datetime
   label: Date
   name: date
