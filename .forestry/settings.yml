@@ -4,6 +4,16 @@ auto_deploy: false
 admin_path: "/admin"
 webhook_url: 
 sections:
+- type: heading
+  label: General
+- type: jekyll-pages
+  label: Pages
+  create: all
+- type: document
+  path: _data/curriculum.yml
+  label: Curriculum
+- type: heading
+  label: Oeuvres
 - type: directory
   path: _portfolio
   label: Portfolio
@@ -13,7 +23,9 @@ sections:
   - portfolio
 - type: document
   path: _data/portfolio-categorie.yml
-  label: Catégories Oeuvres
+  label: Catégories
+- type: heading
+  label: Blogue
 - type: jekyll-posts
   label: Articles
   create: all
@@ -21,11 +33,8 @@ sections:
   - post-template
 - type: document
   path: _data/blog-categories.yml
-  label: Catégories Articles
+  label: Catégories
   new_doc_ext: yml
-- type: jekyll-pages
-  label: Pages
-  create: all
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
