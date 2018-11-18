@@ -1,6 +1,7 @@
 ---
 title: Qui suis-je? Où vais-je?
 date: 2015-04-15 12:44:49 -0400
+permalink: /qui-suis-je-ou-vais-je/
 lead: ''
 image: "/uploads/2018/09/DSC0998.jpeg"
 categories: mes-pensees

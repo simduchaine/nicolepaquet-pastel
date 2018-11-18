@@ -462,6 +462,10 @@ li.active a.page-link::before {
     margin-top: 2em;
 }
 
+.presentation, #formations {
+    margin-top: 2em;
+}
+
 #blog {
     background: #fff;
 }
@@ -542,7 +546,14 @@ li.active a.page-link::before {
     background: white;
     text-align: center;
     padding: 2em;
-    margin: 1em;
+    /* margin: 1em; */
+}
+
+.cv-el-dark {
+    background: #F6F6F6;
+    text-align: center;
+    padding: 2em;
+    min-width: 100%;
 }
 
 .cv-el img {

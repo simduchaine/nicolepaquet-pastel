@@ -2,7 +2,7 @@
 title: Simon, un enfant devenu adulte
 date: 2015-06-21 12:54:24 -0400
 lead: ''
-image: "/uploads/2018/09/Simon-site-pensée.jpg"
+image: "/uploads/2018/09/Simon-site-pensee.jpg"
 categories: mes-pensees
 tags: []
 comments: true

@@ -3,6 +3,8 @@
 
 {% include subheader.html %}
 
+<section class="presentation">
+
 <div class="container">
     <div class="row">
         <div class="col-lg-5 order-lg-2">
@@ -16,6 +18,7 @@
         </div>
     </div>
 </div>
+</section>
 
 
 <div class="articles">
@@ -83,10 +86,12 @@
 
         {% cycle 'add row 2' : '<div class="row equal-height">', '', '' %}
 
-            <div class="col">
-                <h4>{{ formation.name }}</h4>
-                <h3>{{ formation.teacher }}</h3>
-                <p class="lead">{{ formation.date_from }} - {{ formation.date_till }}</p>
+            <div class="col-lg-4">
+                <div class="cv-el-dark">
+                    <h4>{{ formation.name }}</h4>
+                    <h5>{{ formation.teacher }}</h5>
+                    <p class="lead">{{ formation.date_from }} {% if formation.date_till != null %} - {% endif %} {{ formation.date_till }}</p>
+                </div>
             </div>
 
         {% cycle 'end row 2' : '', '', '</div>' %}
@@ -97,10 +102,75 @@
 
     </div>
 
-    </div>
+</div>
 
 </div>
 
-<hr>
+<div class="articles">
+    <div class="container">
+
+        <div class="row justify-content-center">
+            <div class="col-8">
+                <h2 class="text-center">Évènements</h2>
+                <p class="lead text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel volutpat felis, eu condimentum massa. Pellentesque mollis eros vel mattis tempor.</p>
+            </div>
+        </div>
+
+        {% for event in site.data.curriculum.evenements %}
+        
+        {% cycle 'add row 3' : '<div class="row equal-height">', '', '' %}
+
+            <div class="col">
+                <div class="cv-el">
+                    <h4>{{ event.name }}</h4>
+                    <h5>{{ event.place }}</h5>
+                    <p class="lead">
+                    {% assign m = event.date_from | date: "%-m" %}
+                    {% case m %}
+                        {% when '1' %}Janvier
+                        {% when '2' %}Février
+                        {% when '3' %}Mars
+                        {% when '4' %}Avril
+                        {% when '5' %}Mai
+                        {% when '6' %}Juin
+                        {% when '7' %}Juillet
+                        {% when '8' %}Août
+                        {% when '9' %}Septembre
+                        {% when '10' %}Octobre
+                        {% when '11' %}Novembre
+                        {% when '12' %}Décembre
+                    {% endcase %}
+                    {{ event.date_from | date: "%Y" }} 
+                    {% if event.date_till != null %}
+                    - 
+                    {% endif %}
+                    {% assign m2 = event.date_till | date: "%-m" %}
+                    {% case m2 %}
+                        {% when '1' %}Janvier
+                        {% when '2' %}Février
+                        {% when '3' %}Mars
+                        {% when '4' %}Avril
+                        {% when '5' %}Mai
+                        {% when '6' %}Juin
+                        {% when '7' %}Juillet
+                        {% when '8' %}Août
+                        {% when '9' %}Septembre
+                        {% when '10' %}Octobre
+                        {% when '11' %}Novembre
+                        {% when '12' %}Décembre
+                    {% endcase %}
+                    {{ event.date_till | date: "%Y"  }}
+                    </p>
+                </div>
+            </div>
+
+        {% cycle 'end row 3' : '', '', '</div>' %}
+
+        {% endfor %}
+    
+        <!-- {% cycle 'end row' : '', '</div>' %} -->
+
+    </div>
+</div>
 
 {% include footer.html %}
