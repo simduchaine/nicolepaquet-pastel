@@ -18,6 +18,9 @@ fields:
   label: Date
   name: date
   description: Date de publication
+  config:
+    display_utc: false
+    date_format: YYYY-MM-DD
 - name: lead
   label: Lead
   type: text
