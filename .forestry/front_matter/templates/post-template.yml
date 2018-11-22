@@ -34,7 +34,7 @@ fields:
     source:
       type: documents
       file: _data/blog-categories.yml
-      path: categories
+      path: Blog categories
       section: categories
   label: categories
   name: categories
