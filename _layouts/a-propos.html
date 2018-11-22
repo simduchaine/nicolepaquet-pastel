@@ -37,7 +37,7 @@
 
             <div class="col-lg-5">
                 <div class="cv-el">
-                    <img src="{{ association.logo }}">
+                    <img src="{{ site.cloudinary_url }}{{ association.logo }}">
                     <h4>{{ association.name }}</h4>
                     <p class="lead">Membre depuis
                     {% assign m = association.date | date: "%-m" %}
