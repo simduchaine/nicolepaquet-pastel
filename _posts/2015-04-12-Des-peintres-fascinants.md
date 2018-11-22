@@ -1,9 +1,9 @@
 ---
 title: Des peintres fascinants
-date: 2015-04-12 12:52:24 -0400
+date: 2015-04-12 16:52:24 +0000
 lead: ''
 image: ''
-categories: coups-de-coeur
+categories: ''
 tags: []
 comments: true
 
