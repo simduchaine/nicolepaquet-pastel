@@ -5,7 +5,7 @@ categories: ''
 comments: true
 tags:
 - Portrait
-date: ''
+date: 2017-09-06 00:00:00 -0400
 lead: ''
 
 ---
