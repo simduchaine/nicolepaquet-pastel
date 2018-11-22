@@ -8,7 +8,7 @@ layout: default
             <div class="col">
                 <div class="card">
                     {% if page.image %}
-                    <img class="card-img-top" src="{{ page.image }}">
+                    <img class="card-img-top" src="{{ site.cloudinary_url }}{{ page.image }}">
                     {% endif %}
                     <div class="card-body">
                         <h5 class="card-title display-5">{{ page.title }}</h5>
