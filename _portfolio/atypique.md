@@ -1,11 +1,12 @@
 ---
 title: Atypique
-image: "/uploads/2018/05/atypique.jpg"
-date: 2018-05-31 10:00:00-04
+image: "/v1542855191/atypique.jpg"
+date: 2018-05-31 14:00:00 +0000
 categorie: portraits
 metadata:
- year: 2018
- dimensions:
- support:
- type: Acrylique
+  year: 2018
+  dimensions: ''
+  support: ''
+  type: Acrylique
+
 ---
