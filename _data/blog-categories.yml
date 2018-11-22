@@ -1,7 +1,4 @@
 ---
-- name: Pensées
-  slug: pensees
-- name: Coups de coeur
-  slug: coups-de-coeur
-- name: Nouveautés
-  slug: nouveautes
+- Pensées
+- Coups de coeur
+- Nouveautés

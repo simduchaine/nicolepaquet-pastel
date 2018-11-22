@@ -79,8 +79,8 @@ jekyll-archives:
   enabled:
     - tags
     - categories
-  layout: 'category_index'
-  layouts: 'archives-index'
+  layout: 'archives-index'
+  #layouts: 'archives-index'
   permalinks:
     tag: 'blogue/tags/:name/'
     category: 'blogue/categorie/:name/'
