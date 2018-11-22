@@ -47,11 +47,11 @@ fields:
   name: comments
   label: Comments
 pages:
+- _posts/2017-09-06-A-la-memoire-de-mimi.md
 - _posts/2015-03-15-Qui-suis-je-Où-vais-je.md
 - _posts/2018-07-08-espérance.md
 - _posts/2015-04-12-Des-peintres-fascinants.md
 - _posts/2015-06-21-Simon,-un-enfant-devenu-adulte.md
-- _posts/2017-09-06-A-la-memoire-de-mimi.md
 - _posts/2017-09-15-peindre-des-tomates.md
 - _posts/2017-09-15-sir-anthony-hopkins.md
 - _posts/2015-08-02-Blue-Moon,-2015.md
