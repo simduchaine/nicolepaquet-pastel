@@ -1,13 +1,13 @@
 ---
 title: À Propos
 layout: a-propos
-menus: 
+image: "/v1542855158/autoportrait.jpg"
+menu:
   principal:
     title: À propos
     weight: 1
-image: "/uploads/2018/08/autoportrait.jpg"
----
 
+---
 ### Nicole Paquet
 #### Portraitiste
 
