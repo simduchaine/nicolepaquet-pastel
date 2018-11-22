@@ -35,8 +35,8 @@ sections:
   path: _data/blog-categories.yml
   label: Catégories
   new_doc_ext: yml
-upload_dir: uploads
-public_path: "/uploads"
+upload_dir: ''
+public_path: ''
 front_matter_path: ''
-use_front_matter_path: false
-file_template: ":year:/:month:/:filename:"
+use_front_matter_path: 
+file_template: ":filename:"
