@@ -1,11 +1,46 @@
----
-layout: default
----
+
+{% include header.html %}
+
+<div class="subheader">
+    <div class="container">
+        <div class="row">
+            <div class="col-md">
+            {% for category in site.data.blog-categories %}
+                {% if page.title == category.slug %}
+                    <h2 class="title-page">{{ category.name }}</h2>
+                {% endif %}
+            {% endfor %}
+            </div>
+
+            <div class="col-md">
+                <nav class="float-right" aria-label="breadcrumb">
+                    <ol id="breadcrumbs" class="breadcrumb">
+                        {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
+                            <li class="breadcrumb-item"><a href="/">Accueil</a></li>
+                        {% for crumb in crumbs offset: 1 %}
+                            {% if forloop.last %}
+
+                                {% for category in site.data.blog-categories %}
+                                    {% if page.title == category.slug %}
+                                        <li class="breadcrumb-item active" aria-current="page">{{ category.name }}</li>
+                                    {% endif %}
+                                {% endfor %}
+
+                            {% else %}
+                                <li class="breadcrumb-item"><a href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' | replace:'without-plugin/','without-plugins/' }}{% endfor %}">{{ crumb | replace:'-',' ' | remove:'.html' | capitalize }}</a></li> 
+                            {% endif %}
+                        {% endfor %}
+                    </ol>
+                </nav>
+            </div>
+        </div>
+    </div>
+</div>
 
 <section id="blog" class="articles">
   <div class="container" >
 
-    {% for post in site.categories[page.category] %}
+    {% for post in page.posts %}
 
     {% cycle 'add row' : '<div class="row equal-height">', '' %}
 
@@ -43,3 +78,7 @@ layout: default
     
   </div>
 </section>
+
+<hr>
+
+{% include footer.html %}

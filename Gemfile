@@ -23,7 +23,6 @@ group :jekyll_plugins do
   gem "jekyll-menus"
   gem "octopress-paginate"
   gem "jekyll-seo-tag"
-  gem "jekyll-algolia"
   gem "jekyll-archives"
   gem "string-urlize"
 end

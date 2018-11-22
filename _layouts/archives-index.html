@@ -12,9 +12,12 @@ layout: default
         <div class="col-10 col-lg-6">
             <div class="card">
                 <div class="img-wrapper">
-                    {% if post.image %}
-                        <img class="card-img-top" src="{{ post.image }}">
-                    {% endif %}
+                        <img class="card-img-top"
+                        {% if post.image != '' %}
+                            src="{{ post.image }}">
+                        {% else %}
+                            src="/assets/img/placeholder.png">
+                        {% endif %}
                     <div class="view-link">
                         <a href="{{ post.url }}"><i class="fa fa-link" aria-hidden="true"></i></a>
                 </div>

@@ -23,6 +23,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 lang: fr_CA
 facebook_username: nicolepaquetpastel
+author: Nicole Paquet
 
 # Build settings
 markdown: kramdown
@@ -33,7 +34,9 @@ plugins:
   - octopress-paginate
   - jekyll-seo-tag
   - jekyll-archives
-permalink: /blogue/:categories/:title/
+permalink: /blogue/:title/
+cloudinary_url: "https://res.cloudinary.com/npaquet-pastel/image/upload"
+
 
 highlighter: rouge
 
@@ -72,20 +75,15 @@ defaults:
       layout: single-portfolio
 
 
-algolia:
-  application_id: KDTB2O253K
-  index_name:     npaquet-pastel # You can replace that with whatever name you want
-
-
 jekyll-archives:
   enabled:
     - tags
-  layout: 'tag-index'
+    - categories
+  layout: 'category_index'
+  layouts: 'archives-index'
   permalinks:
     tag: 'blogue/tags/:name/'
-
-category_dir: "blogue"
-category_title_prefix: ""
+    category: 'blogue/categorie/:name/'
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

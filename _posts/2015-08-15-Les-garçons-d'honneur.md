@@ -1,10 +1,10 @@
 ---
 title: Les garçons d'honneur
 date: 2015-08-15 13:00:00 -0400
-permalink: /les-garcons-d-honneur/
+permalink: /blogue/les-garcons-d-honneur/
 lead: ''
 image: ''
-categories: mes-nouveautes
+categories: nouveautes
 tags: []
 comments: true
 

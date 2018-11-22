@@ -18,7 +18,7 @@ layout: default
                     <div class="img-wrapper">
                             <img class="card-img-top"
                             {% if post.image != '' %}
-                                src="{{ post.image }}">
+                                src="{{ site.cloudinary_url }}{{ post.image }}">
                             {% else %}
                                 src="/assets/img/placeholder.png">
                             {% endif %}

@@ -480,8 +480,37 @@ li.active a.page-link::before {
     padding: 5em 0;
 }
 
+.blog-content .card a {
+    text-decoration: underline;
+}
+
+.blog-content .card img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .article-date {
     margin-bottom: 1.5em;
+}
+
+#share-bar {
+    border-top: 1px solid lightgray;
+    width: 30%;
+}
+
+#share-bar h6 {
+    margin-top: 0.8rem;
+}
+
+.share-buttons {
+    font-size: 1.2rem;
+    color: #343a40;
+}
+
+.share-buttons a {
+    padding-right: 0.2rem;
+    text-decoration: none !important;
 }
 
 #comments .media {
@@ -536,6 +565,7 @@ li.active a.page-link::before {
     display: inline-block;
     margin: 0.2em;
     color: #4F4F4F;
+    text-decoration: none !important;
 }
 
 .fiche {
@@ -568,6 +598,18 @@ a:hover,
 
 #map-canvas {
     margin: 2rem 0 4rem;
+}
+
+.search-bar {
+    margin: 3rem 0 1rem;
+}
+
+#results {
+    min-height: 20vh;
+}
+
+.result {
+    margin-bottom: 2rem;
 }
 
 footer {
