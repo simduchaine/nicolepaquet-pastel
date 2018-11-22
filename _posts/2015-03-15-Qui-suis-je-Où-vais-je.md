@@ -4,7 +4,7 @@ date: 2015-04-15 16:44:49 +0000
 permalink: "/blogue/qui-suis-je-ou-vais-je/"
 lead: ''
 image: "/v1542855143/DSC0998.jpg"
-categories: ''
+categories: Pensées
 tags: []
 comments: true
 
