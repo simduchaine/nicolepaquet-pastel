@@ -1,12 +1,13 @@
 ---
 title: Qui suis-je? Où vais-je?
-date: 2015-04-15 12:44:49 -0400
-permalink: /blogue/qui-suis-je-ou-vais-je/
+date: 2015-04-15 16:44:49 +0000
+permalink: "/blogue/qui-suis-je-ou-vais-je/"
 lead: ''
-image: "/uploads/2018/09/DSC0998.jpeg"
+image: "/v1542855143/DSC0998.jpg"
 categories: ''
 tags: []
 comments: true
+
 ---
 J'ai lancé mon site hier et je suis très heureuse du nombre élevé de visites...
 
