@@ -10,7 +10,12 @@ layout: default
 
                 <div class="card">
                     {% if page.image %}
-                    <img class="card-img-top" src="{{ site.cloudinary_url }}{{ page.image }}">
+                        <img class="card-img-top"
+                        {% if post.image != '' %}
+                            src="{{ site.cloudinary_url }}{{ page.image }}">
+                        {% else %}
+                            src="/assets/img/placeholder.png">
+                        {% endif %}
                     {% endif %}
                     <div class="card-body">
                         <h5 class="card-title display-5">{{ page.title }}</h5>
