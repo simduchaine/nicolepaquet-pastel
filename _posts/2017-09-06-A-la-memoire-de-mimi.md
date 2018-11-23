@@ -1,6 +1,6 @@
 ---
 title: À la mémoire de Mimi
-image: "/v1542855216/A-la-memoire-de-Mimi-pastel-23-X-33-cm-2017-457x413.jpg"
+image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1542855216/A-la-memoire-de-Mimi-pastel-23-X-33-cm-2017-457x413.jpg
 categories: Pensées
 comments: true
 tags:
