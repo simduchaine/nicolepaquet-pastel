@@ -56,6 +56,7 @@ fields:
   name: categorie
   default: 
 pages:
+- _portfolio/crystel-au-naturel.md
 - _portfolio/espérance.md
 - _portfolio/simon-2015.md
 - _portfolio/chef-de-bande-apache.md
