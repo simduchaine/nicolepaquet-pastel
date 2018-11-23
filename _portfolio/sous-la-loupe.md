@@ -9,6 +9,6 @@ metadata:
   dimensions: ''
   support: ''
   type: Acrylique
-categorie: ''
+categorie: portraits
 
 ---
