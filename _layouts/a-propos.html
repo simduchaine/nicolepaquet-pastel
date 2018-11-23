@@ -8,7 +8,7 @@
 <div class="container">
     <div class="row">
         <div class="col-lg-5 order-lg-2">
-            <img class="img-fluid float-right" src="{{ site.cloudinary_url }}{{ page.image }}">
+            <img class="img-fluid float-right" src="{{ page.image }}">
         </div>
 
         <div class="col-lg-7 order-lg-1">
@@ -37,7 +37,7 @@
 
             <div class="col-lg-5">
                 <div class="cv-el">
-                    <img src="{{ site.cloudinary_url }}{{ association.logo }}">
+                    <img src="{{ association.logo }}">
                     <h4>{{ association.name }}</h4>
                     <p class="lead">Membre depuis
                     {% assign m = association.date | date: "%-m" %}

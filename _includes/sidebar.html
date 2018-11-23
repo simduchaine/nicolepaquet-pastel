@@ -7,7 +7,7 @@
 
     <div class="media">
       {% if post.image %}
-        <img class="mr-3" src="{{ site.cloudinary_url }}{{ post.image }}" alt="" width="90px" height="90px">
+        <img class="mr-3" src="{{ post.image }}" alt="" width="90px" height="90px">
       {% endif %}
       <div class="media-body">
         <a href="{{ BASE_PATH }}{{ post.url }}">

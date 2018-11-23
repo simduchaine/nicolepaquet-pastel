@@ -12,7 +12,7 @@ layout: default
                     {% if page.image %}
                         <img class="card-img-top"
                         {% if post.image != '' %}
-                            src="{{ site.cloudinary_url }}{{ page.image }}">
+                            src="{{ page.image }}">
                         {% else %}
                             src="/assets/img/placeholder.png">
                         {% endif %}
