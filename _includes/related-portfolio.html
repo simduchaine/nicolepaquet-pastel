@@ -1,0 +1,41 @@
+
+
+
+<section class="articles">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-8">
+                <h2 class="text-center">Plus d'oeuvres</h2>
+            </div>
+        </div>
+
+        <div class="row portfolio-deck justify-content-center">
+
+
+        {% assign sorted = site.portfolio | sort: 'date' %}
+        {% assign projects = sorted | reverse %}
+        {% for portfolio in projects limit:3 %}
+            {% if portfolio.url != page.url %}
+            <div class="col-xl-4 col-md-8">
+                <div class="card">
+                <div class="img-wrapper">
+                    <img class="card-img-top" src="{{ site.cloudinary_url }}{{ portfolio.image }}" alt="Card image cap">
+                    <div class="view-link">
+                    <a href="{{ portfolio.url }}"><i class="fa fa-eye" aria-hidden="true"></i></a>
+                    </div>
+                </div>
+                <div class="card-body">
+                    <h3 class="card-title">{{ portfolio.title }}</h3>
+                    <p class="card-text">{{ portfolio.categorie | capitalize }}</p>
+                </div>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
+
+    </div>
+        
+    </section>
+
+
+

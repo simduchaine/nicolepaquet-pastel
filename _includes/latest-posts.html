@@ -6,7 +6,6 @@
         <div class="row justify-content-center">
             <div class="col-8">
                 <h2 class="text-center">Derniers articles</h2>
-                <p class="lead text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel volutpat felis, eu condimentum massa. Pellentesque mollis eros vel mattis tempor.</p>
             </div>
         </div>
 
@@ -31,7 +30,7 @@
                     </div>
                     <div class="card-footer">
                         <div class="float-left"><span class="icon"><i class="far fa-calendar" aria-hidden="true"></i></span>  {{ post.date | date: "%-d %B %Y" }}</div> 
-                        <div class="float-right"><span class="icon"><i class="far fa-comments" aria-hidden="true"></i></span><a href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{post.id}}">0 Comments</a></div>
+                        <div class="float-right"><span class="icon"><i class="far fa-comments" aria-hidden="true"></i></span><a href="{{ site.url }}{{ post.url }}#disqus_thread" data-disqus-identifier="{{ site.url }}{{ post.url }}">0 Comments</a></div>
                     </div>
                 </div>
             </div>
