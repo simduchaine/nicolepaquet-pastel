@@ -56,6 +56,7 @@ fields:
   name: categorie
   default: 
 pages:
+- _portfolio/sous-la-loupe.md
 - _portfolio/rueben-taylor.md
 - _portfolio/chef-de-bande-apache.md
 - _portfolio/un-chef-navajo.md
