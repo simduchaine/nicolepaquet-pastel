@@ -2,7 +2,7 @@
 title: Simon, un enfant devenu adulte
 date: 2015-06-21 16:54:24 +0000
 lead: ''
-image: "/v1542855143/Simon-site-pensee.jpg"
+image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1542855143/Simon-site-pensee.jpg
 categories: ''
 tags: []
 comments: true
