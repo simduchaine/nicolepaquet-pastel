@@ -1,6 +1,6 @@
 ---
 title: Sir Anthony Hopkins. Fusain 2017
-image: "/v1542855216/anthony-hopkins.jpg"
+image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1542855216/anthony-hopkins.jpg
 categories: Nouveautés
 comments: true
 lead: ''
