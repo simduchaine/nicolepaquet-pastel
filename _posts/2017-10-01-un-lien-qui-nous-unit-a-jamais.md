@@ -2,7 +2,7 @@
 title: Un lien qui nous unit à jamais
 date: 2017-10-01 17:47:55 +0000
 lead: ''
-image: "/v1542855159/Simon-portrait.jpg"
+image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1542855159/Simon-portrait.jpg
 categories: Pensées
 tags: []
 comments: true
