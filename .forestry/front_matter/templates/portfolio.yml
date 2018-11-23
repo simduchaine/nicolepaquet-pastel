@@ -56,11 +56,11 @@ fields:
   name: categorie
   default: 
 pages:
+- _portfolio/chef-de-bande-apache.md
 - _portfolio/un-chef-navajo.md
 - _portfolio/atypique.md
 - _portfolio/espérance.md
 - _portfolio/crystel-au-naturel.md
 - _portfolio/simon-2015.md
-- _portfolio/chef-de-bande-apache.md
 - _portfolio/rueben-taylor.md
 - _portfolio/vin-du-chateau.md

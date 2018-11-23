@@ -1,6 +1,6 @@
 ---
 title: Chef de bande Eskadi-Apache
-image: "/v1542855197/chef-de-bande-apache.jpg"
+image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1542855197/chef-de-bande-apache.jpg
 date: 2018-04-03 04:00:00 +0000
 categorie: portraits
 metadata:
