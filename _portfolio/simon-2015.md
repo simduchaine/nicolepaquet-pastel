@@ -1,6 +1,6 @@
 ---
 title: Simon. 2015.
-image: "/v1542855229/Simon-portrait-2-pastel-30-X-25-cm-2015.jpg"
+image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1542855229/Simon-portrait-2-pastel-30-X-25-cm-2015.jpg
 date: 2017-04-07 04:00:00 +0000
 categorie: portraits
 metadata:
