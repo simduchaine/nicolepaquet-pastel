@@ -3,7 +3,7 @@ title: Qui suis-je? Où vais-je?
 date: 2015-04-15 16:44:49 +0000
 permalink: "/blogue/qui-suis-je-ou-vais-je/"
 lead: ''
-image: "/v1542855143/DSC0998.jpg"
+image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1542855143/DSC0998.jpg
 categories: Pensées
 tags: []
 comments: true
