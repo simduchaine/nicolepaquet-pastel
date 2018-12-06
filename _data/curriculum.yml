@@ -4,7 +4,7 @@ associations:
   logo: https://res.cloudinary.com/npaquet-pastel/image/upload/v1542855159/logo-psec.jpg
   date: 2013-01-01 00:00:00 +0000
 - name: Société artistique et culturelle de Québec
-  logo: "/v1542855158/sacq-logo.png"
+  logo: https://res.cloudinary.com/npaquet-pastel/image/upload/v1542855158/sacq-logo.png
   date: 2015-01-01 00:00:00 +0000
 formations:
 - name: Cours de pastel
