@@ -1,7 +1,7 @@
 ---
 title: À Propos
 layout: a-propos
-image: "/v1542855158/autoportrait.jpg"
+image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1542855158/autoportrait.jpg
 menu:
   principal:
     title: À propos
