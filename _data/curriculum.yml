@@ -1,7 +1,7 @@
 ---
 associations:
 - name: Société de Pastel de l’Est du Canada
-  logo: "/v1542855159/logo-psec.jpg"
+  logo: https://res.cloudinary.com/npaquet-pastel/image/upload/v1542855159/logo-psec.jpg
   date: 2013-01-01 00:00:00 +0000
 - name: Société artistique et culturelle de Québec
   logo: "/v1542855158/sacq-logo.png"
