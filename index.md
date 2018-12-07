@@ -1,11 +1,13 @@
 ---
 layout: home
 title: Accueil
----
 
-## En 2013, je découvre le monde passionnant du pastel.
+---
+## Oeuvres au pastel, au fusain, à l'acrylique et numériques.
 
 {:.lead}
-La dureté variable des types de pastel et la diversité des supports m’ouvrent la voie à des années d’exploration.
+Dessins, croquis, études, démos et vidéos.
+
+Textes, pensées et réflexions.
 
 [À propos](/a-propos/){: .btn.main-btn}
