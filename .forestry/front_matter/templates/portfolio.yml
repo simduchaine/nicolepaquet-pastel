@@ -57,7 +57,6 @@ fields:
   default: 
 pages:
 - _portfolio/en-route.md
-- _portfolio/françois-1.md
 - _portfolio/les-amoureux.md
 - _portfolio/crystel.md
 - _portfolio/capitaine-f-x.md
