@@ -57,6 +57,7 @@ fields:
   default: 
 pages:
 - _portfolio/en-route.md
+- _portfolio/rêvasserie.md
 - _portfolio/crystel.md
 - _portfolio/pause.md
 - _portfolio/arbres-au-printemps.md
