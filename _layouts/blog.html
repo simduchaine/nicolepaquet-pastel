@@ -4,14 +4,12 @@ layout: default
 
 <section id="blog" class="articles">
     <div class="container" >
-
-        {% assign rows = paginator.total_posts | divided_by: 2.0 | ceil %}
-        {% for i in (1..rows) %}
-            {% assign offset = forloop.index0 | times: 2 %}
         
         <div class="row equal-height">
 
-            {% for post in paginator.posts limit:2 offset:offset %}
+            {% for post in paginator.posts %}
+
+            {% cycle 'add row' : '<div class="row equal-height">', '' %}
 
             <div class="col-10 col-lg-6">
                 <div class="card">
@@ -38,11 +36,11 @@ layout: default
                 </div>
             </div>
 
+            {% cycle 'end row' : '', '</div>' %}
+
             {% endfor %}
-
-        </div>
-
-        {% endfor %}
+    
+            {% cycle 'end row' : '', '</div>' %}
 
     </div>
 
