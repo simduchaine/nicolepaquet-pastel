@@ -35,8 +35,8 @@ formations:
 evenements:
 - name: Exposition permanente
   group: Off Galerie
-  place: ''
-  date_from: ''
+  place: Off Galerie, 113, rue Saint-Paul, Québec
+  date_from: 2018-06-01 00:00:00 -0400
 - name: Exposition Le pastel dans tous ses états
   group: Les pastellistes du jeudi, de la Société artistique et culturelle de Québec
   place: Maison de la culture, à L’Ancienne-Lorette
