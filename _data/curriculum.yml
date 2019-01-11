@@ -1,5 +1,7 @@
 ---
 associations:
+- name: Collectif des ateliers libres en arts visuels de Québec
+  date: 2019-01-07 00:00:00 -0500
 - name: Regroupement des artistes en arts visuels du Québec
   logo: https://res.cloudinary.com/npaquet-pastel/image/upload/v1547226113/raav_logo_0.png
   date: 2018-10-01 00:00:00 -0400
