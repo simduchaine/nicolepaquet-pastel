@@ -4,7 +4,8 @@ date: 2018-07-23 04:00:00 +0000
 lead: Photographe et ethnologue américain
 image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1546445339/DSC08109-620x413.jpg
 categories: Nouveautés
-tags: []
+tags:
+- Edward S. Curtis
 comments: true
 permalink: edward-curtis-photographe
 
