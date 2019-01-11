@@ -47,14 +47,12 @@ fields:
   name: comments
   label: Comments
 pages:
-- _posts/lundi-blues.md
-- _posts/jessica-un-album-de-ses-portraits.md
-- _posts/jessica-l-institutrice.md
-- _posts/l-oeuvre-de-edward-s-curtis-photographe-et-ethnologue-américain.md
-- _posts/pause.md
-- _posts/catherine.md
-- _posts/2017-11-23-empreinte.md
+- _posts/2017-09-06-A-la-memoire-de-mimi.md
 - _posts/2017-12-30-le-tavernier.md
+- _posts/2017-08-29-Gandhi-1869-1948.md
+- _posts/2017-09-15-sir-anthony-hopkins.md
+- _posts/jessica-un-album-de-ses-portraits.md
+- _posts/2017-11-23-empreinte.md
 - _posts/2018-07-02-lettre-d-un-vieux-routier-de-la-vie.md
 - _posts/2018-06-23-force-fierté-et-forêt.md
 - _posts/2015-08-15-Les-garçons-d'honneur.md
@@ -62,8 +60,5 @@ pages:
 - _posts/2015-08-02-Blue-Moon,-2015.md
 - _posts/2017-09-15-peindre-des-tomates.md
 - _posts/2018-07-08-espérance.md
-- _posts/2017-09-15-sir-anthony-hopkins.md
 - _posts/2015-06-21-Simon,-un-enfant-devenu-adulte.md
-- _posts/2017-08-29-Gandhi-1869-1948.md
 - _posts/2015-03-15-Qui-suis-je-Où-vais-je.md
-- _posts/2017-09-06-A-la-memoire-de-mimi.md
