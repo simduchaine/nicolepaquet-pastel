@@ -33,6 +33,10 @@ formations:
   teacher: Pit Graf
   place: 
 evenements:
+- name: Exposition permanente
+  group: Off Galerie
+  place: ''
+  date_from: ''
 - name: Exposition Le pastel dans tous ses états
   group: Les pastellistes du jeudi, de la Société artistique et culturelle de Québec
   place: Maison de la culture, à L’Ancienne-Lorette
