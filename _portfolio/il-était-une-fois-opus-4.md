@@ -12,3 +12,16 @@ metadata:
 categorie: ''
 
 ---
+En vente à la galerie 
+
+Off Galerie 
+
+113, rue Saint-Pierre, 
+
+Québec, Québec  G1K 8A3. 
+
+418- 569-3316
+
+offgalerie@gmail.com
+
+www.offgalerie.com
