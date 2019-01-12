@@ -3,7 +3,7 @@ title: Les garçons d'honneur
 date: 2015-08-15 17:00:00 +0000
 permalink: "/blogue/les-garcons-d-honneur/"
 lead: ''
-image: ''
+image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1547321786/11902515_1637885466480694_1953873238067290330_n.jpg
 categories: ''
 tags: []
 comments: true
