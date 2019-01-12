@@ -1,6 +1,6 @@
 ---
 title: Force, fierté et forêt!
-date: 2018-06-23 17:02:03 +0000
+date: 2018-06-29 13:02:03 -0400
 lead: ''
 image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1543514658/apache.jpg
 categories: Pensées
