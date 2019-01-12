@@ -10,4 +10,4 @@ comments: true
 permalink: edward-curtis-photographe
 
 ---
-Vous trouvez dans mon site plusieurs portraits d’Autochtones de ma série d’après l’oeuvre de Edward S. Curtis, photographe et ethnologue, au début du siècle dernier. Durant 30 ans, cet anthropologue américain a fait le recensement photographique des Autochtones des 80 tribus existantes. Cette population estimée à plus d’un million d’individus au XVIIIe siècle avait chuté aux alentours de 40 000 lorsqu’il lança son projet.
+Vous trouvez dans mon site plusieurs portraits de ma collection Autochtones d’après l’oeuvre de Edward S. Curtis, photographe et ethnologue, au début du siècle dernier. Durant 30 ans, cet anthropologue américain a fait le recensement photographique des Autochtones des 80 tribus existantes. Cette population estimée à plus d’un million d’individus au XVIIIe siècle avait chuté aux alentours de 40 000 lorsqu’il lança son projet.
