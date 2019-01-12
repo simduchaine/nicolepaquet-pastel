@@ -1,7 +1,7 @@
 ---
 identifier: portfolio
 layout: single-portfolio
-title: Faye Dunaway
+title: D'après de Faye Dunaway
 date: 2019-01-12 10:35:20 -0500
 image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1547307359/49791393_2239017769700791_2221102445470154752_n.jpg
 metadata:
