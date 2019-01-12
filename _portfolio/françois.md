@@ -2,12 +2,12 @@
 identifier: portfolio
 layout: single-portfolio
 title: François
-date: 2016-08-16 13:07:39 -0400
+date: 2016-08-16 17:07:39 +0000
 image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1544119690/Francois-pastel-28-X-38-cm-2016.jpg
 metadata:
-  year: 2016-12-01 00:00:00 -0500
-  dimensions: ''
-  support: ''
+  year: 2016-12-01 05:00:00 +0000
+  dimensions: 28 X 38 cm
+  support: Papier Canson
   type: Pastel sec
 categorie: portraits
 
