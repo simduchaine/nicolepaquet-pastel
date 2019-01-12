@@ -1,6 +1,6 @@
 ---
 title: L’oeuvre de Edward S. Curtis
-date: 2018-06-26 00:00:00 -0400
+date: 2018-06-25 00:00:00 -0400
 lead: Photographe et ethnologue américain
 image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1546445339/DSC08109-620x413.jpg
 categories: Nouveautés
