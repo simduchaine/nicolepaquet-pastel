@@ -7,7 +7,7 @@ image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1545154346/Les-am
 metadata:
   year: 2016-12-01 05:00:00 +0000
   dimensions: 26 x 36 cm
-  support: ''
+  support: Papier
   type: Fusain
 categorie: portraits
 
