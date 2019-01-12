@@ -1,7 +1,7 @@
 ---
 identifier: portfolio
 layout: single-portfolio
-title: Helen Gardner
+title: D'après une photo de Helen Gardner
 date: 2018-12-14 17:27:20 -0500
 image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1547332056/49708581_2237769399825628_5222037661878845440_n.jpg
 metadata:
