@@ -1,13 +1,13 @@
 ---
 identifier: portfolio
 layout: single-portfolio
-title: Claude, mon amour
-date: 2018-07-18 13:23:42 -0400
+title: 'Claude '
+date: 2019-01-08 00:00:00 -0500
 image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1542997442/DSC07738-2.jpg
 metadata:
-  year: 2018-11-01 00:00:00 -0400
-  dimensions: ''
-  support: Fond noir
+  year: 2018-11-01 04:00:00 +0000
+  dimensions: 25 X 20 cm
+  support: Papier, fond noir
   type: Craie blanche
 categorie: portraits
 
