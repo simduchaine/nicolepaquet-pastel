@@ -2,10 +2,10 @@
 identifier: portfolio
 layout: single-portfolio
 title: Princesse
-date: 2018-08-07 17:50:44 -0400
+date: 2018-07-27 17:50:44 -0400
 image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1543186254/22D26E57-BBBF-491F-9A57-488944DD5F8A.jpg
 metadata:
-  year: 2018-11-01 00:00:00 -0400
+  year: 2018-11-01 04:00:00 +0000
   dimensions: ''
   support: ''
   type: Technique mixte
