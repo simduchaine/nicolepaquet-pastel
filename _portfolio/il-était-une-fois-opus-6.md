@@ -9,6 +9,6 @@ metadata:
   dimensions: 14 X 11 po
   support: Toile
   type: Acrylique
-categorie: ''
+categorie: personnages
 
 ---
