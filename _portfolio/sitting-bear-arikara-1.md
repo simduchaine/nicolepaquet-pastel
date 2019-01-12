@@ -9,7 +9,6 @@ metadata:
   dimensions: 10 X 14 po
   support: Papier
   type: Fusain
-categorie: ''
-published: false
+categorie: portraits
 
 ---
