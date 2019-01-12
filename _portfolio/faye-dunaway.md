@@ -9,6 +9,6 @@ metadata:
   dimensions: ''
   support: iPad Pro
   type: Art numérique
-categorie: ''
+categorie: portraits
 
 ---
