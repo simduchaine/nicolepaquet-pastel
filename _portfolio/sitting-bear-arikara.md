@@ -10,6 +10,7 @@ metadata:
   support: ''
   type: Pastel
 categorie: portraits
+published: false
 
 ---
 D’après une photo de E. S. Curtis
