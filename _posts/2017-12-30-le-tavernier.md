@@ -1,8 +1,8 @@
 ---
 title: Le tavernier
-date: 2017-12-30 13:04:55 -0500
+date: 2017-12-30 18:04:55 +0000
 lead: ''
-image: ''
+image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1547317494/26047069_2006528909616346_1346454845459050730_n.jpg
 categories: Pensées
 tags: []
 comments: true
