@@ -1,6 +1,6 @@
 ---
 title: Lettre d’un vieux routier de la vie
-date: 2019-01-10 00:00:00 -0500
+date: 2018-06-28 00:00:00 -0400
 lead: ''
 image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1542997442/DSC07738-2.jpg
 categories: Pensées
