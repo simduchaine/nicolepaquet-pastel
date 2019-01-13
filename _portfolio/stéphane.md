@@ -3,7 +3,7 @@ identifier: portfolio
 layout: single-portfolio
 title: Stéphane
 image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1546374844/St%C3%A9phane-pastel-2015.jpg
-date: 2019-01-07 00:00:00 -0500
+date: 2019-01-06 00:00:00 -0500
 metadata:
   year: 2015-01-01 05:00:00 +0000
   dimensions: ''
