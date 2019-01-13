@@ -102,6 +102,12 @@ pre {
    Author's custom styles
    ========================================================================== */
 
+.navbar-brand {
+    font-family: 'Condiment', cursive;
+    /* font-family: 'Mr Dafoe', cursive; */
+    font-size: 42px;
+} 
+
 h1,h2,h3,h4 {
     font-family: 'Playfair Display', serif;
     font-weight: 700;
@@ -378,6 +384,10 @@ li.active a.page-link::before {
 
 .single-portfolio-nav {
     margin: 3em 0 2em;
+}
+
+#home-portfolio {
+    margin-top: 2em;
 }
 
 #hero {
