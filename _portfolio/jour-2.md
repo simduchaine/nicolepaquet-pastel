@@ -2,7 +2,7 @@
 identifier: portfolio
 layout: single-portfolio
 title: Jour 2
-date: 2018-12-19 00:00:00 -0500
+date: 2018-12-17 00:00:00 -0500
 image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1544638726/Version-2-17.jpg
 metadata:
   year: 2017-12-01 05:00:00 +0000
