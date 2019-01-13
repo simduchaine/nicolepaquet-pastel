@@ -9,6 +9,6 @@ metadata:
   dimensions: 30 X 40 po
   support: Toile
   type: Acrylique
-categorie: ''
+categorie: personnages
 
 ---
