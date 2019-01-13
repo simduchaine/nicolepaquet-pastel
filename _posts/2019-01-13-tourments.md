@@ -12,9 +12,9 @@ tags:
 comments: true
 
 ---
-### Étude au pastel sec
+### Collection privée
 
-à partir de plusieurs photos disponibles sur le Web et dans les banques d'images libres de droits.
+#### Étude au pastel sec à partir de plusieurs photos disponibles sur le Web et dans les banques d'images libres de droits.
 
 Cette actrice a tellement été photographiée et dessinée. Une icône de la sensualité! Comment, moi, je voulais la représenter? Bien, sensuelle, mais tourmentée.
 
