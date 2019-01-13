@@ -12,3 +12,14 @@ metadata:
 categorie: portraits
 
 ---
+Lorsque la lecture nous chavire, nous enivre,
+
+nous projette plus loin,
+
+lever les yeux n’est point une distraction.
+
+Car plonger dans un livre,
+
+c’est aussi plonger son regard au loin,
+
+là où débute la réflexion…
