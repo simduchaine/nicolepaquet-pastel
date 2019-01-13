@@ -4,7 +4,12 @@ date: 2018-06-25 13:02:03 -0400
 lead: ''
 image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1543514658/apache.jpg
 categories: Pensées
-tags: []
+tags:
+- curtis
+- Autochtones
+- charcoal
+- portrait
+- pastel
 comments: true
 
 ---
