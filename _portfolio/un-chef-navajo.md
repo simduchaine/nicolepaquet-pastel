@@ -2,7 +2,7 @@
 identifier: portfolio
 layout: single-portfolio
 title: Un chef Navajo
-date: 2018-07-11 17:21:16 +0000
+date: 2018-11-30 00:00:00 -0500
 image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1542855158/chef-navajo.jpg
 metadata:
   year: 2018-08-01 04:00:00 +0000
