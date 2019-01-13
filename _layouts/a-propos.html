@@ -37,7 +37,7 @@
 
             <div class="col-lg-5">
                 <div class="cv-el">
-                    <img src="{{ association.logo }}">
+                    <img src="{{ association.logo }}" class="asso-logo">
                     <h4>{{ association.name }}</h4>
                     <p class="lead">Membre depuis
                     {% assign m = association.date | date: "%-m" %}
@@ -120,7 +120,7 @@
         
         {% cycle 'add row 3' : '<div class="row equal-height">', '', '' %}
 
-            <div class="col">
+            <div class="col-lg-4">
                 <div class="cv-el">
                     <h4>{{ event.name }}</h4>
                     <h5>{{ event.place }}</h5>
@@ -169,6 +169,8 @@
         {% endfor %}
     
         <!-- {% cycle 'end row' : '', '</div>' %} -->
+
+        </div>
 
     </div>
 </div>

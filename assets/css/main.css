@@ -330,6 +330,10 @@ li.active a.page-link::before {
     position: relative;
 }
 
+.social-media .nav-link {
+    padding-right: 1em;
+}
+
 .portfolio-nav {
     margin: 3em 0 2em;
     text-transform: uppercase;
@@ -466,6 +470,10 @@ li.active a.page-link::before {
     margin-top: 2em;
 }
 
+.presentation img {
+    margin-bottom: 2em;
+}
+
 #blog {
     background: #fff;
 }
@@ -576,7 +584,7 @@ li.active a.page-link::before {
     background: white;
     text-align: center;
     padding: 2em;
-    /* margin: 1em; */
+    margin: 0.5em 0;
 }
 
 .cv-el-dark {
@@ -584,10 +592,15 @@ li.active a.page-link::before {
     text-align: center;
     padding: 2em;
     min-width: 100%;
+    margin: 0.5em 0;
 }
 
 .cv-el img {
     padding: 1em;
+}
+
+.asso-logo {
+    max-width: 100%;
 }
 
 a:hover,
