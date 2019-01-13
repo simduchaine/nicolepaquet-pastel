@@ -1,7 +1,7 @@
 ---
 identifier: portfolio
 layout: single-portfolio
-title: Les dunes de Tottori
+title: Les dunes de Tottori, Japon
 image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1546375373/Les-dunes-de-Tottori-Japon-pastel-30-x-40-cm-2014.jpg
 date: 2018-12-01 00:00:00 -0500
 metadata:
