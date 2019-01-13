@@ -9,7 +9,7 @@ metadata:
   dimensions: 24 X 24 po
   support: Toile
   type: Acrylique
-categorie: ''
+categorie: personnages
 
 ---
 En vente à la galerie Off Galerie, 113, rue Saint-Pierre, Québec, Québec  G1K 3V8.
