@@ -2,7 +2,7 @@
 identifier: portfolio
 layout: single-portfolio
 title: Il était une fois, opus 6
-date: 2018-10-26 00:00:00 -0400
+date: 2018-10-23 00:00:00 -0400
 image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1547307117/44265616_2187643068171595_2264983950239727616_n.jpg
 metadata:
   year: 2018-01-01 00:00:00 -0500
