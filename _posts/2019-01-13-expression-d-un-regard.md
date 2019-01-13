@@ -1,6 +1,6 @@
 ---
 title: Expression d'un regard
-date: 2017-07-02 00:00:00 -0400
+date: 2015-06-20 00:00:00 -0400
 lead: ''
 image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1547412094/Un-regard-de-Claude-pastel-45-X-35-cm-2015.jpg
 categories: Pensées
