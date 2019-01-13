@@ -4,7 +4,13 @@ date: 2017-10-11 18:11:25 +0000
 lead: ''
 image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1542855158/DSC04289-4-620x413.jpg
 categories: Favoris
-tags: []
+tags:
+- autochtones
+- photographe
+- charcoal
+- portrait
+- histoire
+- amérique
 comments: true
 
 ---
