@@ -2,8 +2,8 @@
 title: Dessins essai
 date: 2019-01-14 09:28:37 -0500
 lead: ''
-image: ''
-categories: ''
+image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1547478581/12002062_1644779865791254_1794669762250767378_n.jpg
+categories: Nouveautés
 tags: []
 comments: false
 
