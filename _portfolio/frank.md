@@ -9,7 +9,7 @@ metadata:
   dimensions: 20 x 28 cm
   support: ''
   type: Croquis au fusain
-categorie: personnages
+categorie: Croquis
 published: false
 
 ---
