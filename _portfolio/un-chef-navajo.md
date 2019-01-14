@@ -6,9 +6,9 @@ date: 2018-11-30 05:00:00 +0000
 image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1542855158/chef-navajo.jpg
 metadata:
   year: 2018-08-01 04:00:00 +0000
-  dimensions: ''
-  support: ''
-  type: Craie blanche sur fond noir
+  dimensions: 25 X 20 cm
+  support: Papier Fabriano
+  type: 'Craie blanche '
 categorie: portraits
 
 ---
