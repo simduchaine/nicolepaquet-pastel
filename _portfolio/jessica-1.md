@@ -3,12 +3,12 @@ identifier: portfolio
 layout: single-portfolio
 title: Jessica
 image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1546375181/Jess-2014-pastel-18-x-25-cm-2014.jpg
-date: 2015-02-11 00:00:00 -0500
+date: 2015-02-11 05:00:00 +0000
 metadata:
-  year: 2015-01-01 00:00:00 -0500
-  dimensions: ''
-  support: ''
-  type: Pastel
+  year: 2014-01-01 00:00:00 -0500
+  dimensions: 25 X 18 cm
+  support: PastelCard
+  type: Pastel sec Girault
 categorie: portraits
 
 ---
