@@ -12,3 +12,4 @@ metadata:
 categorie: personnages
 
 ---
+Gandhi a dit bien des choses, notamment sur l'égalité, sur la paix, sur la tolérance. Aujourd'hui, c'est cette citation qui m'accroche : "Chacun a raison de son propre point de vue, mais il n'est pas impossible que tout le monde ait tort".
