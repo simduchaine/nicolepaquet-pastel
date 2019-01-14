@@ -3,13 +3,13 @@ identifier: portfolio
 layout: single-portfolio
 title: Fleurs
 image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1546375640/Fleurs-pastel-20-X-25-cm-2013.jpg
-date: 2015-02-07 00:00:00 -0500
+date: 2017-01-11 00:00:00 -0500
 metadata:
-  year: 2015-01-01 00:00:00 -0500
-  dimensions: ''
-  support: ''
-  type: Pastel
+  year: 2015-01-01 05:00:00 +0000
+  dimensions: 20 X 25 cm
+  support: Pastel Card
+  type: Pastel sec Sennelier
 categorie: fleurs
 
 ---
-_Pastel d’après une photo de Stéphane David_
+d’après une photo de mon ami Stéphane David
