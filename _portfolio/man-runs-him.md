@@ -7,8 +7,8 @@ image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1544120279/DSC068
 metadata:
   year: 2017-12-01 05:00:00 +0000
   dimensions: 35 X 25 cm
-  support: Papier
-  type: Fusain
+  support: 'Papier Sennelier C4 '
+  type: Fusain Nitram
 categorie: portraits
 
 ---
