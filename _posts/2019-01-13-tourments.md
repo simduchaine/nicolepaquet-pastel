@@ -24,4 +24,4 @@ Par cette étude, j'ai voulu expérimenter et partager tout le potentiel du past
 
 ###### ****Étude au pastel sec à partir de plusieurs photos disponibles sur le Web et dans les banques d'images libres de droits.** 
 
-###### **Collection privée, 30 cm X 25 cm,2017
+###### ****Collection privée, 30 cm X 25 cm,2017**
