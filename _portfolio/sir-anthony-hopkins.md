@@ -9,6 +9,7 @@ metadata:
   dimensions: ''
   support: ''
   type: Fusain
-categorie: personnages
+categorie: croquis
 
 ---
+Je connaissais l'acteur, l'homme de cinéma et je viens de lire qu'il est aussi musicien, virtuose au piano et artiste peintre. Wow!
