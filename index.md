@@ -7,6 +7,6 @@ title: Accueil
 
 {:.lead} 
 
-Dessins, croquis, études, démos et vidéos. Textes, pensées et réflexions.
+Dessins, croquis et études. Textes, pensées et réflexions.
 
 [À propos](/a-propos/){: .btn.main-btn}
