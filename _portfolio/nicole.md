@@ -1,7 +1,7 @@
 ---
 identifier: portfolio
 layout: single-portfolio
-title: Nicole
+title: 'Autoportrait '
 date: 2016-08-20 16:51:47 +0000
 image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1545069120/Nicole-bande-dessin%C3%A9e-2016.jpg
 metadata:
