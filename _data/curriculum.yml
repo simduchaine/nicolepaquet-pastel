@@ -31,17 +31,17 @@ formations:
   date_from: 2016
   date_till: 
   teacher: Pit Graf
-  place: 
+  place: www.apprendre-a-dessiner.org
 evenements:
+- name: Artiste permanent
+  group: Off Galerie
+  place: Off Galerie, 113, rue Saint-Paul, Québec
+  date_from: 2018-06-01 04:00:00 +0000
 - name: Vie de château
   group: Exposition collective de la Société artistique et culturelle de Québec
   place: Château Frontenac
   date_from: 2018-05-12 00:00:00 -0400
   date_till: 2018-05-16 00:00:00 -0400
-- name: Artiste permanent
-  group: Off Galerie
-  place: Off Galerie, 113, rue Saint-Paul, Québec
-  date_from: 2018-06-01 04:00:00 +0000
 - name: Exposition d’oeuvres
   group: Les pastellistes du jeudi, de la Société artistique et culturelle de Québec
   place: Bureau de Joêl Lightbound, député fédéral de Louis-Hébert, à Québec
