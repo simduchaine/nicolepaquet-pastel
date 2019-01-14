@@ -2,7 +2,7 @@
 identifier: portfolio
 layout: single-portfolio
 title: Gandhi
-date: 2017-08-15 15:48:08 +0000
+date: 2016-11-27 00:00:00 -0500
 image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1542855222/DSC03030-4-601x413.jpg
 metadata:
   year: 2017-12-01 05:00:00 +0000
