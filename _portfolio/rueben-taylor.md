@@ -1,5 +1,5 @@
 ---
-title: Rueben Taylor, dit Isotofhuts
+title: Rueben Taylor. Cheyenne
 image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1542855176/DSC07791-2.jpg
 date: 2018-11-29 05:00:00 +0000
 categorie: portraits
