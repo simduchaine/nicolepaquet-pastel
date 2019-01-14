@@ -9,7 +9,7 @@ metadata:
   dimensions: 35 X 30 cm
   support: Papier Sennelier C4
   type: Technique mixte (Pastel sec / acrylique)
-categorie: portraits
+categorie: personnages
 
 ---
 Dessin d'imagination
