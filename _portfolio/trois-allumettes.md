@@ -12,8 +12,8 @@ metadata:
 categorie: personnages
 
 ---
-inspiré du magnifique poème de Jacques Prévert :   
-"Trois allumettes une à une allumées dans la nuit  
+Portrait d'imagination inspiré du magnifique poème de Jacques Prévert :   
+**Trois allumettes une à une allumées dans la nuit**  
 La première pour voir ton visage tout entier  
 La seconde pour voir tes yeux  
 La dernière pour voir ta bouche  
