@@ -9,6 +9,6 @@ metadata:
   dimensions: 9 X 9 po.
   support: PastelCard Sennelier
   type: Pastel sec Holbein, Sennelier
-categorie: paysages
+categorie: fleurs
 
 ---
