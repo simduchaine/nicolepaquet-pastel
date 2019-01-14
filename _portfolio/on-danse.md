@@ -12,4 +12,4 @@ metadata:
 categorie: portraits
 
 ---
-À partir d'une photo de Amélie Lapointe, photographe.
+À partir d'une photo de leur mariage. Merci à Amélie Lapointe, photographe.
