@@ -12,4 +12,4 @@ metadata:
 categorie: croquis
 
 ---
-Caricature de mon formateur en dessin Pit Graf. Exercice dans le cadre de la formation www.apprendre-a-dessiner.com
+Caricature de mon formateur en dessin Pit Graf. Exercice dans le cadre de la formation www.apprendre-a-dessiner.org
