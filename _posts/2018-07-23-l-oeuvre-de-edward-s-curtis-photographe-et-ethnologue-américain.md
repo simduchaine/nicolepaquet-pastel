@@ -1,6 +1,6 @@
 ---
 title: L’oeuvre de Edward S. Curtis
-date: 2018-06-25 00:00:00 -0400
+date: 2018-06-25 04:00:00 +0000
 lead: Photographe et ethnologue américain
 image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1546445339/DSC08109-620x413.jpg
 categories: Nouveautés
@@ -10,7 +10,7 @@ comments: true
 permalink: edward-curtis-photographe
 
 ---
-Vous trouvez dans mon site plusieurs portraits de ma collection Autochtones d’après l’oeuvre de Edward S. Curtis, photographe et ethnologue, au début du siècle dernier. 
+Vous trouvez dans mon site plusieurs portraits de ma collection Autochtones d’après l’oeuvre de Edward S. Curtis, photographe et ethnologue, au début du siècle dernier.
 
 Mais, qui est ce Curtis? Il est né le 16 février 1868 près de Whitewater et il est décédé le 19 octobre 1952 à Whittier.
 
@@ -25,3 +25,7 @@ Plus 40 000 clichés furent pris les 30 ans que dura son enquête.
 Complètement impressionnant et hallucinant ce projet de photojournalisme. Un projet d’une vie!
 
 On peut lire ce qu’il avait à nous raconter et voir des milliers de photos (beaucoup de portraits) au musée du Nouveau Monde. Une exposition virtuelle de l’oeuvre de Curtis nous y attend. C’est extraordinaire! C’est ici : [http://www.alienor.org/publications/curtis/catalogue.php](http://www.alienor.org/publications/curtis/catalogue.php "http://www.alienor.org/publications/curtis/catalogue.php")
+
+![](https://res.cloudinary.com/npaquet-pastel/image/upload/v1547478151/IMG_7798.jpg)Dans l'ordre : Bear Black. Calico (Oglala).Spotted Bull (Mandan). Aki-tanni (Sarsi). Tsahizn Tseh. A Wallaki man. Sitting Bear (Arikara). Three Eagles (Nez Percé). Bull Chief (Apsaroke)
+
+Fusain et pastel sur bois. 6 X 6 po. 2018
