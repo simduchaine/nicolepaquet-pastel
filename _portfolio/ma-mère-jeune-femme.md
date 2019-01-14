@@ -2,7 +2,7 @@
 identifier: portfolio
 layout: single-portfolio
 title: Ma mère, jeune femme
-date: 2017-03-18 12:14:09 -0400
+date: 2017-03-20 08:14:00 -0400
 image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1545066864/Crayon-charcoal-20-X-28-cm-papier-Strathmore-2017-.jpg
 metadata:
   year: 2017-12-01 05:00:00 +0000
