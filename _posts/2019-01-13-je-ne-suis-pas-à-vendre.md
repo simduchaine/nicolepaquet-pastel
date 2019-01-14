@@ -1,6 +1,6 @@
 ---
 title: Je ne suis pas à vendre
-date: 2019-01-05 09:17:44 -0500
+date: 2019-01-05 14:17:44 +0000
 lead: ''
 image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1547389120/37107891_2115230802079489_9010594005481684992_n.jpg
 categories: Nouveautés
@@ -12,7 +12,7 @@ tags:
 comments: true
 
 ---
-Je vous présente ma première oeuvre à l’acrylique et l’histoire de ma première fois. Peut-être que vous allez tout simplement regarder la photo de mon oeuvre. C’est bien correct! Je vous invite tout de même à lire l’histoire de ma première aventure… à l'acrylique.
+Je vous présente l’histoire de ma première fois. Peut-être que vous allez tout simplement regarder la photo. C’est bien correct! Je vous invite tout de même à lire l’histoire de ma première aventure… à l'acrylique.
 
 Autodidacte. J’ai lu et relu dans mes livres de référence et sur Internet sur l'acrylique. Les gens qui me connaissent intimement savent que j’aime apprendre. Je pose toujours des questions et si je n’obtiens pas les réponses, j’aime encore plus les trouver par moi-même!
 
