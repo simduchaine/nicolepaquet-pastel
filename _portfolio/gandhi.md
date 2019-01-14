@@ -9,7 +9,6 @@ metadata:
   dimensions: 9 X 12 po
   support: Papier à croquis Strathmore
   type: Fusain
-categorie: Croquis
-published: false
+categorie: personnages
 
 ---
