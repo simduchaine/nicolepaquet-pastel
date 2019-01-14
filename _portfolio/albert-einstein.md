@@ -9,7 +9,7 @@ metadata:
   dimensions: 9 X 12
   support: Papier à croquis Strathmore
   type: 'Fusain '
-categorie: personnages
+categorie: croquis
 
 ---
 D'après des photos de Fred Stein, photographe
