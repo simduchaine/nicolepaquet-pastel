@@ -8,7 +8,7 @@ metadata:
   year: 2018-01-01 00:00:00 -0500
   dimensions: ''
   support: 'Tablette Ipad Pro '
-  type: ''
+  type: Dessin numérique
 categorie: croquis
 
 ---
