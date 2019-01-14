@@ -9,7 +9,6 @@ metadata:
   dimensions: 4 X 6 po
   support: Papier Canson
   type: Pastel Holbein, Sennelier
-categorie: paysages
-published: false
+categorie: personnages
 
 ---
