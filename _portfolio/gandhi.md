@@ -9,7 +9,7 @@ metadata:
   dimensions: 9 X 12 po
   support: Papier à croquis Strathmore
   type: Fusain
-categorie: personnages
+categorie: croquis
 
 ---
 Gandhi a dit bien des choses, notamment sur l'égalité, sur la paix, sur la tolérance. Aujourd'hui, c'est cette citation qui m'accroche : "Chacun a raison de son propre point de vue, mais il n'est pas impossible que tout le monde ait tort".
