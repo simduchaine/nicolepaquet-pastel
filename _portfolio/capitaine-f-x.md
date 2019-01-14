@@ -8,7 +8,7 @@ metadata:
   year: 2016-12-01 05:00:00 +0000
   dimensions: 22 X 20 cm
   support: Papier Sennelier C4
-  type: Pastel sec Holbein
+  type: Pastel sec Conté à Paris
 categorie: portraits
 
 ---
