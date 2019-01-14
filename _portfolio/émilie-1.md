@@ -7,7 +7,7 @@ image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1545066384/DSC013
 metadata:
   year: 2017-12-01 05:00:00 +0000
   dimensions: 9 X 12 po
-  support: Papier Strathmore
+  support: Papier à croquis Strathmore
   type: Fusain
 categorie: Croquis
 
