@@ -10,6 +10,5 @@ metadata:
   support: ''
   type: 'Fusain '
 categorie: personnages
-published: false
 
 ---
