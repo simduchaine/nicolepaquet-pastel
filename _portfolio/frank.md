@@ -10,6 +10,5 @@ metadata:
   support: ''
   type: Croquis au fusain
 categorie: Croquis
-published: false
 
 ---
