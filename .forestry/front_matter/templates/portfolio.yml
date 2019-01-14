@@ -56,7 +56,6 @@ fields:
   name: categorie
   default: 
 pages:
-- _portfolio/en-route.md
 - _portfolio/les-amoureux.md
 - _portfolio/vincent-1.md
 - _portfolio/capitaine-f-x.md
@@ -157,6 +156,7 @@ pages:
 - _portfolio/vincent-un-garçon-d-honneur.md
 - _portfolio/félix-un-garçon-d-honneur.md
 - _portfolio/jérémie-un-garçon-d-honneur.md
+- _portfolio/en-route.md
 - _portfolio/simon-2015.md
 - _portfolio/claude-mon-amour.md
 - _portfolio/atypique.md
