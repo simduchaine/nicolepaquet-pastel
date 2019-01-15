@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Voyez quelques-unes de ses plus belles œuvres et tableaux 
   au pastel, à l'acrylique et en dessin numérique.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.nicolepaquet.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.nicolepaquet.ca" # the base hostname & protocol for your site, e.g. http://example.com
 lang: fr_CA
 facebook_username: nicolepaquetpastel
 author: Nicole Paquet
