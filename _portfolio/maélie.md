@@ -9,6 +9,6 @@ metadata:
   dimensions: ''
   support: Tablette Ipad Pro
   type: Art numérique
-categorie: ''
+categorie: portraits
 
 ---
