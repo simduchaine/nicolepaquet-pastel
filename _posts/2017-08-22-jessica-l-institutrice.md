@@ -4,7 +4,11 @@ date: 2017-09-15 04:00:00 +0000
 lead: ''
 image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1545065359/Version-2-2.jpg
 categories: Pensées
-tags: []
+tags:
+- Portrait
+- pastel
+- lire
+- reflexion
 comments: true
 
 ---
