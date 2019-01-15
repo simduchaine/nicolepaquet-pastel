@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Accueil
+image: /assets/img/regard-de-simon.jpg
 
 ---
 ## Oeuvres au pastel, au fusain, à l'acrylique et numériques.
