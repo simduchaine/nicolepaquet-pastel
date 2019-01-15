@@ -592,19 +592,19 @@ li.active a.page-link::before {
     padding: 1.5em;
 }
 
-.cv-el {
-    background: white;
+.cv-el, .cv-el-dark {
     text-align: center;
     padding: 2em;
     margin: 0.5em 0;
+    min-width: 100%
 }
 
 .cv-el-dark {
     background: #F6F6F6;
-    text-align: center;
-    padding: 2em;
-    min-width: 100%;
-    margin: 0.5em 0;
+}
+
+.cv-el {
+    background: white;
 }
 
 .cv-el img {
