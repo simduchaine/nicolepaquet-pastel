@@ -5,7 +5,9 @@ lead: Photographe et ethnologue américain
 image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1546445339/DSC08109-620x413.jpg
 categories: Nouveautés
 tags:
-- Edward S. Curtis
+- Curtis
+- autochtone
+- portrait
 comments: true
 permalink: edward-curtis-photographe
 
