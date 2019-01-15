@@ -1,10 +1,10 @@
 ---
 associations:
 - name: Collectif des ateliers libres en arts visuels de Québec
-  date: 2019-01-07 00:00:00 -0500
+  date: 2019-01-07 05:00:00 +0000
 - name: Regroupement des artistes en arts visuels du Québec
   logo: https://res.cloudinary.com/npaquet-pastel/image/upload/v1547226113/raav_logo_0.png
-  date: 2018-10-01 00:00:00 -0400
+  date: 2018-10-01 04:00:00 +0000
 - name: Société de Pastel de l’Est du Canada
   logo: https://res.cloudinary.com/npaquet-pastel/image/upload/v1542855159/logo-psec.jpg
   date: 2013-01-01 00:00:00 +0000
@@ -31,12 +31,17 @@ formations:
   date_from: 2016
   date_till: 
   teacher: Pit Graf
-  place: 
+  place: www.apprendre-a-dessiner.org
 evenements:
-- name: Exposition permanente
+- name: Artiste permanent
   group: Off Galerie
   place: Off Galerie, 113, rue Saint-Paul, Québec
-  date_from: 2018-06-01 00:00:00 -0400
+  date_from: 2018-06-01 04:00:00 +0000
+- name: Vie de château
+  group: Exposition collective de la Société artistique et culturelle de Québec
+  place: Château Frontenac
+  date_from: 2018-05-12 00:00:00 -0400
+  date_till: 2018-05-16 00:00:00 -0400
 - name: Exposition d’oeuvres
   group: Les pastellistes du jeudi, de la Société artistique et culturelle de Québec
   place: Bureau de Joêl Lightbound, député fédéral de Louis-Hébert, à Québec

@@ -56,7 +56,6 @@ fields:
   name: categorie
   default: 
 pages:
-- _portfolio/en-route.md
 - _portfolio/les-amoureux.md
 - _portfolio/vincent-1.md
 - _portfolio/capitaine-f-x.md
@@ -73,7 +72,6 @@ pages:
 - _portfolio/julie-3.md
 - _portfolio/simon-3.md
 - _portfolio/simon-2.md
-- _portfolio/vincent-un-garçon-d-honneur.md
 - _portfolio/alain.md
 - _portfolio/lac-de-la-passe.md
 - _portfolio/bernard.md
@@ -87,11 +85,9 @@ pages:
 - _portfolio/jessica-2.md
 - _portfolio/les-dunes-de-tottori.md
 - _portfolio/claude-3.md
-- _portfolio/nénuphars-des-marais-du-nord.md
 - _portfolio/le-léon-provancher.md
 - _portfolio/arbres-au-printemps.md
 - _portfolio/coa-coa.md
-- _portfolio/réfléchir.md
 - _portfolio/visite-au-zoo.md
 - _portfolio/rendez-vous-au-lac.md
 - _portfolio/françois.md
@@ -102,7 +98,6 @@ pages:
 - _portfolio/sitting-bear-arikara.md
 - _portfolio/vent-d-est.md
 - _portfolio/old-bob.md
-- _portfolio/man-runs-him.md
 - _portfolio/fleurs.md
 - _portfolio/un-jour-d-été-1.md
 - _portfolio/meggy.md
@@ -112,12 +107,8 @@ pages:
 - _portfolio/félix.md
 - _portfolio/meggy-1.md
 - _portfolio/noël-à-squatec.md
-- _portfolio/jérémie-un-garçon-d-honneur.md
-- _portfolio/rose-des-banlieues.md
-- _portfolio/face-à-la-mer.md
 - _portfolio/marco.md
 - _portfolio/philippe.md
-- _portfolio/félix-un-garçon-d-honneur.md
 - _portfolio/rêvasserie.md
 - _portfolio/jessica-les-jours-d-été.md
 - _portfolio/un-regard-de-claude.md
@@ -129,7 +120,6 @@ pages:
 - _portfolio/crystel.md
 - _portfolio/faye-dunaway.md
 - _portfolio/d-après-une-photo-de-johanne-woodward.md
-- _portfolio/catherine.md
 - _portfolio/helen-gardner.md
 - _portfolio/nato-the-goal-man.md
 - _portfolio/il-était-une-fois-opus-4.md
@@ -137,7 +127,6 @@ pages:
 - _portfolio/il-était-une-fois-opus-5.md
 - _portfolio/crystel-au-naturel.md
 - _portfolio/jour-et-nuit.md
-- _portfolio/rueben-taylor.md
 - _portfolio/empreinte-1.md
 - _portfolio/frédéric-chopin.md
 - _portfolio/il-était-une-fois-opus-2.md
@@ -154,8 +143,40 @@ pages:
 - _portfolio/crystel-1.md
 - _portfolio/blue-moon-mickael.md
 - _portfolio/chef-de-bande-apache.md
+- _portfolio/catherine.md
 - _portfolio/sitting-bear-arikara-1.md
 - _portfolio/little-dog-brûlé.md
+- _portfolio/le-temps-d-un-café-ou-deux-9.md
+- _portfolio/man-runs-him.md
+- _portfolio/maélie.md
+- _portfolio/le-premier-noël-de-gustave.md
+- _portfolio/le-temps-d-un-café-ou-deux-7.md
+- _portfolio/le-temps-d-un-café-ou-deux-10.md
+- _portfolio/trois-allumettes.md
+- _portfolio/la-fée-des-étoiles.md
+- _portfolio/vincent-un-garçon-d-honneur.md
+- _portfolio/félix-un-garçon-d-honneur.md
+- _portfolio/sirène-des-mers.md
+- _portfolio/jérémie-un-garçon-d-honneur.md
+- _portfolio/en-route.md
+- _portfolio/réfléchir.md
+- _portfolio/un-moment-mère-fils-2.md
+- _portfolio/rose-des-banlieues.md
+- _portfolio/nénuphars-des-marais-du-nord.md
+- _portfolio/face-à-la-mer.md
+- _portfolio/un-moment-mère-fils-3.md
+- _portfolio/le-temps-d-un-café-ou-deux-6.md
+- _portfolio/un-moment-mère-fils-4.md
+- _portfolio/le-temps-d-un-café-ou-deux.md
+- _portfolio/le-temps-d-un-café-ou-deux-1.md
+- _portfolio/rueben-taylor.md
+- _portfolio/le-temps-d-un-café-ou-deux-4.md
+- _portfolio/james-bond-en-quelques-croquis.md
+- _portfolio/le-temps-d-un-café-ou-deux-2.md
+- _portfolio/le-temps-d-un-café-ou-deux-3.md
+- _portfolio/le-temps-d-un-café-ou-deux-5.md
+- _portfolio/le-temps-d-un-café-ou-deux-8.md
+- _portfolio/crystel-2.md
 - _portfolio/simon-2015.md
 - _portfolio/claude-mon-amour.md
 - _portfolio/atypique.md
@@ -165,7 +186,6 @@ pages:
 - _portfolio/ginette.md
 - _portfolio/jeune-fille-au-printemps.md
 - _portfolio/linda-et-mario.md
-- _portfolio/trois-allumettes.md
 - _portfolio/le-tavernier.md
 - _portfolio/jour-2.md
 - _portfolio/du-haut-de-la-citadelle.md
