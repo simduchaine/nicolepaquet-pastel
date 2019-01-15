@@ -52,6 +52,11 @@ collections:
     permalink: /portfolio/:path/
 
 defaults:
+  - 
+    scope:
+      path: ""
+    values:
+      image: /assets/img/regard-de-simon.jpg
   -
     scope:
       path: "_posts" # an empty string here means all files in the project
