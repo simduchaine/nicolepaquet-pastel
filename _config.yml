@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Nicole Paquet - Portraitiste
+title: Nicole Paquet - Artiste Peintre
 email: nicole.paquet@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Nicole Paquet est une artiste et portraitiste québécoise. 
+  Nicole Paquet est une artiste peintre et portraitiste québécoise. 
   Voyez quelques-unes de ses plus belles œuvres et tableaux 
-  au pastel et à l'acrylique.
+  au pastel, à l'acrylique et en dessin numérique.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://nicolepaquet.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.nicolepaquet.com" # the base hostname & protocol for your site, e.g. http://example.com
 lang: fr_CA
 facebook_username: nicolepaquetpastel
 author: Nicole Paquet
