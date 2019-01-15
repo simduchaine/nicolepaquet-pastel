@@ -12,6 +12,8 @@ metadata:
 categorie: croquis
 
 ---
-M, supérieure de James Bond, dans le film Quantum Of Solace. Judi Dench, quelle actrice, quelle carrière!
+On ne peut dessiner James Bond, sans penser à M, supérieure de James Bond. Ici, dans le film Quantum Of Solace. 
+
+Judi Dench, quelle actrice, quelle carrière!
 
 Pour en savoir plus sur sa carrière : [https://fr.wikipedia.org/wiki/Judi_Dench](https://fr.wikipedia.org/wiki/Judi_Dench "https://fr.wikipedia.org/wiki/Judi_Dench")
