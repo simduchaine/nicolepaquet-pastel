@@ -23,7 +23,7 @@ formations:
   teacher: Denis Jacques, maître portraitiste
   place: Académie des Beaux-Arts de Québec
 - name: Ateliers de peinture
-  date_from: 2014-06-01 00:00:00 +0000
+  date_from: 2014-05-31 00:00:00 -0400
   date_till: 
   teacher: Juan Cristobal, artiste-peintre
   place: 
@@ -40,8 +40,8 @@ evenements:
 - name: Vie de château
   group: Exposition collective de la Société artistique et culturelle de Québec
   place: Château Frontenac
-  date_from: 2018-05-12 00:00:00 -0400
-  date_till: 2018-05-16 00:00:00 -0400
+  date_from: 2018-05-12 04:00:00 +0000
+  date_till: 2018-05-16 04:00:00 +0000
 - name: Exposition d’oeuvres
   group: Les pastellistes du jeudi, de la Société artistique et culturelle de Québec
   place: Bureau de Joêl Lightbound, député fédéral de Louis-Hébert, à Québec
