@@ -4,7 +4,10 @@ date: 2019-01-06 00:00:00 -0500
 lead: ''
 image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1543514813/jessica.jpg
 categories: Pensées
-tags: []
+tags:
+- Portrait
+- pastel
+- nom
 comments: true
 
 ---
