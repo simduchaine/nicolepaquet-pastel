@@ -4,7 +4,10 @@ date: 2017-05-06 04:00:00 +0000
 lead: ''
 image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1547319476/18342460_1899641490305089_723888647613661131_n.jpg
 categories: Pensées
-tags: []
+tags:
+- Blues
+- pastel
+- portrait
 comments: true
 
 ---
