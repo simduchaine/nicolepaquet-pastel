@@ -3,8 +3,11 @@ title: Marie-Soleil. Conte
 date: 2017-09-16 22:40:47 -0400
 lead: ''
 image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1547610717/Marie-Soleil2.jpg
-categories: ''
-tags: []
+categories: Nouveautés
+tags:
+- conte
+- pastel
+- reflexion
 comments: true
 
 ---
