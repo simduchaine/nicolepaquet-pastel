@@ -33,30 +33,30 @@ formations:
   teacher: Pit Graf
   place: www.apprendre-a-dessiner.org
 evenements:
-- name: Exposition collective - bibliothèque
-  group: Société artistique et culturelle de Québec (SACQ
-  place: Bibliothèque Monique-Corriveau, à Québec
-  date_from: 2017-10-01 00:00:00 -0400
-  date_till: 2017-11-01 00:00:00 -0400
-- name: Artiste permanent
-  group: Off Galerie
-  place: Off Galerie, 113, rue Saint-Paul, Québec
-  date_from: 2018-06-01 04:00:00 +0000
 - name: Vie de château
   group: Exposition collective de la Société artistique et culturelle de Québec
   place: Château Frontenac
   date_from: 2018-05-12 04:00:00 +0000
   date_till: 2018-05-16 04:00:00 +0000
-- name: Exposition d’oeuvres
-  group: Les pastellistes du jeudi, de la Société artistique et culturelle de Québec
-  place: Bureau de Joêl Lightbound, député fédéral de Louis-Hébert, à Québec
-  date_from: 2016-10-01 00:00:00 +0000
-  date_till: 2017-01-01 00:00:00 +0000
+- name: Artiste permanent
+  group: Off Galerie
+  place: Off Galerie, 113, rue Saint-Paul, Québec
+  date_from: 2018-06-01 04:00:00 +0000
+- name: Exposition collective - bibliothèque
+  group: Société artistique et culturelle de Québec (SACQ
+  place: Bibliothèque Monique-Corriveau, à Québec
+  date_from: 2017-10-01 00:00:00 -0400
+  date_till: 2017-11-01 00:00:00 -0400
 - name: Exposition Le pastel dans tous ses états
   group: Les pastellistes du jeudi, de la Société artistique et culturelle de Québec
   place: Maison de la culture, à L’Ancienne-Lorette
   date_from: 2016-02-01 00:00:00 +0000
   date_till: 
+- name: Exposition collective - bureau de député
+  group: Les pastellistes du jeudi, de la Société artistique et culturelle de Québec
+  place: Bureau de Joêl Lightbound, député fédéral de Louis-Hébert, à Québec
+  date_from: 2016-10-01 00:00:00 +0000
+  date_till: 2017-01-01 00:00:00 +0000
 - name: Exposition Récolte de couleurs
   group: 43 artistes de la Société artistique et culturelle de Québec
   place: Bibliothèque Monique-Corriveau, à Québec
