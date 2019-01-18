@@ -33,6 +33,10 @@ formations:
   teacher: Pit Graf
   place: www.apprendre-a-dessiner.org
 evenements:
+- name: Exposition de la SACQ
+  group: Société artistique et culturelle de Québec (SACQ)
+  place: Centre communautaire et culturel Claude-Allard, Québec
+  date_from: 2017-05-13 00:00:00 -0400
 - name: Vie de château
   group: Exposition collective de la Société artistique et culturelle de Québec
   place: Château Frontenac
