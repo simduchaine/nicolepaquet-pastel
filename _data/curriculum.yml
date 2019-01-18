@@ -33,19 +33,23 @@ formations:
   teacher: Pit Graf
   place: www.apprendre-a-dessiner.org
 evenements:
-- name: Exposition de la SACQ
-  group: Société artistique et culturelle de Québec (SACQ)
-  place: Centre communautaire et culturel Claude-Allard, Québec
-  date_from: 2017-05-13 00:00:00 -0400
+- name: Rendez-vous des artistes Off Galerie chez Desserres
+  group: Off Galerie
+  place: Place Sainte-Foy, 2450, boul, Laurier, Québec.
+  date_from: 2018-11-16 00:00:00 -0500
+- name: Artiste permanent
+  group: Off Galerie
+  place: Off Galerie, 113, rue Saint-Paul, Québec
+  date_from: 2018-06-01 04:00:00 +0000
 - name: Vie de château
   group: Exposition collective de la Société artistique et culturelle de Québec
   place: Château Frontenac
   date_from: 2018-05-12 04:00:00 +0000
   date_till: 2018-05-16 04:00:00 +0000
-- name: Artiste permanent
-  group: Off Galerie
-  place: Off Galerie, 113, rue Saint-Paul, Québec
-  date_from: 2018-06-01 04:00:00 +0000
+- name: Exposition de la SACQ
+  group: Société artistique et culturelle de Québec (SACQ)
+  place: Centre communautaire et culturel Claude-Allard, Québec
+  date_from: 2017-05-13 00:00:00 -0400
 - name: Exposition collective - bibliothèque
   group: Société artistique et culturelle de Québec (SACQ
   place: Bibliothèque Monique-Corriveau, à Québec
