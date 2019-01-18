@@ -12,10 +12,6 @@ metadata:
 categorie: personnages
 
 ---
-Portrait d'imagination inspiré du magnifique poème de Jacques Prévert :   
-**Trois allumettes une à une allumées dans la nuit**  
-La première pour voir ton visage tout entier  
-La seconde pour voir tes yeux  
-La dernière pour voir ta bouche  
-Et l'obscurité tout entière pour me rappeler tout cela  
-En te serrant dans mes bras."
+L’amoureux attend la clarté de la lune pour visiter sa belle. Chaque soir venu, sous le ciel étoilé, ils parlent de tout et de rien sans troubler la quiétude des voisins qui classent dans leur sommeil. Et allumette sur allumette, ils attisent la flamme. 
+
+Portrait d’imagination...
