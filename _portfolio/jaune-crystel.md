@@ -12,4 +12,4 @@ metadata:
 categorie: portraits
 
 ---
-Quelle beauté éclatante! Radieuse! Sur son passage, les têtes, tels des tournesols, suivent sa course. Or, qui la touche se brûle. Qui croise son regard devient aveugle par son propre aveuglement. Allumeuse! Sainte-Nitouche! Les avis des commères foisonnent, s’opposent. On bavarde fort dans les environs. Un homme aux mains baladeuses l’aurait prise contre son gré. Elle jetterait dorénavant un sort à quiconque l’approche de trop près. 
+Quelle beauté éclatante! Radieuse! Sur son passage, les têtes, tels des tournesols, suivent sa course. Or, qui la touche se brûle. Qui croise son regard devient aveugle par son propre aveuglement. Allumeuse! Sainte-Nitouche! Les avis des commères foisonnent, s’opposent. On bavarde fort dans les environs. Un homme aux mains baladeuses l’aurait prise contre son gré. Elle jetterait dorénavant un sort à quiconque l’approche de trop près... 
