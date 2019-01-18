@@ -23,7 +23,7 @@ formations:
   teacher: Denis Jacques, maître portraitiste
   place: Académie des Beaux-Arts de Québec
 - name: Ateliers de peinture
-  date_from: 2014-05-31 00:00:00 -0400
+  date_from: 2014-05-31 04:00:00 +0000
   date_till: 
   teacher: Juan Cristobal, artiste-peintre
   place: 
@@ -33,6 +33,11 @@ formations:
   teacher: Pit Graf
   place: www.apprendre-a-dessiner.org
 evenements:
+- name: Exposition collective
+  group: Société artistique et culturelle de Québec (SACQ
+  place: Bibliothèque Monique-Corriveau, à Québec
+  date_from: 2017-10-01 00:00:00 -0400
+  date_till: 2017-11-01 00:00:00 -0400
 - name: Artiste permanent
   group: Off Galerie
   place: Off Galerie, 113, rue Saint-Paul, Québec
