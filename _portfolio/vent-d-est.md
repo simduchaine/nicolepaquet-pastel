@@ -13,3 +13,5 @@ categorie: portraits
 
 ---
 Vent de toutes les passions. Sans mauvais présage. Laisse-moi te faire un chignon et découvrir ton visage. Souffle le vent dans ton cou, souffle des mots doux. Texte et pastel de Nicole Paquet.
+
+Prix sur demande
