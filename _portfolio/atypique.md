@@ -10,4 +10,6 @@ metadata:
   type: Acrylique
 
 ---
-Peindre la différence ou différemment, mais jamais avec indifférence. 
+Peindre la différence ou différemment, mais jamais avec indifférence.
+
+Prix sur demande
