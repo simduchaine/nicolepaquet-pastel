@@ -58,7 +58,6 @@ fields:
 pages:
 - _portfolio/les-amoureux.md
 - _portfolio/vincent-1.md
-- _portfolio/capitaine-f-x.md
 - _portfolio/autoportrait.md
 - _portfolio/selfie-brithany.md
 - _portfolio/sa-première-auto.md
@@ -66,6 +65,7 @@ pages:
 - _portfolio/orange-cath.md
 - _portfolio/vincent.md
 - _portfolio/mick.md
+- _portfolio/capitaine-f-x.md
 - _portfolio/pause.md
 - _portfolio/david-un-garçon-d-honneur.md
 - _portfolio/phil-1.md
