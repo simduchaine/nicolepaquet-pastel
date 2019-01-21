@@ -14,6 +14,6 @@ Après une carrière d’intervenante sociale et de gestionnaire dans l’admini
 
 Autodictate, j'ai suivi par ailleurs quelques formations et ateliers avec des artistes renommés. Les médiums que j'utilise pour mes portraits sont principalement le pastel, le fusain, et depuis peu, l'acrylique et le dessin numérique.
 
-Outre des portraits personnels, je produis des oeuvres figuratives. Mon arrivée en 2018 dans le collectif d’artistes Off Galerie s’inscrit dans mon besoin constant d’explorer et d’exprimer ma sensibilité pour la nature humaine. Ainsi, je crée maintenant pour les fans de la galerie des oeuvres, lesquelles oscillent entre l’impressionnisme et le réalisme avec un traitement nettement contemporain et expressif.
+Outre des portraits personnels, je produis des oeuvres figuratives. Mon arrivée en 2018 dans le collectif d’artistes Off Galerie s’inscrit dans mon besoin constant d’explorer et d’exprimer ma sensibilité pour la nature humaine. Ainsi, je crée maintenant aussi des oeuvres, lesquelles oscillent entre l’impressionnisme et le réalisme avec un traitement nettement contemporain et expressif.
 
 [Contactez moi](/contact/){: .btn.main-btn}
