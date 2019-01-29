@@ -22,7 +22,7 @@ Ce que j'aime le plus, c'est de revoir son écriture, soit sur des fiches de rec
 
 ![](https://res.cloudinary.com/npaquet-pastel/image/upload/v1548790075/IMG_20190129_134118737.jpg)
 
-J'ai retrouvé un texte qu'elle a écrit dans les années 40. Elle n'avait pas encore 20 ans. Il s'intitule : "Le rôle de la femme dans notre histoire". Puisque son écriture est difficile à lire, j'ai retranscrit la conclusion de son texte à la suite de cette photo.
+J'ai retrouvé un texte qu'elle a écrit dans les années 40. Elle n'avait pas encore 18 ans. Il s'intitule : "Le rôle de la femme dans notre histoire". Puisque son écriture est difficile à lire, j'ai retranscrit la conclusion de son texte à la suite de cette photo.
 
 ![](https://res.cloudinary.com/npaquet-pastel/image/upload/v1548791239/DSC09489.jpg)
 
