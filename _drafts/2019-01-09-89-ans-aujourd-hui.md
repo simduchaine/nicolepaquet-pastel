@@ -34,4 +34,6 @@ Quelques années plus tard, elle a eu cinq enfants et elle a été une maman mer
 
 Rien dans ces textes, toutefois, ne laissait présager qu'elle deviendrait, 25 ans plus tard, une des premières féministes de sa génération et une syndicaliste très impliquée dans son milieu de travail!
 
+Je pense à toi, maman. Merci de me visiter souvent dans mes rêves! 
+
 Nicole Paquet, une de ses filles (et une sainte maman à son tour!)
