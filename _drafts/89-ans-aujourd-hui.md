@@ -13,11 +13,11 @@ comments: true
 ---
 Aujourd'hui, le 31 janvier, c'est la date de naissance de ma maman.
 
-J'aime parler de ma mère à la date de sa naissance plutôt qu'à celle de son décès. 
+J'aime parler de ma mère à la date de sa naissance plutôt qu'à celle de son décès.
 
 J'aime m'arrêter sur les rares portraits d'elle dans sa jeunesse et les textes qu'elle avait écrits.
 
-Ce que j'aime le plus, c'est de revoir son écriture, soit sur des fiches de recette ou sur des cartes d'anniversaire, ou cette inscription placée en tête du livre qu'elle m'avait donné. 
+Ce que j'aime le plus, c'est de revoir son écriture, soit sur des fiches de recette ou sur des cartes d'anniversaire, ou cette inscription placée en tête du livre qu'elle m'avait donné.
 
 ![](https://res.cloudinary.com/npaquet-pastel/image/upload/v1548790075/IMG_20190129_134118737.jpg)
 
@@ -29,8 +29,8 @@ J'ai retrouvé un texte qu'elle a écrit dans les années 40. Elle n'avait pas e
 
 De plus, elle écrit ailleurs dans son journal, à 16 ans : **_"Oh merci, mon Dieu, de m'avoir donné une sainte maman pour pourvoir devenir, plus tard moi aussi, une autre sainte maman"._**
 
-Quelques années plus tard, elle a eu cinq enfants et elle a été une maman merveilleuse. 
+Quelques années plus tard, elle a eu cinq enfants et elle a été une maman merveilleuse.
 
 Rien dans ces textes, toutefois, laissaient présager qu'elle deviendrait une des premières féministes de sa génération et une syndicaliste très impliquée dans son milieu de travail!
 
-Nicole Paquet, une de ses filles (et une sainte maman!)
+Nicole Paquet, une de ses filles (et une sainte maman à son tour!)
