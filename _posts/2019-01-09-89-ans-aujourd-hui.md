@@ -1,6 +1,6 @@
 ---
 title: 'Le 31 janvier, une date jamais comme les autres. '
-permalink: 31-janvier-pas-comme-les-autres
+permalink: une-date-pas-comme-les-autres
 date: 2019-01-31 00:00:00 -0500
 lead: ''
 image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1548789522/16938466_1866072356995336_5038382496306003994_n.jpg
