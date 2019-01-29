@@ -1,7 +1,7 @@
 ---
 title: 'Le 31 janvier, une date jamais comme les autres. '
 permalink: une-date-pas-comme-les-autres
-date: 2019-01-29 16:28:20 -0500
+date: 2019-01-31 16:28:20 -0500
 lead: ''
 image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1548789522/16938466_1866072356995336_5038382496306003994_n.jpg
 categories: Pensées
@@ -32,6 +32,6 @@ De plus, elle écrit ailleurs dans son journal, à 16 ans : **_"Oh merci, mon Di
 
 Quelques années plus tard, elle a eu cinq enfants et elle a été une maman merveilleuse.
 
-Rien dans ces textes, toutefois, laissaient présager qu'elle deviendrait, 25 ans plus tard, une des premières féministes de sa génération et une syndicaliste très impliquée dans son milieu de travail!
+Rien dans ces textes, toutefois, ne laissait présager qu'elle deviendrait, 25 ans plus tard, une des premières féministes de sa génération et une syndicaliste très impliquée dans son milieu de travail!
 
 Nicole Paquet, une de ses filles (et une sainte maman à son tour!)
