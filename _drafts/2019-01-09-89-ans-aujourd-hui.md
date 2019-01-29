@@ -12,9 +12,9 @@ tags:
 comments: true
 
 ---
-Aujourd'hui, c'est la date de naissance de ma maman.
+Aujourd'hui, c'est le jour d'anniversaire de la naissance de ma maman.
 
-J'aime parler de ma mère à la date de sa naissance plutôt qu'à celle de son décès.
+Je préfère parler de ma mère à la date de sa naissance plutôt qu'à celle de son décès.
 
 J'aime m'arrêter sur les rares portraits d'elle dans sa jeunesse et les textes qu'elle avait écrits.
 
