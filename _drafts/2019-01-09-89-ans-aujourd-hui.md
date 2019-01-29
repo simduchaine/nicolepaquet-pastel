@@ -31,6 +31,6 @@ De plus, elle écrit ailleurs dans son journal, à 16 ans : **_"Oh merci, mon Di
 
 Quelques années plus tard, elle a eu cinq enfants et elle a été une maman merveilleuse.
 
-Rien dans ces textes, toutefois, laissaient présager qu'elle deviendrait une des premières féministes de sa génération et une syndicaliste très impliquée dans son milieu de travail!
+Rien dans ces textes, toutefois, laissaient présager qu'elle deviendrait, 25 ans plus tard, une des premières féministes de sa génération et une syndicaliste très impliquée dans son milieu de travail!
 
 Nicole Paquet, une de ses filles (et une sainte maman à son tour!)
