@@ -11,7 +11,7 @@ tags:
 comments: true
 
 ---
-Aujourd'hui, le 31 janvier, c'est la date de naissance de ma maman.
+Aujourd'hui, c'est la date de naissance de ma maman.
 
 J'aime parler de ma mère à la date de sa naissance plutôt qu'à celle de son décès.
 
