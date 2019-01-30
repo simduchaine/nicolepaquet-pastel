@@ -45,7 +45,7 @@ Dans cet essai, alors encore jeune fille, elle attribuait aux femmes et aux mèr
 
 Au moment de la rédaction de ce texte, rien ne laissait présager qu'elle deviendrait, 25 ans plus tard, une des premières féministes de sa génération et une syndicaliste très engagée et impliquée dans son milieu de travail.
 
-Mariage et cinq enfants dans la vingtaine. Monoparentale au début de la trentaine. Intégration au marché du travail. Retour aux études dans la quarantaine tout en travaillant à plein temps. Mais, ma mère ne se prenait jamais pour une victime. Ouf!  Dans toutes les épreuves de sa vie, elle a pris le taureau par les cornes. Un modèle de force, de persévérance et d’espoir. Elle était une femme avec de grandes valeurs de justice et d'égalité.
+Mariage et cinq enfants. Monoparentale au début de la trentaine. Intégration au marché du travail. Retour aux études dans la quarantaine tout en travaillant à plein temps. Mais, ma mère ne se prenait jamais pour une victime. Ouf!  Dans toutes les épreuves de sa vie, elle a pris le taureau par les cornes. Un modèle de force, de persévérance et d’espoir. Elle était une femme avec de grandes valeurs de justice et d'égalité.
 
 Pour terminer, elle a écrit ailleurs dans son journal, à 16 ans : **_"Oh merci, mon Dieu, de m'avoir donné une sainte maman pour pourvoir devenir, plus tard moi aussi, une autre sainte maman"._**
 
