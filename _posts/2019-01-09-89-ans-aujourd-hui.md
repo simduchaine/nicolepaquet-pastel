@@ -42,7 +42,7 @@ Elle écrit :
 
 Dans ce texte, alors qu'elle était jeune fille, elle attribuait aux femmes, aux mères, toute la responsabilité des relations homme/femme et de l’éducation des garçons. Sa pensée s’apparente au phénomène de la « double victimisation ». Ce phénomène, qui consiste à blâmer la victime, est encore très actuel aujourd'hui, notamment dans les cas de victimes de violence conjugale ou sexuelle.
 
-Sa déclaration du moment ne laissait pas présager qu'elle deviendrait, 25 ans plus tard, une des premières féministes de sa génération et une syndicaliste très engagée et impliquée dans son milieu de travail.
+Sa déclaration du moment ne laissait présager qu'elle deviendrait, 25 ans plus tard, une des premières féministes de sa génération et une syndicaliste très engagée et impliquée dans son milieu de travail.
 
 En effet, dans sa vie d'adulte, ma mère ne se prenait pas pour une victime. Ouf! Dans toutes les épreuves de sa vie, elle a pris le taureau par les cornes. Elle était une femme avec de grandes valeurs de justice et d'égalité.
 
