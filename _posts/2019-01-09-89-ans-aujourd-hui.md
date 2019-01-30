@@ -26,7 +26,7 @@ Ce que j'aime le plus, c'est de revoir son écriture, soit sur des fiches de rec
 
 ![](https://res.cloudinary.com/npaquet-pastel/image/upload/v1548790075/IMG_20190129_134118737.jpg)
 
-J'ai retrouvé un texte qu'elle a écrit dans les années 40. Elle n'avait pas encore 18 ans. Il s'intitule : **_"Le rôle de la femme dans notre histoire"._** Puisque son écriture est difficile à lire, j'ai retranscrit des extraits de son texte à la suite de cette photo.
+J'ai retrouvé un essai littéraire qu'elle a écrit dans les années 40. Elle n'avait pas encore 18 ans. Il s'intitule : **_"Le rôle de la femme dans notre histoire"._** Puisque son écriture est difficile à lire, j'ai retranscrit des extraits de son texte à la suite de cette photo.
 
 ![](https://res.cloudinary.com/npaquet-pastel/image/upload/v1548791239/DSC09489.jpg)
 
@@ -40,11 +40,11 @@ Elle écrit :
 
 **_C'est à nous, mamans canadiennes de demain, qui incombera le devoir de réformer la société, de préparer les enfants à accomplir leur vocation sans défaillance qu'elle soit la religion, la profession ou la politique. Préparons-nous dès aujourd'hui pour être en mesure de dire à Dieu lorsqu'il désignera notre mission : "Je suis prête."_**
 
-Dans ce texte, alors qu'elle était jeune fille, elle attribuait aux femmes, aux mères, toute la responsabilité des relations homme/femme et de l’éducation des garçons. Sa réflexion s’apparente au phénomène de la « double victimisation ». Ce phénomène, qui consiste à blâmer la victime, est encore très actuel aujourd'hui, notamment dans les cas de victimes de violence conjugale ou sexuelle.
+Dans cet essai littéraire, alors qu'elle était encore jeune fille, elle attribuait aux femmes, aux mères, toute la responsabilité des relations homme/femme et de l’éducation des garçons. Sa réflexion s’apparente au phénomène de la « double victimisation ». Ce phénomène, qui consiste à blâmer la victime, est encore très actuel aujourd'hui, notamment dans les cas de victimes de violence conjugale ou sexuelle.
 
-Au moment de la rédaction de cet essai littéraire, rien ne laissait présager qu'elle deviendrait, 25 ans plus tard, une des premières féministes de sa génération et une syndicaliste très engagée et impliquée dans son milieu de travail.
+Au moment de la rédaction de ce texte, rien ne laissait présager qu'elle deviendrait, 25 ans plus tard, une des premières féministes de sa génération et une syndicaliste très engagée et impliquée dans son milieu de travail.
 
-En effet, dans sa vie d'adulte, ma mère ne se prenait pas pour une victime. Ouf! Dans toutes les épreuves de sa vie, elle a pris le taureau par les cornes. Elle était une femme avec de grandes valeurs de justice et d'égalité.
+Dans sa vie d'adulte, ma mère ne se prenait pas pour une victime. Ouf! Dans toutes les épreuves de sa vie, elle a pris le taureau par les cornes. Elle était une femme avec de grandes valeurs de justice et d'égalité.
 
 Pour terminer, elle a écrit ailleurs dans son journal, à 16 ans : **_"Oh merci, mon Dieu, de m'avoir donné une sainte maman pour pourvoir devenir, plus tard moi aussi, une autre sainte maman"._**
 
