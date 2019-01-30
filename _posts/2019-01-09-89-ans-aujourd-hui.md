@@ -7,8 +7,9 @@ image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1548789522/169384
 categories: Pensées
 tags:
 - pastel
-- " anniversaire"
-- " maman"
+- féminisme
+- histoire
+- rôle des mères
 comments: true
 
 ---
