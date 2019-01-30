@@ -43,7 +43,7 @@ Elle écrit :
 
 Dans cet essai, alors encore jeune fille, elle attribuait aux femmes et aux mères, toute la responsabilité des relations homme/femme et de l’éducation des garçons. À cette époque, les parents, dans une très grande majorité, avaient des rôles traditionnels. Les femmes à la maison et les hommes au travail. De plus, dans les approches psychanalytiques, on tenait la mère comme seule responsable du développement des enfants. Par ailleurs, sa réflexion sur la faute des femmes s’apparente au phénomène de la « double victimisation ». Ce phénomène, qui consiste à blâmer la victime, est encore très actuel aujourd'hui, notamment dans les cas de victimes de violence conjugale ou sexuelle.
 
-Au moment de la rédaction de ce texte, rien ne laissait présager qu'elle deviendrait, 25 ans plus tard, une des premières féministes de sa génération et une syndicaliste très engagée et impliquée dans son milieu de travail.
+Au moment de la rédaction de son essai, rien ne laissait présager qu'elle deviendrait, 25 ans plus tard, une des premières féministes de sa génération et une syndicaliste très engagée et impliquée dans son milieu de travail.
 
 Mariage et cinq enfants. Monoparentale au début de la trentaine. Intégration au marché du travail. Retour aux études dans la quarantaine tout en travaillant à plein temps. Mais, ma mère ne se prenait jamais pour une victime. Ouf!  Dans toutes les épreuves de sa vie, elle a pris le taureau par les cornes. Un modèle de force, de persévérance et d’espoir. Elle était une femme avec de grandes valeurs de justice et d'égalité.
 
