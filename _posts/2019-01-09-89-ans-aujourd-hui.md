@@ -1,5 +1,5 @@
 ---
-title: Ma mère. L'histoire de l'émancipation d'une femme.
+title: Ma mère. Le portrait de l'émancipation d'une femme.
 permalink: 31-janvier-une-date-jamais-comme-les-autres
 date: 2019-01-31 16:28:20 -0500
 lead: ''
