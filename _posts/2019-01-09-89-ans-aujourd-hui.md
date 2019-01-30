@@ -22,7 +22,7 @@ Ce que j'aime le plus, c'est de revoir son écriture, soit sur des fiches de rec
 
 ![](https://res.cloudinary.com/npaquet-pastel/image/upload/v1548790075/IMG_20190129_134118737.jpg)
 
-J'ai retrouvé un texte qu'elle a écrit dans les années 40. Elle n'avait pas encore 18 ans. Il s'intitule : "Le rôle de la femme dans notre histoire". Puisque son écriture est difficile à lire, j'ai retranscrit des extraits de son texte à la suite de cette photo.
+J'ai retrouvé un texte qu'elle a écrit dans les années 40. Elle n'avait pas encore 18 ans. Il s'intitule : **_"Le rôle de la femme dans notre histoire"._** Puisque son écriture est difficile à lire, j'ai retranscrit des extraits de son texte à la suite de cette photo.
 
 ![](https://res.cloudinary.com/npaquet-pastel/image/upload/v1548791239/DSC09489.jpg)
 
@@ -36,7 +36,7 @@ J'ai retrouvé un texte qu'elle a écrit dans les années 40. Elle n'avait pas e
 
 **_C'est à nous, mamans canadiennes de demain, qui incombera le devoir de réformer la société, de préparer les enfants à accomplir leur vocation sans défaillance qu'elle soit la religion, la profession ou la politique. Préparons-nous dès aujourd'hui pour être en mesure de dire à Dieu lorsqu'il désignera notre mission : "Je suis prête."_**
 
-Comme on peut le lire, alors qu'elle était encore une jeune fille, elle attribuait aux mères toute la responsabilité de la situation dans laquelle les femmes se trouvaient. Ce phénomène s'appelle la « **_double victimisation_** ». Ce phénomène est encore très actuel aujourd'hui dans les cas de victimes de violence conjugale ou sexuelle.
+Comme on peut le lire, alors qu'elle était encore jeune fille, elle attribuait aux mères, aux femmes, toute la responsabilité des problèmes homme/femme. Ce phénomène s'appelle la « **_double victimisation_** ». Ce phénomène est encore très actuel aujourd'hui dans les cas de victimes de violence conjugale ou sexuelle.
 
 Par ailleurs, dans sa vie d'adulte, c'est une femme qui ne se prenait pas pour une victime. Dans toutes les épreuves de sa vie, elle a pris le taureau par les cornes. Ma mère était une femme avec de grandes valeurs de justice et d'égalité. C'est sans surprise qu'elle est devenue une des premières féministes de sa génération et une syndicaliste très engagée et impliquée dans son milieu de travail.
 
