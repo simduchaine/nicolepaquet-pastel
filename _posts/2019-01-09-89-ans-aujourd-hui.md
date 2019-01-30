@@ -22,18 +22,26 @@ Ce que j'aime le plus, c'est de revoir son écriture, soit sur des fiches de rec
 
 ![](https://res.cloudinary.com/npaquet-pastel/image/upload/v1548790075/IMG_20190129_134118737.jpg)
 
-J'ai retrouvé un texte qu'elle a écrit dans les années 40. Elle n'avait pas encore 18 ans. Il s'intitule : "Le rôle de la femme dans notre histoire". Puisque son écriture est difficile à lire, j'ai retranscrit la conclusion de son texte à la suite de cette photo.
+J'ai retrouvé un texte qu'elle a écrit dans les années 40. Elle n'avait pas encore 18 ans. Il s'intitule : "Le rôle de la femme dans notre histoire". Puisque son écriture est difficile à lire, j'ai retranscrit des extraits de son texte à la suite de cette photo.
 
 ![](https://res.cloudinary.com/npaquet-pastel/image/upload/v1548791239/DSC09489.jpg)
 
-**_"C'est à nous, mamans canadiennes de demain, qui incombera le devoir de réformer la société, de préparer les enfants à accomplir leur vocation sans défaillance qu'elle soit la religion, la profession ou la politique. Préparons-nous dès aujourd'hui pour être en mesure de dire à Dieu lorsqu'il désignera notre mission : "Je suis prête."_**
+ Elle écrit :
 
-De plus, elle écrit ailleurs dans son journal, à 16 ans : **_"Oh merci, mon Dieu, de m'avoir donné une sainte maman pour pourvoir devenir, plus tard moi aussi, une autre sainte maman"._**
+**_"Nous connaissons les exploits de nos intrépides ancêtres, le zèle de nos prêtres, mais nos mères canadiennes, comme elles sont oubliées! Ce sont des héroïnes \[...\]_** 
 
-Quelques années plus tard, elle a eu cinq enfants et elle a été une maman merveilleuse.
+**_Lorsque les Anglais voulurent imposer leurs lois, la femme lutta elle aussi pour la liberté. Car c'est elle qui apprit à ses enfants la beauté de la langue et la grandeur de la religion. Louis-Joseph Papineau n'aurait pas été si grand défenseur de notre cause sans le sentiment patriotique que sa mère lui transmit. Personne n'est plus dévouée que la mère \[...\]_** 
 
-Rien dans ces textes, toutefois, ne laissait présager qu'elle deviendrait, 25 ans plus tard, une des premières féministes de sa génération et une syndicaliste très impliquée dans son milieu de travail!
+**_L'homme respecte moins la femme qu'autrefois. La faute doit être attribuée à la mère de famille qui n'a su donner à ses fils des manières élégantes et un sentiment de vénération et d'amour véritable pour la femme, c'est-à-dire l'aimer non pour son physique attirant mais pour son coeur débordant de vertus et pour sa mission sacrée que personne ne doit ternir._** 
 
-Je pense à toi, maman. Merci de me visiter souvent dans mes rêves!
+**_C'est à nous, mamans canadiennes de demain, qui incombera le devoir de réformer la société, de préparer les enfants à accomplir leur vocation sans défaillance qu'elle soit la religion, la profession ou la politique. Préparons-nous dès aujourd'hui pour être en mesure de dire à Dieu lorsqu'il désignera notre mission : "Je suis prête."_**
 
-Nicole Paquet, une de ses filles (et une sainte maman à son tour!)
+Comme on peut le lire, maman qui était alors une jeune fille, attribuait aux mères toute la responsabilité de la situation dans laquelle les femmes se trouvaient . Ce phénomène s'appelle la « **_double victimisation_** ». Ce phénomène est encore très actuel aujourd'hui dans les cas de victimes de violence conjugale ou sexuelle.
+
+Par ailleurs, dans sa vie d'adulte, c'est une femme qui ne se prenait pas pour une victime. Dans toutes les épreuves de sa vie, elle a pris le taureau par les cornes. Ma mère était une femme avec de grandes valeurs de justice et d'égalité. Elle est devenue une des premières féministes de sa génération et une syndicaliste très impliquée dans son milieu de travail.
+
+Pour terminer, elle a écrit ailleurs dans son journal, à 16 ans : **_"Oh merci, mon Dieu, de m'avoir donné une sainte maman pour pourvoir devenir, plus tard moi aussi, une autre sainte maman"._** 
+
+Oui, maman, tu as été une maman merveilleuse. Je pense à toi. Merci de me visiter souvent dans mes rêves!
+
+Ta fille, Nicole.
