@@ -40,7 +40,7 @@ Elle écrit :
 
 **_C'est à nous, mamans canadiennes de demain, qui incombera le devoir de réformer la société, de préparer les enfants à accomplir leur vocation sans défaillance qu'elle soit la religion, la profession ou la politique. Préparons-nous dès aujourd'hui pour être en mesure de dire à Dieu lorsqu'il désignera notre mission : "Je suis prête."_**
 
-Dans ce texte, alors qu'elle était jeune fille, elle attribuait aux femmes, aux mères, toute la responsabilité des relations homme/femme et de l’éducation des garçons. Sa pensée s’apparente au phénomène de la « **_double victimisation_** ». Ce phénomène, qui consiste à blâmer la victime, est encore très actuel aujourd'hui, notamment dans les cas de victimes de violence conjugale ou sexuelle.
+Dans ce texte, alors qu'elle était jeune fille, elle attribuait aux femmes, aux mères, toute la responsabilité des relations homme/femme et de l’éducation des garçons. Sa pensée s’apparente au phénomène de la « double victimisation ». Ce phénomène, qui consiste à blâmer la victime, est encore très actuel aujourd'hui, notamment dans les cas de victimes de violence conjugale ou sexuelle.
 
 Cette déclaration du moment ne laissait pas présager qu'elle deviendrait, 25 ans plus tard, une des premières féministes de sa génération et une syndicaliste très engagée et impliquée dans son milieu de travail.
 
