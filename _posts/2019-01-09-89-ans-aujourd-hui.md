@@ -36,7 +36,7 @@ J'ai retrouvé un texte qu'elle a écrit dans les années 40. Elle n'avait pas e
 
 **_C'est à nous, mamans canadiennes de demain, qui incombera le devoir de réformer la société, de préparer les enfants à accomplir leur vocation sans défaillance qu'elle soit la religion, la profession ou la politique. Préparons-nous dès aujourd'hui pour être en mesure de dire à Dieu lorsqu'il désignera notre mission : "Je suis prête."_**
 
-Comme on peut le lire, maman qui était alors une jeune fille, attribuait aux mères toute la responsabilité de la situation dans laquelle les femmes se trouvaient . Ce phénomène s'appelle la « **_double victimisation_** ». Ce phénomène est encore très actuel aujourd'hui dans les cas de victimes de violence conjugale ou sexuelle.
+Comme on peut le lire, alors qu'elle était encore une jeune fille, elle attribuait aux mères toute la responsabilité de la situation dans laquelle les femmes se trouvaient. Ce phénomène s'appelle la « **_double victimisation_** ». Ce phénomène est encore très actuel aujourd'hui dans les cas de victimes de violence conjugale ou sexuelle.
 
 Par ailleurs, dans sa vie d'adulte, c'est une femme qui ne se prenait pas pour une victime. Dans toutes les épreuves de sa vie, elle a pris le taureau par les cornes. Ma mère était une femme avec de grandes valeurs de justice et d'égalité. Elle est devenue une des premières féministes de sa génération et une syndicaliste très impliquée dans son milieu de travail.
 
