@@ -1,7 +1,7 @@
 ---
 title: Ma mère. Le portrait de l'émancipation d'une femme.
 permalink: 31-janvier-une-date-jamais-comme-les-autres
-date: 2019-01-30 16:28:20 -0500
+date: 2019-01-31 16:28:20 -0500
 lead: ''
 image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1548789522/16938466_1866072356995336_5038382496306003994_n.jpg
 categories: Pensées
