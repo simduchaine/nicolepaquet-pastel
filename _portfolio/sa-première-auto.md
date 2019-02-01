@@ -12,4 +12,6 @@ metadata:
 categorie: personnages
 
 ---
+D'après un négatif d'une photo de famille
+
 Prix sur demande
