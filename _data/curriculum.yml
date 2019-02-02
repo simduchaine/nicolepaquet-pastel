@@ -1,5 +1,8 @@
 ---
 associations:
+- name: Académie Internationale des Beaux-Arts du Québec
+  logo: https://res.cloudinary.com/npaquet-pastel/image/upload/v1549115529/Unknown%20%282%29.jpg
+  date: 2019-02-01 00:00:00 -0500
 - name: Collectif des ateliers libres en arts visuels de Québec
   date: 2019-01-07 05:00:00 +0000
 - name: Regroupement des artistes en arts visuels du Québec
