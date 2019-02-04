@@ -12,4 +12,4 @@ metadata:
 categorie: paysages
 
 ---
-Prix sur demande
+À vendre. 300 $ encadré.
