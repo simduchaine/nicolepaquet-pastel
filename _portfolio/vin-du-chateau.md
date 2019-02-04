@@ -1,5 +1,5 @@
 ---
-title: Vin du chateau
+title: Vin du Château
 image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1542855191/vin-du-chateau.jpg
 date: 2018-09-15 04:00:00 +0000
 categorie: paysages
@@ -12,4 +12,4 @@ metadata:
 ---
 Lorsque le raisin s’est invité à l’inauguration du Château Frontenac en 1893, cela a donné lieu à un excellent vin qui a vieilli dans la voûte. (Anecdote imaginaire, bien sûr!)
 
-Prix sur demande
+À vendre. 600 $ encadré.
