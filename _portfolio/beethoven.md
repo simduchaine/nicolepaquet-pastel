@@ -10,6 +10,5 @@ metadata:
   support: ''
   type: ''
 categorie: croquis
-published: false
 
 ---
