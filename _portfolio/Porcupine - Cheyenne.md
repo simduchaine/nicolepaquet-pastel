@@ -10,6 +10,8 @@ metadata:
   support: Toile
   type: Acrylique
 categorie: portraits
-published: false
 
 ---
+D'après une photo de Edward S. Curtis.
+
+Curtis écrit : "Au cours des rassemblements estivaux, lors d'occasions comme la Danse du Soleil, les hommes se protègent parfois du soleil impitoyable en posant sur leurs têtes un tressage de feuilles de peuplier."
