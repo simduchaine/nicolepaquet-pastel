@@ -12,3 +12,4 @@ metadata:
 categorie: portraits
 
 ---
+D'après une photo de Edward S. Curtis
