@@ -15,28 +15,28 @@ tags:
 comments: false
 
 ---
-Pratiquer mon dessin. Mais dessiner quoi? Absolument tout! 
+Pratiquer mon dessin. Mais dessiner quoi? 
 
-Tous les sujets sont bons. Et il faut surtout que je laisse de côté les mauvaises idées qui traversent souvent mon esprit et qui viennent freiner mes élans. Par exemple, "ce n'est plus de mon âge" de dessiner des girafes, ou un vélo, ou des souliers, ... On ne doit pas se sentir sans-dessein de dessiner sans dessein.
+Absolument tout!
 
-À vrai dire, je suis rarement en panne d'idées. Voici le résultat de quelques-unes de mes séances de pratique. 
+Tous les sujets sont bons. Et il faut surtout que je laisse de côté les mauvaises idées qui traversent souvent mon esprit et qui viennent freiner mes élans. Par exemple, "ce n'est plus de mon âge" de dessiner des girafes, ou un vélo, ou des souliers, ... De plus, il s'agit de chasser l'idée "qu'on est sans-dessein" de dessiner sans dessein.
+
+À vrai dire, je suis rarement en panne d'idées. Voici le résultat de quelques-unes de mes séances de pratique.
 
 * Dessins en m'inspirant ou modifiant des oeuvres des artistes renommées. Ici, des portraits d'après les autoportraits de Vincent van Gogh et de Gustave Caillebotte.
-
-
-* Dessins en temps restreint d'après modèle vivant. Voici deux croquis que j'ai faits en 20 min, cette semaine. 
+* Dessins en temps restreint d'après modèle vivant. Voici deux croquis que j'ai faits en 20 min, cette semaine.
 
 ![](https://res.cloudinary.com/npaquet-pastel/image/upload/v1549810195/IMG_3423%20%281%29.jpg)
 
 ![](https://res.cloudinary.com/npaquet-pastel/image/upload/v1549809869/IMG_3424.jpg)
 
-* Dessins selon un thème. Par exemple, un dessin par lettre de l'alphabet ou les animaux d'un zoo. 
+* Dessins selon un thème. Par exemple, un dessin par lettre de l'alphabet ou les animaux d'un zoo.
 
 ![](https://res.cloudinary.com/npaquet-pastel/image/upload/v1549809926/IMG_2128.jpg)
 
 Une autre façon de me motiver est de varier mon matériel de dessin (fusain, crayons, tablette numérique) et j'essaie différentes textures de papier.
 
-Et lorsque malgré tout, je suis vraiment en panne d'idées, il existe le générateur d'idées Eurekaaa, une application gratuite, en version Android, que j'ai installé sur mon cell. 
+Et lorsque malgré tout, je suis vraiment en panne d'idées, il existe le générateur d'idées Eurekaaa, une application gratuite, en version Android, que j'ai installé sur mon cell.
 
 ![](https://res.cloudinary.com/npaquet-pastel/image/upload/v1549810350/Unknown%20%283%29.jpg)
 
