@@ -2,7 +2,7 @@
 identifier: portfolio
 layout: single-portfolio
 title: Porcupine - Cheyenne
-image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1549657077/DSC09615%20%282%29.jpg
+image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1549806081/DSC09646%20%282%29.jpg
 date: 2019-02-05 00:00:00 -0500
 metadata:
   year: 2019-02-01 00:00:00 -0500
