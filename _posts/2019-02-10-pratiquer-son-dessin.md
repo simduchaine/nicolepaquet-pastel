@@ -27,7 +27,7 @@ Tous les sujets sont bons. D'abord, je laisse de côté les mauvaises idées qui
 
 ![](https://res.cloudinary.com/npaquet-pastel/image/upload/v1549808463/IMG_3442.jpg)
 
-* Dessins en temps restreint d'après modèle vivant. Voici deux croquis que j'ai faits en 20 min, cette semaine.
+* Dessins dans un temps restreint d'après modèle vivant ou d'après photo.Voici deux croquis que j'ai faits en 20 min, cette semaine, dans un atelier avec un modèle sur place. 
 
 ![](https://res.cloudinary.com/npaquet-pastel/image/upload/v1549810195/IMG_3423%20%281%29.jpg)
 
