@@ -19,7 +19,7 @@ Pratiquer mon dessin. Mais dessiner quoi?
 
 Absolument tout!
 
-Tous les sujets sont bons. Et il faut surtout que je laisse de côté les mauvaises idées qui traversent souvent mon esprit et qui viennent freiner mes élans. Par exemple, "ce n'est plus de mon âge" de dessiner une girafe, ou un vélo, ou des souliers, ... De plus, il s'agit de chasser l'idée "qu'on est sans-dessein" de dessiner sans grand dessein. Il est vrai que l'intention est un des premiers pas dans la réalisation de tout projet. Mais, parfois, notre objectif peut être très simple et non lié au résultat final. Par exemple, essayer mes nouveaux crayons, occuper le temps dans une salle d'attente...
+Tous les sujets sont bons. D'abord, je laisse de côté les mauvaises idées qui traversent mon esprit et qui viennent freiner mes élans. Par exemple, "ce n'est plus de mon âge" de dessiner une girafe, ou un vélo, ou des souliers, ... De plus, je chasse la pensée "qu'on est sans-dessein" de dessiner sans dessein. Il est vrai que l'intention est un des premiers pas dans la réalisation de tout projet. Mais, dans mes pratiques, mon objectif est souvent très simple et non lié au résultat final. Par exemple, essayer mes nouveaux crayons, occuper le temps dans une salle d'attente, tester une nouvelle palette de couleur, pratiquer mon sens d'observation...
 
 À vrai dire, je suis rarement en panne d'idées. Voici le résultat de quelques-unes de mes séances de pratique.
 
@@ -37,13 +37,13 @@ Tous les sujets sont bons. Et il faut surtout que je laisse de côté les mauvai
 
 ![](https://res.cloudinary.com/npaquet-pastel/image/upload/v1549809926/IMG_2128.jpg)
 
-Une autre façon de me motiver est de varier mon matériel de dessin (fusain, crayons, tablette numérique) et j'essaie différentes textures de papier.
+Une autre façon de me motiver est de varier mon matériel de dessin (fusain, crayons, tablette numérique) et d'essayer différentes textures de papier.
 
 Et lorsque malgré tout, je suis vraiment en panne d'idées, il existe le générateur d'idées Eurekaaa, une application gratuite, en version Android, que j'ai installé sur mon cell.
 
 ![](https://res.cloudinary.com/npaquet-pastel/image/upload/v1549810350/Unknown%20%283%29.jpg)
 
-Mais, en bout de ligne, même avec des idées, si la procrastination s'installe, bien, c'est foutu. La feuille à dessin restera blanche. Et ça, c'est un tout autre sujet! Je vous suggère  alors de lire cet article de Pit Graf, formateur en dessin.  [https://www.apprendre-a-dessiner.org/comment-arreter-de-procrastiner/](https://www.apprendre-a-dessiner.org/comment-arreter-de-procrastiner/ "https://www.apprendre-a-dessiner.org/comment-arreter-de-procrastiner/")
+Mais, en bout de ligne, même avec des idées, si la procrastination s'installe, bien, c'est foutu. La feuille à dessin restera blanche. Et ça, c'est un tout autre sujet! Je suggère  alors de lire cet article de Pit Graf, formateur en dessin.  [https://www.apprendre-a-dessiner.org/comment-arreter-de-procrastiner/](https://www.apprendre-a-dessiner.org/comment-arreter-de-procrastiner/ "https://www.apprendre-a-dessiner.org/comment-arreter-de-procrastiner/")
 
 Bonne pratique!
 
