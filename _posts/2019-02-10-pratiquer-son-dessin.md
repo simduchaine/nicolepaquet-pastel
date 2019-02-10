@@ -36,8 +36,6 @@ D'abord, je laisse de côté les mauvaises idées qui traversent mon esprit et q
 
 ![](https://res.cloudinary.com/npaquet-pastel/image/upload/v1549809926/IMG_2128.jpg)
 
-Et lorsque malgré tout, je suis vraiment en panne d'idées, il existe le générateur d'idées Eurekaaa, une application gratuite en version Androïd que j'ai installée sur mon cell.
-
 Et lorsque malgré tout, je suis vraiment en panne d'idées, il existe le générateur d'idées Eurekaaa, une application gratuite, en version Android, que j'ai installé sur mon cell.
 
 ![](https://res.cloudinary.com/npaquet-pastel/image/upload/v1549810350/Unknown%20%283%29.jpg)
