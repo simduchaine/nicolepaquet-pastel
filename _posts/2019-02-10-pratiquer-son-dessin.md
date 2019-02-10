@@ -2,7 +2,7 @@
 title: Pratiquer son dessin
 date: 2019-02-10 00:00:00 -0500
 lead: ''
-image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1549808463/IMG_3442.jpg
+image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1549813562/IMG_1662.jpg
 categories: Pensées
 tags:
 - 'pratique '
@@ -12,10 +12,10 @@ tags:
 - sketch
 - modèle vivant
 - générateur d'idées
-comments: false
+comments: true
 
 ---
-Pratiquer mon dessin. Mais dessiner quoi? 
+Pratiquer mon dessin. Mais dessiner quoi?
 
 Absolument tout!
 
@@ -24,6 +24,9 @@ Tous les sujets sont bons. Et il faut surtout que je laisse de côté les mauvai
 À vrai dire, je suis rarement en panne d'idées. Voici le résultat de quelques-unes de mes séances de pratique.
 
 * Dessins en m'inspirant ou modifiant des oeuvres des artistes renommées. Ici, des portraits d'après les autoportraits de Vincent van Gogh et de Gustave Caillebotte.
+
+![](https://res.cloudinary.com/npaquet-pastel/image/upload/v1549808463/IMG_3442.jpg)
+
 * Dessins en temps restreint d'après modèle vivant. Voici deux croquis que j'ai faits en 20 min, cette semaine.
 
 ![](https://res.cloudinary.com/npaquet-pastel/image/upload/v1549810195/IMG_3423%20%281%29.jpg)
