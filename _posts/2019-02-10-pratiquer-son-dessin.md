@@ -44,7 +44,7 @@ Et lorsque malgré tout, je suis vraiment en panne d'idées, il existe le géné
 
 ![](https://res.cloudinary.com/npaquet-pastel/image/upload/v1549810350/Unknown%20%283%29.jpg)
 
-Mais, en bout de ligne, même avec des idées, si la procrastination s'installe, bien, c'est foutu. La feuille à dessin restera blanche. Et ça, c'est un tout autre sujet! Je suggère  alors de lire cet article de Pit Graf, formateur en dessin.  [https://www.apprendre-a-dessiner.org/comment-arreter-de-procrastiner/](https://www.apprendre-a-dessiner.org/comment-arreter-de-procrastiner/ "https://www.apprendre-a-dessiner.org/comment-arreter-de-procrastiner/")
+Mais, en bout de ligne, même avec des idées, si la procrastination s'installe, bien, c'est foutu. La feuille à dessin restera blanche. Et ça, c'est un tout autre sujet!
 
 Bonne pratique!
 
