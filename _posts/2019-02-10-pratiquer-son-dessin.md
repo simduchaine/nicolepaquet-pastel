@@ -1,8 +1,8 @@
 ---
-title: Pratiquer son dessin
+title: Pratiquer le dessin sans dessein
 date: 2019-02-10 00:00:00 -0500
 lead: ''
-image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1549813562/IMG_1662.jpg
+image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1549813754/IMG_3444.jpg
 categories: Pensées
 tags:
 - 'pratique '
