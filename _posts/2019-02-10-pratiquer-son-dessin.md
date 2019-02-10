@@ -36,8 +36,6 @@ Tous les sujets sont bons. D'abord, je laisse de côté les mauvaises idées qui
 
 ![](https://res.cloudinary.com/npaquet-pastel/image/upload/v1549809926/IMG_2128.jpg)
 
-Une autre façon de me motiver est de varier mon matériel de dessin (fusain, crayons, tablette numérique) et d'essayer différentes textures de papier.
-
 Et lorsque malgré tout, je suis vraiment en panne d'idées, il existe le générateur d'idées Eurekaaa, une application gratuite en version Androïd que j'ai installée sur mon cell.
 
 Et lorsque malgré tout, je suis vraiment en panne d'idées, il existe le générateur d'idées Eurekaaa, une application gratuite, en version Android, que j'ai installé sur mon cell.
