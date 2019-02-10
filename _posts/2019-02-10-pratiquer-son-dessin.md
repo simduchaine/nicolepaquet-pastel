@@ -1,5 +1,5 @@
 ---
-title: Pratiquer le dessin sans se sentir sans-dessein
+title: Mes pratiques de dessin.
 date: 2019-02-10 00:00:00 -0500
 lead: ''
 image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1549813754/IMG_3444.jpg
@@ -19,7 +19,7 @@ Pratiquer mon dessin. Mais dessiner quoi?
 
 Absolument tout!
 
-Tous les sujets sont bons. Et il faut surtout que je laisse de côté les mauvaises idées qui traversent souvent mon esprit et qui viennent freiner mes élans. Par exemple, "ce n'est plus de mon âge" de dessiner une girafe, ou un vélo, ou des souliers, ... De plus, il s'agit de chasser l'idée "qu'on est sans-dessein" de dessiner sans dessein. Il est vrai que l'intention est un des premiers pas dans la réalisation de tout projet. Mais, parfois, notre objectif peut être très simple et non lié au résultat final. Par exemple, essayer mes nouveaux crayons, occuper le temps dans une salle d'attente...
+Tous les sujets sont bons. Et il faut surtout que je laisse de côté les mauvaises idées qui traversent souvent mon esprit et qui viennent freiner mes élans. Par exemple, "ce n'est plus de mon âge" de dessiner une girafe, ou un vélo, ou des souliers, ... De plus, il s'agit de chasser l'idée "qu'on est sans-dessein" de dessiner sans grand dessein. Il est vrai que l'intention est un des premiers pas dans la réalisation de tout projet. Mais, parfois, notre objectif peut être très simple et non lié au résultat final. Par exemple, essayer mes nouveaux crayons, occuper le temps dans une salle d'attente...
 
 À vrai dire, je suis rarement en panne d'idées. Voici le résultat de quelques-unes de mes séances de pratique.
 
