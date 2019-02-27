@@ -43,7 +43,7 @@ evenements:
   date_till: 2018-09-30 00:00:00 -0400
 - name: Exposition - collection "Il était une fois"
   group: Off Galerie
-  place: Off Galerie, 113, rue Saint-Paul, Québec
+  place: 113, rue Saint-Paul, Québec
   date_from: 2018-06-01 00:00:00 -0400
   date_till: 2019-04-30 00:00:00 -0400
 - name: Rendez-vous des artistes Off Galerie chez Desserres
