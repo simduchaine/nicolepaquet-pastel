@@ -36,6 +36,10 @@ formations:
   teacher: Pit Graf
   place: www.apprendre-a-dessiner.org
 evenements:
+- name: La nuit des Galeries
+  group: Off Galerie
+  place: Québec
+  date_from: 2018-09-15 00:00:00 -0400
 - name: Artiste permanent
   group: Off Galerie
   place: Off Galerie, 113, rue Saint-Paul, Québec
