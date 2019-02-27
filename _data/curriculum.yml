@@ -36,10 +36,11 @@ formations:
   teacher: Pit Graf
   place: www.apprendre-a-dessiner.org
 evenements:
-- name: La nuit des Galeries
+- name: Journées de la culture
   group: Off Galerie
   place: Québec
-  date_from: 2018-09-15 00:00:00 -0400
+  date_from: 2018-09-28 00:00:00 -0400
+  date_till: 2018-09-30 00:00:00 -0400
 - name: Artiste permanent
   group: Off Galerie
   place: Off Galerie, 113, rue Saint-Paul, Québec
@@ -48,6 +49,10 @@ evenements:
   group: Off Galerie
   place: Place Sainte-Foy, 2450, boul, Laurier, Québec.
   date_from: 2018-11-16 00:00:00 -0500
+- name: La nuit des Galeries
+  group: Off Galerie
+  place: Québec
+  date_from: 2018-09-15 00:00:00 -0400
 - name: Vie de château
   group: Exposition collective de la Société artistique et culturelle de Québec
   place: Château Frontenac
