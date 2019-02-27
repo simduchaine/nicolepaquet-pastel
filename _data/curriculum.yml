@@ -41,10 +41,11 @@ evenements:
   place: Québec
   date_from: 2018-09-28 00:00:00 -0400
   date_till: 2018-09-30 00:00:00 -0400
-- name: Artiste permanent
+- name: Exposition - collection "Il était une fois"
   group: Off Galerie
   place: Off Galerie, 113, rue Saint-Paul, Québec
-  date_from: 2018-06-01 04:00:00 +0000
+  date_from: 2018-06-01 00:00:00 -0400
+  date_till: 2019-04-30 00:00:00 -0400
 - name: Rendez-vous des artistes Off Galerie chez Desserres
   group: Off Galerie
   place: Place Sainte-Foy, 2450, boul, Laurier, Québec.
