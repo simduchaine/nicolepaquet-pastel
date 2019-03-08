@@ -33,9 +33,9 @@ Du gesso ou non. J’ai des toiles qu’on dit sur l’emballage « préparées 
 
 **Vernis ou non?** Mat ou Lustré? J’ai fait mon test. J’ai appliqué mes couleurs sur une toile et j’ai testé sans vernis, avec vernis mat et vernis lustré. Le vernis lustré donne de la saturation aux couleurs. Ouf! Le vernis mat calme un peu … Deviner! Un beau vernis mat sur mes couleurs orangées! C’est numéro "one!"
 
-Bon, je vous laisse sur cette photo de mon tableau. Certaines parties sont avec des couleurs transparentes, alors que d’autres sections sont plus opaques…Je trouve ses seins bien beaux et réussis au naturel (sans chirurgie ou corrections photoshop)!  
+Bon, je vous laisse sur cette photo de mon tableau... Je trouve ses seins bien beaux et réussis au naturel (sans chirurgie ou corrections photoshop)!  
 C’est infini les effets qu’on peut faire avec l'acrylique… C'était ma première fois. Comme on dit souvent, le meilleur est à venir!
 
-Ah oui, j’oubliais presque de vous parler du titre de mon tableau **"Je ne suis pas à vendre"**! Bien sûr, ce titre est lié à mon sujet et à mon message, mais la vérité, c’est qu'il s'agit de mon premier tableau à l’acrylique et que j’y suis déjà vraiment attachée pour tout ce qu’il m’a fait vivre et appris ces derniers jours… Il n’est pas à vendre. Je l’ai peint pour moi... et un peu pour vous quand même!
+Ah oui, j’oubliais presque de vous parler du titre de mon tableau **"Je ne suis pas à vendre"**! Bien sûr, ce titre est lié à mon sujet et à mon message, mais la vérité, c’est qu'il s'agit de mon premier tableau à l’acrylique et que j’y suis déjà vraiment attachée pour tout ce qu’il m’a fait vivre et appris ces derniers jours… Il n’est pas à vendre. Je l’ai peint pour moi... et un peu pour vous, quand même!
 
 Texte et acrylique , 16 X 20 po,  2018, de Nicole Paquet
