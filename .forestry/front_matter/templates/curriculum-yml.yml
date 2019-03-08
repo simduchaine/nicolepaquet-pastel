@@ -1,7 +1,6 @@
 ---
 label: curriculum.yml
 hide_body: false
-is_partial: false
 fields:
 - name: associations
   label: Associations
