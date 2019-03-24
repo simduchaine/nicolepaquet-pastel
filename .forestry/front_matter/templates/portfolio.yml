@@ -55,6 +55,7 @@ fields:
   name: categorie
   default: 
 pages:
+- _portfolio/a-young-yakima-et-hatali-nez-a-navajo.md
 - _portfolio/piopio-et-little-dog.md
 - _portfolio/Big Head.md
 - _portfolio/Porcupine - Cheyenne.md
