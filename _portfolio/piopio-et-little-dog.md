@@ -10,7 +10,6 @@ metadata:
   support: Bois
   type: Acrylique
 categorie: croquis
-published: false
 
 ---
 Voici PioPio et Little Dog que j’ai peints à nouveau à l’acrylique en petit format 6 X 6 po. J’ai expérimenté des textures et une palette de couleurs en vue d’une nouvelle collection à venir dans les prochaines semaines...   
