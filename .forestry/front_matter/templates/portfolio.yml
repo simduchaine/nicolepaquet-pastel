@@ -55,6 +55,7 @@ fields:
   name: categorie
   default: 
 pages:
+- _portfolio/piopio-et-little-dog.md
 - _portfolio/Big Head.md
 - _portfolio/Porcupine - Cheyenne.md
 - _portfolio/beethoven.md
