@@ -3,7 +3,7 @@ identifier: portfolio
 layout: single-portfolio
 title: A young Yakima et Hatali Nez, a Navajo
 image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1553435772/54519435_2281676548768246_5355048602852917248_n.jpg
-date: 2016-12-28 00:00:00 -0500
+date: 2016-12-25 00:00:00 -0500
 metadata:
   year: 2019-03-01 00:00:00 -0500
   dimensions: 7 X 5 po
