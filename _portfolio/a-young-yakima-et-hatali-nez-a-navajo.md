@@ -10,7 +10,6 @@ metadata:
   support: Toile
   type: Acrylique
 categorie: croquis
-published: false
 
 ---
 J'ai été tentée par deux autres études de texture.   
