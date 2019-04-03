@@ -10,6 +10,5 @@ metadata:
   support: Toile
   type: Acrylique
 categorie: portraits
-published: false
 
 ---
