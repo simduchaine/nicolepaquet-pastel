@@ -10,7 +10,6 @@ metadata:
   support: Toile
   type: Acrylique
 categorie: portraits
-published: false
 
 ---
 Été 2019. Ne manquez pas de visiter l'exposition d'oeuvres d'art du Théâtre Beaumont-St-Michel. Ma collection Autochtones, d'après l'oeuvre photographique de Edward S. Curtis, ethnologue américain, y sera présentée du 21 juin jusqu'à la fin de la saison. Pour en savoir plus sur la nouvelle saison du Théâtre ainsi que sur les artistes qui y présentent des oeuvres :   
