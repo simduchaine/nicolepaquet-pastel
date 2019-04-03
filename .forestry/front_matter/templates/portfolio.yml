@@ -55,6 +55,7 @@ fields:
   name: categorie
   default: 
 pages:
+- _portfolio/hatali-nez-navajo.md
 - _portfolio/lady-tourmaline.md
 - _portfolio/a-young-yakima.md
 - _portfolio/piopio-et-little-dog.md
