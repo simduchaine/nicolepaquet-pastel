@@ -10,7 +10,6 @@ metadata:
   support: Carton Mi-Teintes Touch
   type: Pastel sec
 categorie: personnages
-published: false
 
 ---
 « Lady Tourmaline » révélera ses mystères au Symposium de peinture de Boischatel les 25 et 26 mai 2019. (Canada)
