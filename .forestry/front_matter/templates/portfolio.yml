@@ -55,6 +55,7 @@ fields:
   name: categorie
   default: 
 pages:
+- _portfolio/49e-parallèle-nord.md
 - _portfolio/hatali-nez-navajo.md
 - _portfolio/lady-tourmaline.md
 - _portfolio/a-young-yakima.md
@@ -115,7 +116,6 @@ pages:
 - _portfolio/marc.md
 - _portfolio/françois-1.md
 - _portfolio/il-était-une-fois-opus-1.md
-- _portfolio/49e-parallèle-nord.md
 - _portfolio/frédéric-chopin.md
 - _portfolio/empreinte-1.md
 - _portfolio/jour-et-nuit.md
