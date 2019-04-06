@@ -12,4 +12,4 @@ metadata:
 ---
 Lorsque le raisin s’est invité à l’inauguration du Château Frontenac en 1893, cela a donné lieu à un excellent vin qui a vieilli dans la voûte. (Anecdote imaginaire, bien sûr!)
 
-À vendre. 600 $ encadré.
+À vendre. 400 $ encadré.

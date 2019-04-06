@@ -55,6 +55,7 @@ fields:
   name: categorie
   default: 
 pages:
+- _portfolio/vin-du-chateau.md
 - _portfolio/du-haut-de-la-citadelle.md
 - _portfolio/jeune-fille-au-printemps.md
 - _portfolio/princesse.md
@@ -67,7 +68,6 @@ pages:
 - _portfolio/Big Head.md
 - _portfolio/Porcupine - Cheyenne.md
 - _portfolio/beethoven.md
-- _portfolio/vin-du-chateau.md
 - _portfolio/stella.md
 - _portfolio/réfléchir.md
 - _portfolio/vent-d-est.md
