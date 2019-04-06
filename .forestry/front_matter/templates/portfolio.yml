@@ -55,6 +55,7 @@ fields:
   name: categorie
   default: 
 pages:
+- _portfolio/du-haut-de-la-citadelle.md
 - _portfolio/jeune-fille-au-printemps.md
 - _portfolio/princesse.md
 - _portfolio/trois-allumettes.md
@@ -219,7 +220,6 @@ pages:
 - _portfolio/m-judi-dench.md
 - _portfolio/mélanie.md
 - _portfolio/fleurs-à-l-étude.md
-- _portfolio/du-haut-de-la-citadelle.md
 - _portfolio/jour-2.md
 - _portfolio/le-tavernier.md
 - _portfolio/linda-et-mario.md
