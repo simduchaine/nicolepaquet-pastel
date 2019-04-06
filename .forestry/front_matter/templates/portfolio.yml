@@ -55,6 +55,7 @@ fields:
   name: categorie
   default: 
 pages:
+- _portfolio/princesse.md
 - _portfolio/trois-allumettes.md
 - _portfolio/49e-parallèle-nord.md
 - _portfolio/hatali-nez-navajo.md
@@ -232,7 +233,6 @@ pages:
 - _portfolio/arbres-au-printemps.md
 - _portfolio/pause.md
 - _portfolio/old-bob.md
-- _portfolio/princesse.md
 - _portfolio/sitting-bear-arikara.md
 - _portfolio/claude-mon-amour.md
 - _portfolio/sous-la-loupe.md

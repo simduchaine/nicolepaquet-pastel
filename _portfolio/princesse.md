@@ -12,6 +12,6 @@ metadata:
 categorie: personnages
 
 ---
-Dessin d'imagination. 
+Dessin d'imagination.
 
-Prix sur demande
+250 $ encadré
