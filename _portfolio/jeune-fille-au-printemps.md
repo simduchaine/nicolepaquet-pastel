@@ -14,4 +14,4 @@ categorie: personnages
 ---
 Première belle journée du printemps. Petite fille endimanchée. Chapeau fleuri. Cheveux bouclés au vent. Corde à danser. "Fais attention de ne pas te salir!". Retour à la maison. Genou écorché. Égratignure sur le soulier blanc. Ouf! La jolie robe est intacte!
 
-À vendre. 390 $ encadré.
+À vendre. 300 $ encadré.

@@ -55,6 +55,7 @@ fields:
   name: categorie
   default: 
 pages:
+- _portfolio/jeune-fille-au-printemps.md
 - _portfolio/princesse.md
 - _portfolio/trois-allumettes.md
 - _portfolio/49e-parallèle-nord.md
@@ -223,7 +224,6 @@ pages:
 - _portfolio/le-tavernier.md
 - _portfolio/linda-et-mario.md
 - _portfolio/ginette.md
-- _portfolio/jeune-fille-au-printemps.md
 - _portfolio/un-indien-nespilim.md
 - _portfolio/lynn.md
 - _portfolio/françois.md
