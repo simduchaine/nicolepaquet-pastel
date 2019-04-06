@@ -55,6 +55,7 @@ fields:
   name: categorie
   default: 
 pages:
+- _portfolio/trois-allumettes.md
 - _portfolio/49e-parallèle-nord.md
 - _portfolio/hatali-nez-navajo.md
 - _portfolio/lady-tourmaline.md
@@ -98,7 +99,6 @@ pages:
 - _portfolio/jérémie-un-garçon-d-honneur.md
 - _portfolio/félix-un-garçon-d-honneur.md
 - _portfolio/vincent-un-garçon-d-honneur.md
-- _portfolio/trois-allumettes.md
 - _portfolio/man-runs-him.md
 - _portfolio/catherine.md
 - _portfolio/little-dog-brûlé.md
