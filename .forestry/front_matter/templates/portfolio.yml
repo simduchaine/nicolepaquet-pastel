@@ -55,6 +55,7 @@ fields:
   name: categorie
   default: 
 pages:
+- _portfolio/piopio-maksmaks.md
 - _portfolio/vin-du-chateau.md
 - _portfolio/du-haut-de-la-citadelle.md
 - _portfolio/jeune-fille-au-printemps.md
@@ -73,7 +74,6 @@ pages:
 - _portfolio/vent-d-est.md
 - _portfolio/capitaine-f-x.md
 - _portfolio/jaune-crystel.md
-- _portfolio/piopio-maksmaks.md
 - _portfolio/le-temps-d-un-café-ou-deux-7.md
 - _portfolio/rueben-taylor.md
 - _portfolio/le-temps-d-un-café-ou-deux.md
