@@ -55,6 +55,7 @@ fields:
   name: categorie
   default: 
 pages:
+- _portfolio/little-dog-brûlé.md
 - _portfolio/piopio-maksmaks.md
 - _portfolio/vin-du-chateau.md
 - _portfolio/du-haut-de-la-citadelle.md
@@ -104,7 +105,6 @@ pages:
 - _portfolio/vincent-un-garçon-d-honneur.md
 - _portfolio/man-runs-him.md
 - _portfolio/catherine.md
-- _portfolio/little-dog-brûlé.md
 - _portfolio/sitting-bear-arikara-1.md
 - _portfolio/chef-de-bande-apache.md
 - _portfolio/blue-moon-mickael.md
