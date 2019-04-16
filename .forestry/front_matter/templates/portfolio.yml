@@ -55,6 +55,7 @@ fields:
   name: categorie
   default: 
 pages:
+- _portfolio/face-à-la-vie.md
 - _portfolio/promenade.md
 - _portfolio/imagine.md
 - _portfolio/little-dog-brûlé.md
