@@ -55,6 +55,7 @@ fields:
   name: categorie
   default: 
 pages:
+- _portfolio/fleurs-à-l-étude.md
 - _portfolio/face-à-la-vie.md
 - _portfolio/promenade.md
 - _portfolio/imagine.md
@@ -222,7 +223,6 @@ pages:
 - _portfolio/sir-anthony-hopkins.md
 - _portfolio/m-judi-dench.md
 - _portfolio/mélanie.md
-- _portfolio/fleurs-à-l-étude.md
 - _portfolio/jour-2.md
 - _portfolio/le-tavernier.md
 - _portfolio/linda-et-mario.md

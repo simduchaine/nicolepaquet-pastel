@@ -12,6 +12,6 @@ metadata:
 categorie: fleurs
 
 ---
-Pastel inspiré d'une photo de Alexandra Seinet.
+Composition inspirée d'une photo sous licence CC0 de Alexandra Seinet, dans [Free-Photos](https://pixabay.com/fr/users/Free-Photos-242387/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=828564) de [Pixabay](https://pixabay.com/fr/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=828564).
 
 Prix sur demande
