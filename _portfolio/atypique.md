@@ -12,4 +12,4 @@ metadata:
 ---
 Peindre la différence ou différemment, mais jamais avec indifférence.
 
-60 $ encadré.
+80 $ encadré.
