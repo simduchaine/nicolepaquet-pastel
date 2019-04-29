@@ -12,4 +12,4 @@ metadata:
 categorie: personnages
 
 ---
-120 $ encadré
+80 $ encadré
