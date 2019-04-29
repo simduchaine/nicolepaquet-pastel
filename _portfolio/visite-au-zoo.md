@@ -12,4 +12,4 @@ metadata:
 categorie: animaux
 
 ---
-À vendre. 150 $ encadré.
+À vendre. 80 $ encadré.
