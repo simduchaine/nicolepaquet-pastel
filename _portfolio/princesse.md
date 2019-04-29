@@ -14,4 +14,4 @@ categorie: personnages
 ---
 Dessin d'imagination.
 
-250 $ encadré
+150 $ encadré
