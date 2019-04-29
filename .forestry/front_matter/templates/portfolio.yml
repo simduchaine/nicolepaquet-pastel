@@ -55,6 +55,7 @@ fields:
   name: categorie
   default: 
 pages:
+- _portfolio/il-était-une-fois-opus-6.md
 - _portfolio/il-était-une-fois-opus-5.md
 - _portfolio/il-était-une-fois-opus-2.md
 - _portfolio/face-à-la-vie.md
@@ -136,7 +137,6 @@ pages:
 - _portfolio/nato-the-goal-man.md
 - _portfolio/crystel.md
 - _portfolio/faye-dunaway.md
-- _portfolio/il-était-une-fois-opus-6.md
 - _portfolio/dave.md
 - _portfolio/marie-anne.md
 - _portfolio/blue-moon.md
