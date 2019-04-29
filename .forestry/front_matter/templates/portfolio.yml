@@ -55,6 +55,7 @@ fields:
   name: categorie
   default: 
 pages:
+- _portfolio/trois-allumettes.md
 - _portfolio/il-était-une-fois-opus-6.md
 - _portfolio/il-était-une-fois-opus-5.md
 - _portfolio/il-était-une-fois-opus-2.md
@@ -69,7 +70,6 @@ pages:
 - _portfolio/du-haut-de-la-citadelle.md
 - _portfolio/jeune-fille-au-printemps.md
 - _portfolio/princesse.md
-- _portfolio/trois-allumettes.md
 - _portfolio/49e-parallèle-nord.md
 - _portfolio/hatali-nez-navajo.md
 - _portfolio/lady-tourmaline.md

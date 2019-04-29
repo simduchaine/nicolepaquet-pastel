@@ -16,4 +16,4 @@ L’amoureux attend la clarté de la lune pour visiter sa belle. Chaque soir ven
 
 Portrait d’imagination...
 
-À vendre. 200 $ encadré.
+À vendre. 120 $ encadré.
