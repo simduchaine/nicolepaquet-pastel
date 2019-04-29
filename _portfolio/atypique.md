@@ -12,4 +12,4 @@ metadata:
 ---
 Peindre la différence ou différemment, mais jamais avec indifférence.
 
-Prix sur demande
+60 $ encadré.

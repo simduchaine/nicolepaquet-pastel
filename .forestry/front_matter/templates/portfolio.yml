@@ -55,6 +55,7 @@ fields:
   name: categorie
   default: 
 pages:
+- _portfolio/atypique.md
 - _portfolio/vin-du-chateau.md
 - _portfolio/du-haut-de-la-citadelle.md
 - _portfolio/trois-allumettes.md
@@ -241,6 +242,5 @@ pages:
 - _portfolio/claude-mon-amour.md
 - _portfolio/sous-la-loupe.md
 - _portfolio/un-chef-navajo.md
-- _portfolio/atypique.md
 - _portfolio/espérance.md
 - _portfolio/simon-2015.md
