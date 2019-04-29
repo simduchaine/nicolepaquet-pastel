@@ -12,4 +12,4 @@ metadata:
 categorie: personnages
 
 ---
-À vendre. 450 $ encadré.
+À vendre. 400 $ encadré.
