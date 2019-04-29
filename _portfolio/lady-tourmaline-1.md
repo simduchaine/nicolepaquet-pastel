@@ -10,6 +10,5 @@ metadata:
   support: Toile
   type: Techniques mixtes
 categorie: personnages
-published: false
 
 ---
