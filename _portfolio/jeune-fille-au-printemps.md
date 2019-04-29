@@ -14,6 +14,6 @@ categorie: personnages
 ---
 Première belle journée du printemps. Petite fille endimanchée. Chapeau fleuri. Cheveux bouclés au vent. Corde à danser. "Fais attention de ne pas te salir!". Retour à la maison. Genou écorché. Égratignure sur le soulier blanc. Ouf! La jolie robe est intacte!
 
-À vendre. 300 $ encadré.
+À vendre. 200 $ encadré.
 
 (Composition inspirée d'une photo, sous licence CC0 dans Pixabay, de Shirley Temple, actrice américaine (1928-2014), alors qu'elle était enfant.)
