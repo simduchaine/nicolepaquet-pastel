@@ -55,6 +55,7 @@ fields:
   name: categorie
   default: 
 pages:
+- _portfolio/il-était-une-fois-opus-2.md
 - _portfolio/face-à-la-vie.md
 - _portfolio/lady-tourmaline-1.md
 - _portfolio/fleurs-à-l-étude.md
@@ -115,7 +116,6 @@ pages:
 - _portfolio/blue-moon-mickael.md
 - _portfolio/empreinte-2.md
 - _portfolio/il-était-une-fois-opus-3.md
-- _portfolio/il-était-une-fois-opus-2.md
 - _portfolio/crystel-1.md
 - _portfolio/jérémie.md
 - _portfolio/un-regard-de-simon.md
