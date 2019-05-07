@@ -7,8 +7,8 @@ date: 2016-12-25 00:00:00 -0500
 metadata:
   year: 2018-05-01 00:00:00 -0400
   dimensions: ''
-  support: ''
-  type: Dessin numérique
+  support: Tablette iPad Pro
+  type: Création numérique
 categorie: personnages
 
 ---
