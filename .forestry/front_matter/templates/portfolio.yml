@@ -55,6 +55,7 @@ fields:
   name: categorie
   default: 
 pages:
+- _portfolio/mon-premier-noël.md
 - _portfolio/empreinte-1.md
 - _portfolio/atypique.md
 - _portfolio/vin-du-chateau.md
