@@ -10,6 +10,5 @@ metadata:
   support: ''
   type: Dessin numérique
 categorie: personnages
-published: false
 
 ---
