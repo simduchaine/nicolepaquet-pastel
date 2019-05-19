@@ -55,6 +55,7 @@ fields:
   name: categorie
   default: 
 pages:
+- _portfolio/doris-day.md
 - _portfolio/atypique.md
 - _portfolio/vin-du-chateau.md
 - _portfolio/du-haut-de-la-citadelle.md
