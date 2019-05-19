@@ -10,7 +10,6 @@ metadata:
   support: Tablette Ipad
   type: Portrait sketch numérique
 categorie: croquis
-published: false
 
 ---
 Doris Day, connue pour ses rôles dans les films des années 1960, est décédée le 13 mai 2019 à 97 ans. 
