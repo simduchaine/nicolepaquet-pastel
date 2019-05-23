@@ -55,6 +55,7 @@ fields:
   name: categorie
   default: 
 pages:
+- _portfolio/jessica-l-institutrice.md
 - _portfolio/doris-day.md
 - _portfolio/atypique.md
 - _portfolio/vin-du-chateau.md
@@ -108,7 +109,6 @@ pages:
 - _portfolio/anne-marie.md
 - _portfolio/une-nuit-en-septembre.md
 - _portfolio/félix-1.md
-- _portfolio/jessica-l-institutrice.md
 - _portfolio/émilie.md
 - _portfolio/julie.md
 - _portfolio/gandhi.md
