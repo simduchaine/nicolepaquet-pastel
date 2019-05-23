@@ -1,6 +1,6 @@
 ---
-title: Jessica, l’institutrice
-date: 2017-09-15 04:00:00 +0000
+title: La leçon de l’institutrice
+date: 2017-09-15T04:00:00.000+00:00
 lead: ''
 image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1545065359/Version-2-2.jpg
 categories: Pensées
@@ -16,7 +16,7 @@ Lorsque la lecture nous chavire, nous enivre,
 
 nous projette plus loin,
 
-lever les yeux n’est point une distraction.
+lever les yeux n’est point distraction.
 
 Car plonger dans un livre,
 
