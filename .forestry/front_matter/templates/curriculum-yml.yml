@@ -41,6 +41,9 @@ fields:
     label: Date till
     name: date_till
     default: ''
+    config:
+      date_format: YYYY
+      export_format: YYYY
   - name: teacher
     label: Teacher
     type: text
@@ -83,6 +86,9 @@ fields:
   - type: datetime
     name: date_till
     label: Date till
+    config:
+      date_format: MM/YYYY
+      export_format: MM/YYYY
   hidden: false
   default: ''
 pages:
