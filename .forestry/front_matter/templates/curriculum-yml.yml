@@ -34,6 +34,9 @@ fields:
     label: Date from
     name: date_from
     default: ''
+    config:
+      date_format: YYYY
+      export_format: YYYY
   - type: datetime
     label: Date till
     name: date_till
@@ -74,6 +77,9 @@ fields:
     type: datetime
     hidden: false
     default: ''
+    config:
+      date_format: MM/YYYY
+      export_format: MM/YYYY
   - type: datetime
     name: date_till
     label: Date till
