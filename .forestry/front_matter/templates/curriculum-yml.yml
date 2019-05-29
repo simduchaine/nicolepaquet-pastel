@@ -91,3 +91,5 @@ fields:
       export_format: MM/YYYY
   hidden: false
   default: ''
+pages:
+- _data/curriculum.yml
