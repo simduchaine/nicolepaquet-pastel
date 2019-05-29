@@ -40,6 +40,11 @@ formations:
   teacher: Pit Graf
   place: www.apprendre-a-dessiner.org
 evenements:
+- name: Symposium de peinture de Boischatel
+  group: Exposition collective avec sélection des artistes
+  place: Centre sportif de Boischatel
+  date_from: 05/2019
+  date_till: 05/2019
 - name: Journées de la culture
   group: Off Galerie
   place: Québec
