@@ -40,11 +40,6 @@ formations:
   teacher: Pit Graf
   place: www.apprendre-a-dessiner.org
 evenements:
-- name: test
-  group: test
-  place: test
-  date_from: 02/2019
-  date_till: 02/2019
 - name: Journées de la culture
   group: Off Galerie
   place: Québec
