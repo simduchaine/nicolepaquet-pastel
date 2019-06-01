@@ -13,3 +13,6 @@ categorie: personnages
 published: false
 
 ---
+J'ai dessiné Mona Frida et puis Frida Kahlo et cela m'a inspiré la fusion des deux. 
+
+Vendu. 
