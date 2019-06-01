@@ -10,7 +10,6 @@ metadata:
   support: Carton Pastelmat
   type: Pastel sec
 categorie: animaux
-published: false
 
 ---
 À vendre. 280 $ encadré.
