@@ -40,6 +40,11 @@ formations:
   teacher: Pit Graf
   place: www.apprendre-a-dessiner.org
 evenements:
+- name: Lyst'ART 2019
+  group: Un collectif de 60 exposants en arts visuels et métiers d'art
+  place: 2350, rue Bécancour, Lyster
+  date_from: 07/2019
+  date_till: 07/2019
 - name: Théâtre Beaumont-St-Michel.
   group: Exposition collective de 6 artistes coordonnée par Linda Lee
   place: 'Théâtre Beaumont-St-Michel, Québec. '
