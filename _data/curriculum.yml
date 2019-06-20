@@ -40,6 +40,11 @@ formations:
   teacher: Pit Graf
   place: www.apprendre-a-dessiner.org
 evenements:
+- name: Pastel Toujours. Exposition collective
+  group: Société de pastel de l'Est du Canada
+  place: Domaine Maizerets, Québec
+  date_from: 06/2019
+  date_till: 06/2019
 - name: Symposium de peinture de Boischatel
   group: Exposition collective avec sélection des artistes
   place: Centre sportif de Boischatel
