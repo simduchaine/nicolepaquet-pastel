@@ -12,4 +12,4 @@ metadata:
 categorie: portraits
 
 ---
-À vendre. 60 $
+À vendre. 160 $
