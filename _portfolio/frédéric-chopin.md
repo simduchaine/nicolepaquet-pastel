@@ -10,7 +10,6 @@ metadata:
   support: Toile de lin
   type: Pastel sec/fusain
 categorie: portraits
-published: false
 
 ---
 À vendre. 60 $
