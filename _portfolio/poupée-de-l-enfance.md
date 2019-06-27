@@ -9,7 +9,7 @@ metadata:
   dimensions: ''
   support: Portrait numérique
   type: ''
-categorie: ''
+categorie: personnages
 
 ---
 Portrait numérique inspiré de Maélie et d'autres enfants qui grandissent et qui répandent le bonheur autour d'eux... autour de nous... 
