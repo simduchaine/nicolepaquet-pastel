@@ -14,7 +14,7 @@ tags:
 comments: false
 
 ---
-Dessin numérique inspiré de Maélie et d'autres enfants qui grandissent et qui répandent le bonheur autour d'eux... autour de nous...
+Portrait numérique inspiré de Maélie et d'autres enfants qui grandissent et qui répandent le bonheur autour d'eux... autour de nous...
 
 On a beau être petite, on est grande à l'intérieur de soi... Et l'essence qui nous définit dès les premiers pas reste en nous toute la vie.
 
