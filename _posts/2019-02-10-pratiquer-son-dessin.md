@@ -1,7 +1,7 @@
 ---
 title: Mes pratiques de dessin.
 permalink: mes-pratiques-de-dessin
-date: 2019-02-10 00:00:00 -0500
+date: 2019-02-07 00:00:00 -0500
 lead: ''
 image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1549818741/IMG_3442.jpg
 categories: Pensées
