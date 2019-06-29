@@ -1,15 +1,14 @@
 ---
 identifier: portfolio
 layout: single-portfolio
-title: Randonnée
-image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1559403256/Promenade%20pastel.jpg
-date: 2019-06-01 00:00:00 -0400
+title: Une année de plus!
+image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1561818778/Une%20ann%C3%A9e%20de%20plus%2C%20num%C3%A9rique%202019.jpg
+date: 2019-06-01T04:00:00.000+00:00
 metadata:
-  year: 2019-06-01 00:00:00 -0400
+  year: 2019-06-01T04:00:00.000+00:00
   dimensions: ''
-  support: ''
+  support: Numérique
   type: ''
-categorie: paysages
+categorie: portraits
 
 ---
-Oeuvre au pastel en construction.
