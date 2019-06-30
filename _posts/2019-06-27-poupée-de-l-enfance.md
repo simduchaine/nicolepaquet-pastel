@@ -1,6 +1,6 @@
 ---
 title: Poupée de l'enfance
-date: 2019-06-27 00:00:00 -0400
+date: 2019-02-07 00:00:00 -0500
 lead: ''
 image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1561642343/Poup%C3%A9e%20de%20l%27enfance%2C%20dessin%20num%C3%A9rique%202019.jpg
 categories: Pensées
