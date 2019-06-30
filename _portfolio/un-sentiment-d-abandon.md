@@ -2,7 +2,7 @@
 identifier: portfolio
 layout: single-portfolio
 title: Un sentiment d'abandon
-image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1561906940/Un%20sentiment%20d%27abandon.jpg
+image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1561909029/Un%20sentiment%20d%27abandon%20pour%20ceux%20et%20celles%20qui%20restent.jpg
 date: 2016-12-24 00:00:00 -0500
 metadata:
   year: 2019-06-01 00:00:00 -0400
