@@ -18,6 +18,6 @@ Portrait numérique inspiré de Maélie et d'autres enfants qui grandissent et q
 
 On a beau être petite, on est grande à l'intérieur de soi... Et l'essence qui nous définit dès les premiers pas reste en nous toute la vie.
 
-Notre regard sur la vie, les autres, les choses, les événements est empreint de notre ressenti intérieur qu'on porte en soi depuis la tendre enfance.
+Notre regard sur la vie, les autres, les choses, les événements est empreint de ce ressenti intérieur qu'on porte en soi depuis la tendre enfance.
 
 Plus l'accueil, dès la naissance, est grand, aimant et sécurisant, plus la visualisation de notre avenir se réalise dans la confiance.
