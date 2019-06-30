@@ -2,7 +2,7 @@
 title: Un sentiment d'abandon pour celles et ceux qui restent
 date: 2019-06-30 00:00:00 -0400
 lead: ''
-image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1561906940/Un%20sentiment%20d%27abandon.jpg
+image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1561909029/Un%20sentiment%20d%27abandon%20pour%20ceux%20et%20celles%20qui%20restent.jpg
 categories: Pensées
 tags:
 - "#abandon "
