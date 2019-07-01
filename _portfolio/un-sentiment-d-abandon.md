@@ -2,7 +2,7 @@
 identifier: portfolio
 layout: single-portfolio
 title: Un sentiment d'abandon
-image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1561992852/Un%20sentiment%20d%27abandon%2C%20acrylique.jpg
+image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1562005482/Un%20sentiment%20d%27abandon%2C%20acrylique%2C%202019.jpg
 date: 2016-12-24 00:00:00 -0500
 metadata:
   year: 2019-06-01 00:00:00 -0400
@@ -10,6 +10,7 @@ metadata:
   support: Digital painting
   type: ''
 categorie: paysages
+published: false
 
 ---
 J’ai toujours des coups de cœur pour les couchers de soleil sur le fleuve Saint-Laurent. Je ressens aussi des WOW pour les bateaux de croisière qui accostent un quai à Québec. Difficile de les manquer!
