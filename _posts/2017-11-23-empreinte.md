@@ -1,6 +1,6 @@
 ---
 title: Empreinte
-date: 2019-02-08 00:00:00 -0500
+date: 2019-07-06 00:00:00 -0400
 lead: ''
 image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1543514813/jessica.jpg
 categories: Pensées
