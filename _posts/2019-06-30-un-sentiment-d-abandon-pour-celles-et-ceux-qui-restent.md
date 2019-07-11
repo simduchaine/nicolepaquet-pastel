@@ -1,6 +1,6 @@
 ---
 title: Un sentiment d'abandon pour celles et ceux qui restent
-date: 2019-02-07 00:00:00 -0500
+date: 2019-07-01 00:00:00 -0400
 lead: ''
 image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1562005482/Un%20sentiment%20d%27abandon%2C%20acrylique%2C%202019.jpg
 categories: Pensées
