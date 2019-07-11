@@ -1,6 +1,6 @@
 ---
 title: Il était une fois...
-date: 
+date: 2019-07-08 00:00:00 -0400
 lead: ''
 image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1547329399/44318124_2187643201504915_3457723194704658432_o.jpg
 categories: Pensées
