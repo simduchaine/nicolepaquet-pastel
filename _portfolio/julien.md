@@ -12,3 +12,4 @@ metadata:
 categorie: portraits
 
 ---
+Un gros merci aux parents de m'autoriser à publier le portrait de Julien dans ma collection publique!
