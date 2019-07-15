@@ -12,4 +12,6 @@ metadata:
 categorie: portraits
 
 ---
-D'après une photo libre de droits dans Google images.
+Collection privée
+
+Étude d'après une photo libre de droits dans Google images.
