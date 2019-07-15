@@ -9,7 +9,6 @@ metadata:
   dimensions: 12 X 9 po
   support: Papier Canson
   type: Pastel sec
-categorie: ''
-published: false
+categorie: portraits
 
 ---
