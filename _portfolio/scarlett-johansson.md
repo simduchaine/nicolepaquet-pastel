@@ -12,3 +12,4 @@ metadata:
 categorie: portraits
 
 ---
+D'après une photo libre de droits dans Google images.
