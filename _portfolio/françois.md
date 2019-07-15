@@ -2,7 +2,7 @@
 identifier: portfolio
 layout: single-portfolio
 title: François
-date: 2019-05-28 00:00:00 -0400
+date: 2019-07-09 00:00:00 -0400
 image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1544119690/Francois-pastel-28-X-38-cm-2016.jpg
 metadata:
   year: 2016-12-01T05:00:00.000+00:00
