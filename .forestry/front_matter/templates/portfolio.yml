@@ -55,6 +55,7 @@ fields:
   name: categorie
   default: 
 pages:
+- _portfolio/julien.md
 - _portfolio/un-sentiment-d-abandon.md
 - _portfolio/poupée-de-l-enfance.md
 - _portfolio/promenade-1.md
