@@ -10,7 +10,6 @@ metadata:
   support: Papier Canson
   type: Pastel sec
 categorie: portraits
-published: false
 
 ---
-D'après une photo libre de droit dans Google image.
+D'après une photo libre de droits dans Google images.
