@@ -55,7 +55,6 @@ fields:
   name: categorie
   default: 
 pages:
-- _portfolio/jason-momoa.md
 - _portfolio/julien.md
 - _portfolio/un-sentiment-d-abandon.md
 - _portfolio/poupée-de-l-enfance.md
