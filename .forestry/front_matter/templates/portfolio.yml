@@ -55,7 +55,6 @@ fields:
   name: categorie
   default: 
 pages:
-- _portfolio/scarlett-johansson.md
 - _portfolio/jason-momoa.md
 - _portfolio/julien.md
 - _portfolio/un-sentiment-d-abandon.md
