@@ -10,6 +10,5 @@ metadata:
   support: Pastel Mat
   type: Pastel sec Girault
 categorie: portraits
-published: false
 
 ---
