@@ -10,6 +10,7 @@ metadata:
   support: Ipad Pro
   type: 'Art numérique '
 categorie: personnages
+published: false
 
 ---
 Juillet 2018. J’ai pratiqué du dessin numérique sur mon nouvel IPad Pro. J’ai dessiné le visage d’une personne qui n’a jamais existé. Au final, je le trouve bien sympathique et attachant ce jeune homme que j’ai créé. Ça me laisse un sentiment étrange de lui avoir donné une existence virtuelle. Je dois maintenant lui trouver un nom... Carol vient de suggérer François, car il lui rappelle un jeune homme qu’elle a connu. D’accord pour François! J’imagine que les écrivains doivent s’attacher à leurs personnages.
