@@ -10,7 +10,6 @@ metadata:
   support: Toile
   type: Techniques mixtes
 categorie: personnages
-published: false
 
 ---
 250 $ encadré
