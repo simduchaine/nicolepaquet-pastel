@@ -55,6 +55,7 @@ fields:
   name: categorie
   default: 
 pages:
+- _portfolio/stéphane.md
 - _portfolio/le-temps-d-un-café-ou-deux.md
 - _portfolio/le-temps-d-un-café-ou-deux-3.md
 - _portfolio/le-temps-d-un-café-ou-deux-2.md
@@ -169,7 +170,6 @@ pages:
 - _portfolio/chef-de-bande-apache.md
 - _portfolio/blue-moon-mickael.md
 - _portfolio/crystel-1.md
-- _portfolio/stéphane.md
 - _portfolio/marc.md
 - _portfolio/un-regard-de-simon.md
 - _portfolio/jérémie.md
