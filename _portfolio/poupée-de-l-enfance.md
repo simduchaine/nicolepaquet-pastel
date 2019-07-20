@@ -3,7 +3,7 @@ identifier: portfolio
 layout: single-portfolio
 title: Poupée de l'enfance
 image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1561642343/Poup%C3%A9e%20de%20l%27enfance%2C%20dessin%20num%C3%A9rique%202019.jpg
-date: 2016-02-07 00:00:00 -0500
+date: 2016-12-27 00:00:00 -0500
 metadata:
   year: 2019-06-01 00:00:00 -0400
   dimensions: ''
