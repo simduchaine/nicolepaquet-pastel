@@ -55,6 +55,7 @@ fields:
   name: categorie
   default: 
 pages:
+- _portfolio/doris-day.md
 - _portfolio/julien.md
 - _portfolio/un-sentiment-d-abandon.md
 - _portfolio/poupée-de-l-enfance.md
@@ -73,7 +74,6 @@ pages:
 - _portfolio/hatali-nez-navajo.md
 - _portfolio/jaune-crystel.md
 - _portfolio/jessica-l-institutrice.md
-- _portfolio/doris-day.md
 - _portfolio/atypique.md
 - _portfolio/vin-du-chateau.md
 - _portfolio/du-haut-de-la-citadelle.md
