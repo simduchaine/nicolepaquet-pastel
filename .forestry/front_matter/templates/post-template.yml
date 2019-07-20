@@ -46,11 +46,11 @@ fields:
   name: comments
   label: Comments
 pages:
+- _posts/2019-01-13-tourments.md
 - _posts/2019-07-11-il-était-une-fois.md
 - _posts/2019-06-30-un-sentiment-d-abandon-pour-celles-et-ceux-qui-restent.md
 - _posts/2019-06-27-poupée-de-l-enfance.md
 - _posts/2019-01-15-marie-soleil-conte.md
-- _posts/2019-01-13-tourments.md
 - _posts/2019-01-13-je-ne-suis-pas-à-vendre.md
 - _posts/2017-11-23-empreinte.md
 - _posts/2015-08-02-Blue-Moon,-2015.md
