@@ -55,6 +55,7 @@ fields:
   name: categorie
   default: 
 pages:
+- _portfolio/gandhi.md
 - _portfolio/doris-day.md
 - _portfolio/julien.md
 - _portfolio/un-sentiment-d-abandon.md
@@ -126,7 +127,6 @@ pages:
 - _portfolio/félix-1.md
 - _portfolio/émilie.md
 - _portfolio/julie.md
-- _portfolio/gandhi.md
 - _portfolio/jessica.md
 - _portfolio/lundi-blues.md
 - _portfolio/le-tavernier.md
