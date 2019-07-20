@@ -55,6 +55,7 @@ fields:
   name: categorie
   default: 
 pages:
+- _portfolio/fleurs-à-l-étude.md
 - _portfolio/gandhi.md
 - _portfolio/doris-day.md
 - _portfolio/julien.md
@@ -87,7 +88,6 @@ pages:
 - _portfolio/jeune-fille-au-printemps.md
 - _portfolio/princesse.md
 - _portfolio/49e-parallèle-nord.md
-- _portfolio/fleurs-à-l-étude.md
 - _portfolio/promenade.md
 - _portfolio/beethoven.md
 - _portfolio/stella.md
