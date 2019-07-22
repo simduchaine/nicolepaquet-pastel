@@ -55,6 +55,7 @@ fields:
   name: categorie
   default: 
 pages:
+- _portfolio/sitting-bear-arikara-1.md
 - _portfolio/un-indien-nespilim.md
 - _portfolio/françois-1.md
 - _portfolio/stéphane.md
@@ -167,7 +168,6 @@ pages:
 - _portfolio/le-premier-noël-de-gustave.md
 - _portfolio/man-runs-him.md
 - _portfolio/le-temps-d-un-café-ou-deux-9.md
-- _portfolio/sitting-bear-arikara-1.md
 - _portfolio/catherine.md
 - _portfolio/chef-de-bande-apache.md
 - _portfolio/blue-moon-mickael.md
