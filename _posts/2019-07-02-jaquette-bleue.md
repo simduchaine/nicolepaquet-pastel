@@ -39,15 +39,15 @@ C’est long. On m’a oubliée.
 
 Jaquette bleue
 
-Passage obligé
-
-Pour se faire soigner.
-
-Jaquette bleue
-
 Sans nom, perte d’intimité.
 
 Abandon, fragilité.
+
+Jaquette bleue
+
+Passage obligé
+
+Pour se faire soigner.
 
 Jaquette bleue
 
