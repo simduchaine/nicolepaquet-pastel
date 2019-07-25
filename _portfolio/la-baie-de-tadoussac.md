@@ -10,7 +10,6 @@ metadata:
   support: Papier Sennelier
   type: Pastel sec Girault
 categorie: paysages
-published: false
 
 ---
 Prix sur demande
