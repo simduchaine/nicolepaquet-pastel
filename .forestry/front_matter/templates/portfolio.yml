@@ -55,6 +55,7 @@ fields:
   name: categorie
   default: 
 pages:
+- _portfolio/une-année-de-plus.md
 - _portfolio/sitting-bear-arikara-1.md
 - _portfolio/un-indien-nespilim.md
 - _portfolio/françois-1.md
