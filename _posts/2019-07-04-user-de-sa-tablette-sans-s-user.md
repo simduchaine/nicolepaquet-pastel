@@ -11,6 +11,7 @@ tags:
 - "#blessures"
 - "#cou"
 - "#digitalpainting"
+- "#text-neck"
 comments: false
 
 ---
@@ -18,7 +19,7 @@ Juillet 2018. Pour mon anniversaire, j’ai acheté une tablette pour me lancer 
 
 Mais ce qui devait arriver arriva!
 
-Depuis juillet 2019, je me paie un tout autre cadeau. Traitements en physiothérapie, programme d’exercices et médicaments contre la douleur et l’inflammation. Pas le choix avec ces douleurs cervicales et nerfs irrités! Repos obligé.
+Depuis juillet 2019, je me paie un tout autre cadeau. Traitements en physiothérapie, programme d’exercices et médicaments contre la douleur et l’inflammation. Pas le choix avec ces douleurs cervicales et nerfs irrités! Le syndrome du "text-teck". Repos obligé.
 
 Aujourd’hui, c’est avec la binette découragée que je vous écris, un peu à l’image de cette actrice que j’ai dessinée il y a quelques mois. Évidemment, je ne posterai pas beaucoup de nouveautés sur Facebook ou Instagram dans les prochaines semaines. Snif! Snif!
 
