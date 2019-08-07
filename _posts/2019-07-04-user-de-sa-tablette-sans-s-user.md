@@ -1,6 +1,6 @@
 ---
 title: User de sa tablette sans s'user
-date: 
+date: 2019-07-04 00:00:00 -0400
 lead: ''
 image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1547332815/Johanne%20Qoodward%2C%202-19.jpg
 categories: Pensées
