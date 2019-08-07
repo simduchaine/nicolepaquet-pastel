@@ -14,7 +14,7 @@ tags:
 comments: false
 
 ---
-Juillet 2018. Pour mon anniversaire, j’ai acheté une tablette pour me lancer dans l’univers du dessin numérique. Et depuis, j’ai foncé tête baissée, et ce, dans tous les sens du mot. Presque tous les jours, assise sur le fauteuil du salon, la tablette sur mes genoux, tête baissée, j’ai dessiné, encore et encore.
+Juillet 2018. Pour mon anniversaire, j’ai acheté une tablette pour me lancer dans l’univers du dessin numérique. Et depuis, j’ai foncé tête baissée, et ce, dans tous les sens du mot. Presque tous les jours, assise sur le fauteuil du salon, la tablette sur mes genoux, tête inclinée, j’ai dessiné, encore et encore.
 
 Mais ce qui devait arriver arriva!
 
