@@ -4,7 +4,13 @@ date:
 lead: ''
 image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1547332815/Johanne%20Qoodward%2C%202-19.jpg
 categories: Pensées
-tags: []
+tags:
+- "#ergonomie"
+- "#dessin"
+- "#tablette"
+- "#blessures"
+- "#cou"
+- "#digitalpainting"
 comments: false
 
 ---
