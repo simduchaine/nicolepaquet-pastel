@@ -55,6 +55,7 @@ fields:
   name: categorie
   default: 
 pages:
+- _portfolio/d-après-une-photo-de-johanne-woodward.md
 - _portfolio/helen-gardner.md
 - _portfolio/faye-dunaway.md
 - _portfolio/james-bond-en-quelques-croquis.md
@@ -218,7 +219,6 @@ pages:
 - _portfolio/il-était-une-fois-opus-3.md
 - _portfolio/jour-et-nuit.md
 - _portfolio/nato-the-goal-man.md
-- _portfolio/d-après-une-photo-de-johanne-woodward.md
 - _portfolio/crystel.md
 - _portfolio/julie-4.md
 - _portfolio/rêvasserie.md
