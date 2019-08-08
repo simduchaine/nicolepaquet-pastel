@@ -1,7 +1,7 @@
 ---
 identifier: portfolio
 layout: single-portfolio
-title: D'après une photo de Faye Dunaway
+title: Faye Dunaway
 date: 2019-01-13T15:35:00.000+00:00
 image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1547307359/49791393_2239017769700791_2221102445470154752_n.jpg
 metadata:
@@ -13,3 +13,4 @@ categorie: portraits
 published: false
 
 ---
+Photo référence : Pixabay License
