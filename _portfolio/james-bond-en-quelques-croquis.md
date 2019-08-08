@@ -10,6 +10,6 @@ metadata:
   support: Cahier à croquis Strathmore
   type: Fusain, crayons
 categorie: croquis
-published: false
 
 ---
+Petits dessins de nos vedettes dans mon cahier d'exercice. 

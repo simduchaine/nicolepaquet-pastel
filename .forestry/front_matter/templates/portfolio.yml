@@ -55,6 +55,7 @@ fields:
   name: categorie
   default: 
 pages:
+- _portfolio/james-bond-en-quelques-croquis.md
 - _portfolio/le-temps-d-un-café-ou-deux-4.md
 - _portfolio/le-temps-d-un-café-ou-deux.md
 - _portfolio/le-temps-d-un-café-ou-deux-2.md
@@ -77,7 +78,6 @@ pages:
 - _portfolio/le-premier-noël-de-gustave.md
 - _portfolio/maélie.md
 - _portfolio/le-temps-d-un-café-ou-deux-6.md
-- _portfolio/james-bond-en-quelques-croquis.md
 - _portfolio/un-moment-mère-fils-2.md
 - _portfolio/françois-1.md
 - _portfolio/frédéric-chopin.md
