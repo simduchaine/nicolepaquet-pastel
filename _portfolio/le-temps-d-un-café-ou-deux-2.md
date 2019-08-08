@@ -12,4 +12,6 @@ metadata:
 categorie: croquis
 
 ---
+Petits dessins de nos vedettes dans mon cahier d'exercice. 
+
 J'aime bien dessiner un peu, beaucoup, passionnément, tous les jours... ou presque. Le meilleur moment est le matin en terminant mon café ou le soir devant la télé. Et j'aime dessiner nos vedettes!
