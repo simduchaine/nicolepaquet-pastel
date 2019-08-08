@@ -55,8 +55,8 @@ fields:
   name: categorie
   default: 
 pages:
-- _portfolio/faye-dunaway.md
 - _portfolio/d-après-une-photo-de-johanne-woodward.md
+- _portfolio/faye-dunaway.md
 - _portfolio/helen-gardner.md
 - _portfolio/james-bond-en-quelques-croquis.md
 - _portfolio/le-temps-d-un-café-ou-deux-4.md
