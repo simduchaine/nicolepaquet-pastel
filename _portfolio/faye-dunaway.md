@@ -10,7 +10,6 @@ metadata:
   support: iPad Pro
   type: Art numérique
 categorie: portraits
-published: false
 
 ---
 Photo référence : Pixabay License
