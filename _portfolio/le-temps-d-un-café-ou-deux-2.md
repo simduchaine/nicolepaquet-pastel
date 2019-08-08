@@ -10,7 +10,6 @@ metadata:
   support: Cahier à croquis Strathmore
   type: Fusain, pastel, crayons
 categorie: croquis
-published: false
 
 ---
 J'aime bien dessiner un peu, beaucoup, passionnément, tous les jours... ou presque. Le meilleur moment est le matin en terminant mon café ou le soir devant la télé. Et j'aime dessiner nos vedettes!
