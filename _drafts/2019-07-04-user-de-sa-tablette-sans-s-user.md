@@ -23,7 +23,7 @@ Depuis juillet 2019, je me paie un tout autre cadeau. Traitements en physiothér
 
 Aujourd’hui, c’est donc avec la binette découragée que je vous écris, un peu à l’image de cette actrice que j’ai dessinée il y a quelques mois. Évidemment, je ne posterai pas beaucoup de nouveautés sur Facebook ou sur Instagram dans les prochaines semaines. Snif! Snif!
 
-Je fais mon mea-culpa. Non, je n’ai pas suivi les recommandations des experts en ergonomie ou en santé physique, comme, semble-t-il, une grande majorité d’utilisateurs de téléphones cellulaires ou de tablettes numériques. On se dit que ce genre de blessures ne nous arrivera pas jusqu’au jour où la douleur surgit sans “presque” prévenir. Je dis “presque”, car dès les premiers signes, ne fait-on pas la sourde oreille?
+Je fais mon mea-culpa. Non, je n’ai pas suivi les recommandations des experts en ergonomie ou en santé physique, comme, semble-t-il, une grande majorité d’utilisateurs de téléphones cellulaires ou de tablettes numériques. On se dit que ce genre de blessures ne nous arrivera pas jusqu’au jour où la douleur surgit sans prévenir ou presque. Je dis “presque”, car dès les premiers signes, ne fait-on pas la sourde oreille?
 
 Les recommandations pour prévenir ou guérir les douleurs cervicales, à l’épaule ou autres à la suite d’une mauvaise posture fourmillent dans Internet. Je vous propose cet article : [https://oppq.qc.ca/blogue/tablette-telephone-intelligent-physiotherapie/](https://oppq.qc.ca/blogue/tablette-telephone-intelligent-physiotherapie/ "https://oppq.qc.ca/blogue/tablette-telephone-intelligent-physiotherapie/")
 
