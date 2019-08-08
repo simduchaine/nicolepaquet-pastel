@@ -55,6 +55,7 @@ fields:
   name: categorie
   default: 
 pages:
+- _portfolio/le-temps-d-un-café-ou-deux.md
 - _portfolio/le-temps-d-un-café-ou-deux-2.md
 - _portfolio/le-temps-d-un-café-ou-deux-1.md
 - _portfolio/le-temps-d-un-café-ou-deux-3.md
@@ -149,7 +150,6 @@ pages:
 - _portfolio/un-chef-navajo.md
 - _portfolio/atypique.md
 - _portfolio/vin-du-chateau.md
-- _portfolio/le-temps-d-un-café-ou-deux.md
 - _portfolio/julien.md
 - _portfolio/gustave-le-chat.md
 - _portfolio/vent-d-est.md
