@@ -12,6 +12,6 @@ metadata:
 categorie: portraits
 
 ---
-Vendu.
+VENDU.
 
 Dessiner des visages d'hommes du début du siècle dernier. Dessiner des visages qui portent les traces et les cicatrices d'une vie intense. Dessiner les traces de l'effort, du vent, du froid et de l'essentiel. Dessiner des hommes qui portent la fierté dans leur regard malgré tout... Dessiner ces portraits d'après l'oeuvre de Edward S. Curtis, ethnologue américain. (Texte de Nicole Paquet)

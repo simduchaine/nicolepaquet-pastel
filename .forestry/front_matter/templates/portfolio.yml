@@ -55,6 +55,7 @@ fields:
   name: categorie
   default: 
 pages:
+- _portfolio/sitting-bear-arikara-1.md
 - _portfolio/un-indien-nespilim.md
 - _portfolio/man-runs-him.md
 - _portfolio/chef-de-bande-apache.md
@@ -89,7 +90,6 @@ pages:
 - _portfolio/françois-1.md
 - _portfolio/frédéric-chopin.md
 - _portfolio/empreinte-1.md
-- _portfolio/sitting-bear-arikara-1.md
 - _portfolio/claude-3.md
 - _portfolio/fleurs.md
 - _portfolio/jessica-les-jours-d-été.md
