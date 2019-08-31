@@ -55,6 +55,7 @@ fields:
   name: categorie
   default: 
 pages:
+- _portfolio/chef-de-bande-apache.md
 - _portfolio/le-temps-d-un-café-ou-deux-1.md
 - _portfolio/le-temps-d-un-café-ou-deux-4.md
 - _portfolio/le-temps-d-un-café-ou-deux-2.md
@@ -208,7 +209,6 @@ pages:
 - _portfolio/félix-un-garçon-d-honneur.md
 - _portfolio/le-temps-d-un-café-ou-deux-10.md
 - _portfolio/le-temps-d-un-café-ou-deux-9.md
-- _portfolio/chef-de-bande-apache.md
 - _portfolio/blue-moon-mickael.md
 - _portfolio/crystel-1.md
 - _portfolio/un-regard-de-simon.md
