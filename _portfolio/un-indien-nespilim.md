@@ -12,7 +12,7 @@ metadata:
 categorie: portraits
 
 ---
-Vendu.
+VENDU.
 
 D’après une photo de Edward S. Curtis.
 

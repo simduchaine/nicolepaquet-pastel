@@ -55,6 +55,7 @@ fields:
   name: categorie
   default: 
 pages:
+- _portfolio/un-indien-nespilim.md
 - _portfolio/man-runs-him.md
 - _portfolio/chef-de-bande-apache.md
 - _portfolio/le-temps-d-un-café-ou-deux-1.md
@@ -143,7 +144,6 @@ pages:
 - _portfolio/jour-2.md
 - _portfolio/trois-allumettes.md
 - _portfolio/linda-et-mario.md
-- _portfolio/un-indien-nespilim.md
 - _portfolio/lynn.md
 - _portfolio/françois.md
 - _portfolio/coa-coa.md
