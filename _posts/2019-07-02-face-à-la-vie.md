@@ -12,5 +12,5 @@ comments: false
 ---
 Sur la grève, je me promène.  
 Roche après roche, je pose le pied.  
-Et les grains de sable que le vent amène   
-Troublent ma vue et mes pensées….
+Et les grains de sable que le vent amène  
+troublent ma vue et mes pensées….
