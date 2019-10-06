@@ -55,6 +55,7 @@ fields:
   name: categorie
   default: 
 pages:
+- _portfolio/noël-à-squatec.md
 - _portfolio/sous-la-loupe.md
 - _portfolio/face-à-la-vie.md
 - _portfolio/sitting-bear-arikara-1.md
@@ -223,7 +224,6 @@ pages:
 - _portfolio/julie-4.md
 - _portfolio/rêvasserie.md
 - _portfolio/marco.md
-- _portfolio/noël-à-squatec.md
 - _portfolio/félix.md
 - _portfolio/claude-2.md
 - _portfolio/david-1.md
