@@ -10,7 +10,6 @@ metadata:
   support: Toile
   type: Acrylique
 categorie: portraits
-published: false
 
 ---
 À vendre. 80 $ encadré.
