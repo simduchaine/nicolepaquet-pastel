@@ -55,6 +55,7 @@ fields:
   name: categorie
   default: 
 pages:
+- _portfolio/face-à-la-vie.md
 - _portfolio/Porcupine - Cheyenne.md
 - _portfolio/Big Head.md
 - _portfolio/lady-tourmaline.md
@@ -65,7 +66,6 @@ pages:
 - _portfolio/anne-marie.md
 - _portfolio/noël-à-squatec.md
 - _portfolio/sous-la-loupe.md
-- _portfolio/face-à-la-vie.md
 - _portfolio/sitting-bear-arikara-1.md
 - _portfolio/un-indien-nespilim.md
 - _portfolio/man-runs-him.md
