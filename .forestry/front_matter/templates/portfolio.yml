@@ -55,6 +55,7 @@ fields:
   name: categorie
   default: 
 pages:
+- _portfolio/a-young-yakima.md
 - _portfolio/Big Head.md
 - _portfolio/bernard.md
 - _portfolio/anne-marie-1.md
@@ -162,7 +163,6 @@ pages:
 - _portfolio/vent-d-est.md
 - _portfolio/piopio-et-little-dog.md
 - _portfolio/imagine.md
-- _portfolio/a-young-yakima.md
 - _portfolio/visite-au-zoo.md
 - _portfolio/il-était-une-fois-opus-2.md
 - _portfolio/il-était-une-fois-opus-6.md
