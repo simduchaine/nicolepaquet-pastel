@@ -10,9 +10,10 @@ metadata:
   support: Toile
   type: Acrylique
 categorie: personnages
+published: false
 
 ---
-120 $ encadré
+90 $ encadré
 
 Sur la grève, je me promène.  
 Roche après roche, je pose le pied.  
