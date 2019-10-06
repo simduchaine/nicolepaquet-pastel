@@ -55,10 +55,10 @@ fields:
   name: categorie
   default: 
 pages:
+- _portfolio/Big Head.md
 - _portfolio/lady-tourmaline.md
 - _portfolio/hatali-nez-navajo.md
 - _portfolio/a-young-yakima.md
-- _portfolio/Big Head.md
 - _portfolio/bernard.md
 - _portfolio/anne-marie-1.md
 - _portfolio/anne-marie.md
