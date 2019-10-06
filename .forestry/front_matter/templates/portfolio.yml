@@ -55,6 +55,7 @@ fields:
   name: categorie
   default: 
 pages:
+- _portfolio/bernard.md
 - _portfolio/anne-marie-1.md
 - _portfolio/anne-marie.md
 - _portfolio/noël-à-squatec.md
@@ -105,7 +106,6 @@ pages:
 - _portfolio/texto.md
 - _portfolio/meggy-1.md
 - _portfolio/stéphane.md
-- _portfolio/bernard.md
 - _portfolio/un-regard-de-claude.md
 - _portfolio/simon-2.md
 - _portfolio/alain.md
