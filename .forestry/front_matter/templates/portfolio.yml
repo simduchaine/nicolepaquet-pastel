@@ -55,6 +55,7 @@ fields:
   name: categorie
   default: 
 pages:
+- _portfolio/anne-marie.md
 - _portfolio/noël-à-squatec.md
 - _portfolio/sous-la-loupe.md
 - _portfolio/face-à-la-vie.md
@@ -135,7 +136,6 @@ pages:
 - _portfolio/émilie.md
 - _portfolio/on-danse.md
 - _portfolio/jessica.md
-- _portfolio/anne-marie.md
 - _portfolio/stella.md
 - _portfolio/jean-marie.md
 - _portfolio/julie.md
