@@ -55,6 +55,7 @@ fields:
   name: categorie
   default: 
 pages:
+- _portfolio/sous-la-loupe.md
 - _portfolio/face-à-la-vie.md
 - _portfolio/sitting-bear-arikara-1.md
 - _portfolio/un-indien-nespilim.md
@@ -149,7 +150,6 @@ pages:
 - _portfolio/coa-coa.md
 - _portfolio/arbres-au-printemps.md
 - _portfolio/claude-mon-amour.md
-- _portfolio/sous-la-loupe.md
 - _portfolio/crystel-au-naturel.md
 - _portfolio/espérance.md
 - _portfolio/un-chef-navajo.md
