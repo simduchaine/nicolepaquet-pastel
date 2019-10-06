@@ -55,6 +55,7 @@ fields:
   name: categorie
   default: 
 pages:
+- _portfolio/Porcupine - Cheyenne.md
 - _portfolio/Big Head.md
 - _portfolio/lady-tourmaline.md
 - _portfolio/hatali-nez-navajo.md
@@ -86,7 +87,6 @@ pages:
 - _portfolio/mona-frida.md
 - _portfolio/doris-day.md
 - _portfolio/lady-tourmaline-1.md
-- _portfolio/Porcupine - Cheyenne.md
 - _portfolio/beethoven.md
 - _portfolio/la-fée-des-étoiles.md
 - _portfolio/le-premier-noël-de-gustave.md
