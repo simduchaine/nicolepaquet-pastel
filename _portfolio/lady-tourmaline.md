@@ -10,7 +10,6 @@ metadata:
   support: Carton Mi-Teintes Touch
   type: Pastel sec
 categorie: personnages
-published: false
 
 ---
 À vendre. 300 $ encadré.
