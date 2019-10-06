@@ -12,6 +12,6 @@ metadata:
 categorie: personnages
 
 ---
-À vendre. 350 $ encadré.
+À vendre. 300 $ encadré.
 
 « Lady Tourmaline » a révélé ses mystères au Symposium de peinture de Boischatel les 25 et 26 mai 2019. (Canada)
