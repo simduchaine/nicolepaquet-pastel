@@ -3,7 +3,7 @@ identifier: portfolio
 layout: single-portfolio
 title: Chat O'Ween
 image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1571761698/DSC04475_1_o5kpbj.jpg
-date: 2019-10-03 00:00:00 -0400
+date: 2019-09-30 00:00:00 -0400
 metadata:
   year: 2018-10-01 00:00:00 -0400
   dimensions: ''
