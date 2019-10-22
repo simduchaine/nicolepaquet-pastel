@@ -16,10 +16,12 @@ Sir Hall O'Ween est un personnage de ma vidéo Halloween 2019. Toute ressemblanc
 
 J'ai créé cette vidéo avec mes portraits au pastel, soit Sir Hall O'Ween, Miss Ween, Cloclo, Miss Citrouille et Chat O'Ween. J'ai ajouté des effets et du bruitage à l'aide des applications Pixaloop et iMovie.
 
-Vous pouvez aussi suivre mes réalisations au pastel, au fusain, à l'acrylique ou numérique ici : 
+Vous pouvez aussi suivre mes réalisations au pastel, au fusain, à l'acrylique ou numérique ici :
 
-Instagram : [https://www.instagram.com/paq_croquis](https://www.instagram.com/paq_croquis "https://www.instagram.com/paq_croquis") 
+Instagram : https://www.instagram.com/paq_croquis
 
 Instagram : https://www.instagram.com/nicolepaquetportrait
 
-FB : [https://www.facebook.com/nicolepaquet](https://www.facebook.com/nicolepaquet... "https://www.facebook.com/nicolepaquet...")pastel
+FB : https://www.facebook.com/nicolepaquetpastel
+
+ 
