@@ -55,6 +55,7 @@ fields:
   name: categorie
   default: 
 pages:
+- _portfolio/chat-o-ween.md
 - _portfolio/miss-ween.md
 - _portfolio/sir-hall-o-ween.md
 - _portfolio/cloclo.md
@@ -63,7 +64,6 @@ pages:
 - _portfolio/piopio-maksmaks.md
 - _portfolio/joyeuse-halloween.md
 - _portfolio/miss-citrouille.md
-- _portfolio/chat-o-ween.md
 - _portfolio/face-à-la-vie.md
 - _portfolio/Porcupine - Cheyenne.md
 - _portfolio/Big Head.md
