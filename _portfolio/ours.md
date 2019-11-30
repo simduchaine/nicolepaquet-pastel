@@ -9,6 +9,6 @@ metadata:
   dimensions: ''
   support: ''
   type: Création numérique
-categorie: ''
+categorie: animaux
 
 ---
