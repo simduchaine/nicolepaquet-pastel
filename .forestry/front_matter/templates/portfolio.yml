@@ -55,6 +55,7 @@ fields:
   name: categorie
   default: 
 pages:
+- _portfolio/renard-roux.md
 - _portfolio/joyeuse-halloween.md
 - _portfolio/miss-citrouille.md
 - _portfolio/chat-o-ween.md
