@@ -10,7 +10,6 @@ metadata:
   support: ''
   type: Création numérique
 categorie: animaux
-published: false
 
 ---
 Fichier à vendre
