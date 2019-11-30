@@ -55,8 +55,8 @@ fields:
   name: categorie
   default: 
 pages:
-- _portfolio/ours.md
 - _portfolio/grand-duc-d-amérique.md
+- _portfolio/ours.md
 - _portfolio/renard-roux.md
 - _portfolio/la-baie-de-tadoussac.md
 - _portfolio/joyeuse-halloween.md
