@@ -10,6 +10,5 @@ metadata:
   support: ''
   type: ''
 categorie: paysages
-published: false
 
 ---
