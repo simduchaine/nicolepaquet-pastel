@@ -10,6 +10,5 @@ metadata:
   support: ''
   type: ''
 categorie: personnages
-published: false
 
 ---
