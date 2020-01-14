@@ -40,6 +40,11 @@ formations:
   teacher: Pit Graf
   place: www.apprendre-a-dessiner.org
 evenements:
+- name: Exposition collective sous le thème "Mon soleil"
+  group: Société artistique et culturelle de Québec
+  place: Bibliothèque Roger-Lemelin, Québec.
+  date_from: 02/2020
+  date_till: 02/2020
 - name: Pastel Toujours 2020
   group: Société de Pastel de l'Est du Canada
   place: Musée Pierre-Boucher, Trois-Rivières (Québec. Canada.
