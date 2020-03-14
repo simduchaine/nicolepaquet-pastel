@@ -16,4 +16,4 @@ Première belle journée du printemps. Petite fille endimanchée. Chapeau fleuri
 
 À vendre. 200 $ encadré.
 
-(Composition inspirée d'une photo, sous licence CC0 dans Pixabay, de Shirley Temple, actrice américaine (1928-2014), alors qu'elle était enfant.)
+(Composition inspirée en partie d'une photo, sous licence CC0 dans Pixabay, de Shirley Temple, actrice américaine (1928-2014), alors qu'elle était enfant.)
