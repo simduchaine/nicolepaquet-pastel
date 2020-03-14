@@ -12,26 +12,26 @@ tags:
 comments: false
 
 ---
-Première belle journée du printemps. 
+Première belle journée du printemps.
 
-Petite fille endimanchée. 
+Petite fille endimanchée.
 
-Chapeau fleuri. 
+Chapeau fleuri.
 
-Cheveux bouclés au vent. 
+Cheveux bouclés au vent.
 
-Corde à danser. 
+Corde à danser.
 
-"Fais attention de ne pas te salir!". 
+"Fais attention de ne pas te salir!".
 
-Retour à la maison. 
+Retour à la maison.
 
-Genou écorché. 
+Genou écorché.
 
-Égratignure sur le soulier blanc. 
+Égratignure sur le soulier blanc.
 
 Ouf! La jolie robe est intacte!
 
 Texte et portrait au pastel de Nicole Paquet. 2020
 
-(Composition inspirée d'une photo, sous licence CC0 dans Pixabay, de Shirley Temple, actrice américaine (1928-2014), alors qu'elle était enfant.)
+(Composition inspirée en partie d'une photo, sous licence CC0 dans Pixabay, de Shirley Temple, actrice américaine (1928-2014), alors qu'elle était enfant.)
