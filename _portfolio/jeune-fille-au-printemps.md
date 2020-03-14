@@ -10,7 +10,6 @@ metadata:
   support: Papier Canson
   type: Pastel sec Holbein
 categorie: personnages
-published: false
 
 ---
 Première belle journée du printemps. Petite fille endimanchée. Chapeau fleuri. Cheveux bouclés au vent. Corde à danser. "Fais attention de ne pas te salir!". Retour à la maison. Genou écorché. Égratignure sur le soulier blanc. Ouf! La jolie robe est intacte!
