@@ -1,6 +1,6 @@
 ---
 title: Jeune fille au printemps
-date: 2020-03-14 00:00:00 -0400
+date: 2020-03-13 00:00:00 -0400
 lead: ''
 image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1584200685/Jeune_fille_au_printemps_pastel_2020_q8tbn2.jpg
 categories: Nouveautés
