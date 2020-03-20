@@ -34,4 +34,4 @@ Ouf! La jolie robe est intacte!
 
 Texte et portrait au pastel de Nicole Paquet. 2020
 
-(Composition inspirée en partie d'une photo, sous licence CC0 dans Pixabay, de Shirley Temple, actrice américaine (1928-2014), alors qu'elle était enfant.)
+(Jeune fille au printemps est un personnage que j'ai créé en 2018 et que j'ai retravaillé en 2020. La composition est inspirée, en partie, d'une photo, sous licence CC0 dans Pixabay, de Shirley Temple, actrice américaine (1928-2014), alors qu'elle était enfant.)
