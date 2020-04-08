@@ -2,7 +2,7 @@
 title: Jaquette bleue
 date: 2019-07-02 00:00:00 -0400
 lead: ''
-image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1564080476/Jaquette%20bleue.jpg
+image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1586371199/Jaquette_bleue_dessin_num%C3%A9rique_mxp6mm.jpg
 categories: Pensées
 tags:
 - "#digital"
