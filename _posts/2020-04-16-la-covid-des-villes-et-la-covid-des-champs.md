@@ -1,6 +1,6 @@
 ---
 title: La Covid des villes et la Covid des champs
-date: 2020-04-11 00:00:00 -0400
+date: 2020-04-10 00:00:00 -0400
 lead: ''
 image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1586647657/La_Covid_v6lno7.jpg
 categories: Nouveautés
