@@ -21,7 +21,6 @@ comments: false
 LA COVID DES VILLES ET LA COVID DES CHAMPS  
 (Fable revisitée de la fable"Le Rat de ville et le Rat des champs", de Jean de La Fontaine)
 
-  
 Il était une fois la Covid des villes  
 Et la Covid des champs,  
 Qui, d'une façon fort avide,  
@@ -39,7 +38,7 @@ et Arruda, le docteur, sortirent l’artillerie.
 "Que la Covid des villes détale! »,  
 Proclamèrent les deux amis.  
 Pendant le temps qu’il faille pour qu'elle se retire,  
-La Covid des campagnes devint comme un idiot.  
+La Covid des champs devint comme un idiot.  
 Car le campagnard de dire :  
 « Ici, tu ne trouveras pas ton rôt.  
 C'est assez", dit le rustique.  
