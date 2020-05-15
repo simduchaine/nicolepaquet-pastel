@@ -1,0 +1,32 @@
+---
+title: Un masque. Un couvre-visage
+date: 2020-05-15 00:00:00 -0400
+lead: ''
+image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1589566704/Un_masque._Un_couvre-visage_wicsf1.jpg
+categories: Nouveautés
+tags:
+- masque
+- couvre-visage
+- coronavirus
+- covid19
+- nicole paquet artiste
+- digital painting
+- art numérique
+- écriture
+- jeune enfant
+comments: false
+
+---
+Un masque. Un couvre-visage.  
+Une protection de plus à la liste de tout jeune en devenir!  
+Mitaines, gants, tuque, cache-cou, cagoule en hiver.  
+Casquette, chapeau, lunettes polarisées anti-UV, crème solaire, chasse-moustiques, imperméable en été.  
+Purell, vaccins, pompe, bracelet MedicAlert et EpiPen.  
+Siège d’auto et ceinture de sécurité dans l’auto.  
+Casque de vélo et équipements de protection pour le hockey, le soccer...  
+Veste de flottaison sur les plans d’eau.  
+Anti-virus et mots de passe sur ordi, cell, tablette...  
+Et contraception et condom pour les relations sexuelles sécuritaires.... 😉
+
+Merci au petit Lucas, mon modèle qui se cache sous le masque. 😘  
+Illustration numérique
