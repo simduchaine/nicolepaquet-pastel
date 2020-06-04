@@ -40,6 +40,11 @@ formations:
   teacher: Pit Graf
   place: www.apprendre-a-dessiner.org
 evenements:
+- name: Exposition virtuelle L'Art du temps
+  group: Société artistique et culturelle de Québec
+  place: " www.facebook.com/SACQUEBEC/  ou  www.instagram.com/soc.artistique.quebec"
+  date_from: 04/2020
+  date_till: 05/2020
 - name: Exposition collective sous le thème "Mon soleil"
   group: Société artistique et culturelle de Québec
   place: Bibliothèque Roger-Lemelin, Québec.
