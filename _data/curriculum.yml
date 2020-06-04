@@ -40,6 +40,11 @@ formations:
   teacher: Pit Graf
   place: www.apprendre-a-dessiner.org
 evenements:
+- name: Exposition Le Mot de Tasse
+  group: Exposition collective de la SACQ
+  place: Librairie-Café, 1394 Chemin Saint-Foy, Qc.
+  date_from: 06/2020
+  date_till: 09/2020
 - name: Exposition virtuelle L'Art du temps
   group: Société artistique et culturelle de Québec
   place: " www.facebook.com/SACQUEBEC/  ou Instagram : soc.artistique.quebec"
