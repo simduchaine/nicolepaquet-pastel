@@ -42,7 +42,7 @@ formations:
 evenements:
 - name: Exposition Le Mot de Tasse
   group: Exposition collective de la SACQ
-  place: Librairie-Café, 1394 Chemin Saint-Foy, Qc.
+  place: Librairie-Café, 1394 Chemin Saint-Foy, Québec
   date_from: 06/2020
   date_till: 09/2020
 - name: Exposition virtuelle L'Art du temps
