@@ -40,6 +40,11 @@ formations:
   teacher: Pit Graf
   place: www.apprendre-a-dessiner.org
 evenements:
+- name: Pastel Toujours 2020
+  group: Société de Pastel de l'Est du Canada
+  place: Musée Pierre-Boucher, Trois-Rivières, QC
+  date_from: 06/2020
+  date_till: 10/2020
 - name: Off Galerie/SACQ
   group: Exposition collective d'artistes de la SACQ
   place: 113, rue Saint-Paul, Québec
@@ -60,11 +65,6 @@ evenements:
   place: Bibliothèque Roger-Lemelin, Québec.
   date_from: 02/2020
   date_till: 02/2020
-- name: Pastel Toujours 2020
-  group: Société de Pastel de l'Est du Canada
-  place: Musée Pierre-Boucher, Trois-Rivières, QC
-  date_from: 06/2020
-  date_till: 10/2020
 - name: Théâtre Beaumont-St-Michel.
   group: Exposition collective de 6 artistes coordonnée par Linda Lee
   place: 'Théâtre Beaumont-St-Michel, Québec. '
