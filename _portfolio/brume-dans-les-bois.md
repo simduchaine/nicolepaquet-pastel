@@ -9,7 +9,7 @@ metadata:
   dimensions: 16 X 20 po
   support: Toile
   type: Acrylique
-categorie: ''
+categorie: paysages
 published: false
 
 ---
