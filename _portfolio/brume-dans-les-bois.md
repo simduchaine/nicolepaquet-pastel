@@ -12,10 +12,10 @@ metadata:
 categorie: paysages
 
 ---
+VENDU
+
 Brume dans les bois
 
 Acrylique, 16 X 20 po, 2020.
 
 Cette oeuvre, ainsi que celles de onze autres artistes de la Société artistique et culturelle de Québec, est exposée et à vendre à la Off Galerie, au 113, rue Saint-Paul, à Québec, jusqu'au 27 août 2020
-
-200 $ non encadré
