@@ -10,7 +10,6 @@ metadata:
   support: Toile
   type: Acrylique
 categorie: paysages
-published: false
 
 ---
 VENDU
