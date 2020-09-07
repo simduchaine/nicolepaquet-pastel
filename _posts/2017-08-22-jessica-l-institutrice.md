@@ -18,7 +18,7 @@ nous projette plus loin,
 
 lever les yeux n’est point distraction.
 
-Car plonger dans un livre,
+Car se plonger dans un livre,
 
 c’est aussi plonger son regard au loin,
 
