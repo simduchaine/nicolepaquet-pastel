@@ -10,7 +10,6 @@ metadata:
   support: Toile
   type: Technique mixte
 categorie: personnages
-published: false
 
 ---
 Représentation de la déesse de l’agriculture et des moissons dans la mythologie grecque.
