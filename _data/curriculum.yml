@@ -40,6 +40,11 @@ formations:
   teacher: Pit Graf
   place: www.apprendre-a-dessiner.org
 evenements:
+- name: 'Galerie Laurier '
+  group: Société artistique et culturelle de Québec
+  place: Centre commercial Laurier Québec
+  date_from: 10/2020
+  date_till: 12/2020
 - name: Pastel Toujours 2020
   group: Société de Pastel de l'Est du Canada
   place: Musée Pierre-Boucher, Trois-Rivières, QC
