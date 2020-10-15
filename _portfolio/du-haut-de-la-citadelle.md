@@ -10,7 +10,6 @@ metadata:
   support: PastelCard
   type: Pastel sec Holbein, Sennelier
 categorie: paysages
-published: false
 
 ---
 À vendre. 140 $ encadré
