@@ -10,7 +10,6 @@ metadata:
   support: Papier Canson
   type: Pastel sec Holbein
 categorie: animaux
-published: false
 
 ---
 À vendre. 250 $ encadré.
