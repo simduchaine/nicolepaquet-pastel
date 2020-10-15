@@ -1,7 +1,7 @@
 ---
 identifier: portfolio
 layout: single-portfolio
-title: Distanciation
+title: Du haut de la citadelle
 date: 2017-01-06T18:19:52.000+00:00
 image: https://res.cloudinary.com/npaquet-pastel/image/upload/v1544640018/IMG_2122-3.jpg
 metadata:
