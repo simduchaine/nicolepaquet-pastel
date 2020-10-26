@@ -40,6 +40,11 @@ formations:
   teacher: Pit Graf
   place: www.apprendre-a-dessiner.org
 evenements:
+- name: Off Galerie
+  group: SACQ
+  place: 113, rue Saint-Paul, Québec
+  date_from: 11/2020
+  date_till: 01/2020
 - name: 'Galerie Laurier '
   group: Société artistique et culturelle de Québec
   place: Centre commercial Laurier Québec
