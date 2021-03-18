@@ -40,6 +40,16 @@ formations:
   teacher: Pit Graf
   place: www.apprendre-a-dessiner.org
 evenements:
+- name: ''
+  group: ''
+  place: ''
+  date_from: 
+  date_till: 
+- name: Les pastellistes 2020 - 2021 - 25e exposition internationale
+  group: PSEC
+  place: En ligne
+  date_from: 11/2020
+  date_till: 03/2021
 - name: Off Galerie
   group: SACQ
   place: 113, rue Saint-Paul, Québec
