@@ -9,7 +9,7 @@ metadata:
   dimensions: 13 X 11 po
   support: ''
   type: Pastel sec
-categorie: ''
+categorie: portraits
 published: false
 
 ---
